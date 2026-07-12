@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038528433358328263",
+    "created_at": "2026-03-30T08:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038528433358328263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738375202168532992",
+          "start": 3,
+          "username": "Wanzi5450"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038528433358328263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038194503962722707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wanzi5450: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038528433358328263",
+        "created_at": "2026-03-30T08:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038528433358328263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738375202168532992",
+              "start": 3,
+              "username": "Wanzi5450"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038528433358328263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038194503962722707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wanzi5450: 你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738375202168532992",
+        "conversation_id": "2038194503962722707",
+        "created_at": "2026-03-29T10:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038194503962722707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038194503962722707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3964,
+          "like_count": 127,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你继续烂在床上继续脑雾继续吸烟继续自残继续让所有人失望，最后一个人死在出租屋里尸体凉了都没人收，因为你早就把所有能爱你的人耗光了、推开了、毁掉了。你注定孤独终老、烂成一滩没人管的垃圾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 142,
+          "like_count": 14231,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 809
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T01:45:30.000Z",
+        "description": "叫我丸子就好",
+        "id": "1738375202168532992",
+        "name": "マルコ",
+        "pinned_tweet_id": "2038194838785732817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025519980977270784/8ZuZMmmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 281,
+          "like_count": 10279,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 2542
+        },
+        "username": "Wanzi5450",
+        "verified": false
+      }
+    ]
+  }
+}

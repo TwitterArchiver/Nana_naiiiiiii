@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038321873612849152",
+        "3_2038321873252208640"
+      ],
+      "media_source_tweet_id": [
+        "2038321876687262094",
+        "2038321876687262094"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038325695676657957",
+    "created_at": "2026-03-29T18:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038325695676657957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1228546301572173825",
+          "start": 3,
+          "username": "AAAAAMTxT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TsfGvbVvnu",
+          "end": 67,
+          "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+          "media_key": "3_2038321873612849152",
+          "start": 44,
+          "url": "https://t.co/TsfGvbVvnu"
+        },
+        {
+          "display_url": "pic.x.com/TsfGvbVvnu",
+          "end": 67,
+          "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+          "media_key": "3_2038321873252208640",
+          "start": 44,
+          "url": "https://t.co/TsfGvbVvnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038325695676657957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038321876687262094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AAAAAMTxT: 无奖竞猜：\n星星准备了什么注射液并已开放静脉通道准备注射 https://t.co/TsfGvbVvnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038321873612849152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmS8c6aQAAGZhf.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2038321873252208640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEmS8bkbUAA9PyW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038321873612849152",
+            "3_2038321873252208640"
+          ],
+          "media_source_tweet_id": [
+            "2038321876687262094",
+            "2038321876687262094"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038325695676657957",
+        "created_at": "2026-03-29T18:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038325695676657957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1228546301572173825",
+              "start": 3,
+              "username": "AAAAAMTxT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsfGvbVvnu",
+              "end": 67,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+              "media_key": "3_2038321873612849152",
+              "start": 44,
+              "url": "https://t.co/TsfGvbVvnu"
+            },
+            {
+              "display_url": "pic.x.com/TsfGvbVvnu",
+              "end": 67,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+              "media_key": "3_2038321873252208640",
+              "start": 44,
+              "url": "https://t.co/TsfGvbVvnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038325695676657957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038321876687262094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AAAAAMTxT: 无奖竞猜：\n星星准备了什么注射液并已开放静脉通道准备注射 https://t.co/TsfGvbVvnu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038321873612849152",
+            "3_2038321873252208640"
+          ]
+        },
+        "author_id": "1228546301572173825",
+        "conversation_id": "2038321876687262094",
+        "created_at": "2026-03-29T18:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038321876687262094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TsfGvbVvnu",
+              "end": 52,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+              "media_key": "3_2038321873612849152",
+              "start": 29,
+              "url": "https://t.co/TsfGvbVvnu"
+            },
+            {
+              "display_url": "pic.x.com/TsfGvbVvnu",
+              "end": 52,
+              "expanded_url": "https://x.com/AAAAAMTxT/status/2038321876687262094/photo/1",
+              "media_key": "3_2038321873252208640",
+              "start": 29,
+              "url": "https://t.co/TsfGvbVvnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038321876687262094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "无奖竞猜：\n星星准备了什么注射液并已开放静脉通道准备注射 https://t.co/TsfGvbVvnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 142,
+          "like_count": 14182,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 798
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的堕落天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 793,
+          "like_count": 30243,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 5869
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

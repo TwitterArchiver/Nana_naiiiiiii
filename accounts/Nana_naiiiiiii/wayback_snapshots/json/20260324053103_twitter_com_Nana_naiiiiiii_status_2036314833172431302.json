@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036314833172431302",
+    "created_at": "2026-03-24T05:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T06:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036314833172431302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036314833172431302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036221145171857456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 老钟你就看着整吧，以为禁掉单方禁了复方就能限制青少年他们就会天天向上重新做人从此走向飞黄腾达的健全人生了，实际上是什么都买不到了，他们只能开始买一些垃圾药来作践自己了，我说最近为什么感康这么火都在吃这傻卵药有啥好吃的，我现在一切都明白了，我悟了，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036314833172431302",
+        "created_at": "2026-03-24T05:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T06:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036314833172431302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036314833172431302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036221145171857456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 老钟你就看着整吧，以为禁掉单方禁了复方就能限制青少年他们就会天天向上重新做人从此走向飞黄腾达的健全人生了，实际上是什么都买不到了，他们只能开始买一些垃圾药来作践自己了，我说最近为什么感康这么火都在吃这傻卵药有啥好吃的，我现在一切都明白了，我悟了，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "2036221145171857456",
+        "created_at": "2026-03-23T23:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T00:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036221145171857456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036221145171857456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老钟你就看着整吧，以为禁掉单方禁了复方就能限制青少年他们就会天天向上重新做人从此走向飞黄腾达的健全人生了，实际上是什么都买不到了，他们只能开始买一些垃圾药来作践自己了，我说最近为什么感康这么火都在吃这傻卵药有啥好吃的，我现在一切都明白了，我悟了，我了然了一切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 126,
+          "like_count": 13101,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 692
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️@CoFfffEeeeE1 @Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树🌲_MaruyamaTachiki",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668,
+          "following_count": 2290,
+          "like_count": 116285,
+          "listed_count": 9,
+          "media_count": 1895,
+          "tweet_count": 19239
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

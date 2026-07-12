@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2035677454308954379",
+    "created_at": "2026-03-23T14:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036085825587544533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920893752446775298",
+          "start": 0,
+          "username": "Cinderella_zb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036085825587544533",
+    "in_reply_to_user_id": "1920893752446775298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035808820296073403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cinderella_zb 我上次吃还真是刚打完减肥针吃的 难受的我三天没下床"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2035677454308954379",
+        "created_at": "2026-03-23T14:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036085825587544533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920893752446775298",
+              "start": 0,
+              "username": "Cinderella_zb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036085825587544533",
+        "in_reply_to_user_id": "1920893752446775298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035808820296073403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cinderella_zb 我上次吃还真是刚打完减肥针吃的 难受的我三天没下床"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920893752446775298",
+        "conversation_id": "2035677454308954379",
+        "created_at": "2026-03-22T20:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035808820296073403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035808820296073403",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035677454308954379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 我第一次也是o的这个……差点没给钱吐死其实这才是真正的减肥药，每次o都有三天吃不下饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 122,
+          "like_count": 12668,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 664
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T17:29:07.000Z",
+        "description": "＝阿幸｜抑郁焦虑ed｜不知道怎么说，恨自己的同时应该很多人一起恨我，但是这里是网络，你把我拉黑后我就死了，所以善用拉黑谢谢喵",
+        "id": "1920893752446775298",
+        "name": "魔法啊停下时间吧",
+        "pinned_tweet_id": "1921695022094672125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035418481202692096/hwSU-Q-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 40,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "Cinderella_zb",
+        "verified": false
+      }
+    ]
+  }
+}

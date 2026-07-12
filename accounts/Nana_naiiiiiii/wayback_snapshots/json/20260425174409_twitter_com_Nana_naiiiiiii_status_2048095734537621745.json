@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2048094570278433133",
+    "created_at": "2026-04-25T17:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048095734537621745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048095734537621745",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048094570278433133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 我想你😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2048094570278433133",
+        "created_at": "2026-04-25T17:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048095734537621745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048095734537621745",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048094570278433133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 我想你😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2048094570278433133",
+        "created_at": "2026-04-25T17:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048094570278433133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048094570278433133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂时退网几天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 196,
+          "like_count": 15693,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1056
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "转生成功的星星天使/互联网的堕天使/白骑士综合征？/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念@AAAAAMTxT /❤️@ayameeii/互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "ayameeii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/pN6Lr104tH"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "星星天使糖（8964号小恶魔）",
+        "pinned_tweet_id": "2044847486486102276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044128703157014528/1Je2ys0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 152,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/pN6Lr104tH",
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

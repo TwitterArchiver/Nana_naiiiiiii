@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2033820664235495696",
+    "created_at": "2026-03-18T01:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T02:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034075459508679090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003149753148932096",
+          "start": 0,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034075459508679090",
+    "in_reply_to_user_id": "2003149753148932096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034075324724699157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruruko_oo 感谢老公！爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2033820664235495696",
+        "created_at": "2026-03-18T01:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034075459508679090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003149753148932096",
+              "start": 0,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034075459508679090",
+        "in_reply_to_user_id": "2003149753148932096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034075324724699157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruruko_oo 感谢老公！爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003149753148932096",
+        "conversation_id": "2033820664235495696",
+        "created_at": "2026-03-18T01:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T02:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034075324724699157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034075324724699157",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033820664235495696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 生日快乐(*⌒∇⌒*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 111,
+          "like_count": 11926,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 586
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "ruruko 08 纯绿好友位🚪80/120/520/1314 日语大部分是机翻。 不非绿线下前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2012381578379633007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 188,
+          "like_count": 1831,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 821
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

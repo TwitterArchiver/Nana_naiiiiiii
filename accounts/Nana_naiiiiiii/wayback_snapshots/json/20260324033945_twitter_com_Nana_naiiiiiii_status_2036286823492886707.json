@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036286803666415616"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036286823492886707",
+    "created_at": "2026-03-24T03:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036286823492886707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Am4DE0rJtF",
+          "end": 77,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2036286823492886707/photo/1",
+          "media_key": "3_2036286803666415616",
+          "start": 54,
+          "url": "https://t.co/Am4DE0rJtF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036286823492886707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美金刚超级无敌badtrip 看到习近平和孩子王在舞台上唱歌 又看到孩子王带我一起玩 以为自己死了到天堂了 https://t.co/Am4DE0rJtF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036286803666415616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEJYDylaMAAibAl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036286803666415616"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036286823492886707",
+        "created_at": "2026-03-24T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036286823492886707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Am4DE0rJtF",
+              "end": 77,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2036286823492886707/photo/1",
+              "media_key": "3_2036286803666415616",
+              "start": 54,
+              "url": "https://t.co/Am4DE0rJtF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036286823492886707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚超级无敌badtrip 看到习近平和孩子王在舞台上唱歌 又看到孩子王带我一起玩 以为自己死了到天堂了 https://t.co/Am4DE0rJtF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 126,
+          "like_count": 12995,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 689
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

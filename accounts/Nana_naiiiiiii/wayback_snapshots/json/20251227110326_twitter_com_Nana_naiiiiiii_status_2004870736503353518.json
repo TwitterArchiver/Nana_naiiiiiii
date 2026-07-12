@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2004749396513259899",
+    "created_at": "2025-12-27T11:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004870736503353518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811812787058016257",
+          "start": 0,
+          "username": "kanakosama0223f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004870736503353518",
+    "in_reply_to_user_id": "1811812787058016257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004749396513259899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanakosama0223f 收拾的特别萌呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 53038,
+        "height": 1920,
+        "media_key": "13_2004749205383118849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2004749205383118849/img/yCTGVFjlsVIbzvwN.jpg",
+        "public_metrics": {
+          "view_count": 332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004749205383118849/vid/avc1/720x1280/MF7M0GcBWQqIhQoW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2004749205383118849/pl/t4Iy0EtP3tgANUXx.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004749205383118849/vid/avc1/480x852/D5qHMjqUioJYyyHA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004749205383118849/vid/avc1/1080x1920/CQrYa4py39t10fen.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2004749205383118849/vid/avc1/320x568/GRKNDDNKA67lXovx.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2004749396513259899",
+        "created_at": "2025-12-27T11:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004870736503353518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811812787058016257",
+              "start": 0,
+              "username": "kanakosama0223f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004870736503353518",
+        "in_reply_to_user_id": "1811812787058016257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004749396513259899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanakosama0223f 收拾的特别萌呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2004749205383118849"
+          ]
+        },
+        "author_id": "1811812787058016257",
+        "conversation_id": "2004749396513259899",
+        "created_at": "2025-12-27T03:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004749396513259899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuSEltWYwu",
+              "end": 23,
+              "expanded_url": "https://x.com/kanakosama0223f/status/2004749396513259899/video/1",
+              "media_key": "13_2004749205383118849",
+              "start": 0,
+              "url": "https://t.co/zuSEltWYwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004749396513259899",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 891,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zuSEltWYwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 33,
+          "like_count": 2779,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T17:20:27.000Z",
+        "description": "INTP 🐾07 🫧IG：kanako_0223ff TikTok：kanako0223ff 抖音：kanakosama0223 推特只有两个小号➡️@kanakoshine0223 @kanako0223ff 看到用我头像和名字的账号请不要相信 都是假冒的 门槛288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 75,
+                "username": "kanakoshine0223"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "kanako0223ff"
+              }
+            ]
+          }
+        },
+        "id": "1811812787058016257",
+        "location": "地狱🪦",
+        "name": "草莓水烟枪🍓",
+        "pinned_tweet_id": "1901264285399122208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004723067512115201/9m669Wf5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14409,
+          "following_count": 96,
+          "like_count": 6518,
+          "listed_count": 21,
+          "media_count": 744,
+          "tweet_count": 4373
+        },
+        "username": "kanakosama0223f",
+        "verified": false
+      }
+    ]
+  }
+}

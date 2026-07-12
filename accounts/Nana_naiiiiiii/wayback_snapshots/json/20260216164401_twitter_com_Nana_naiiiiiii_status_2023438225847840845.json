@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2023250965340799340",
+    "created_at": "2026-02-16T16:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023438225847840845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1789221928823336960",
+          "start": 0,
+          "username": "AAnnalinanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023438225847840845",
+    "in_reply_to_user_id": "1789221928823336960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023250965340799340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AAnnalinanna 这大奶子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2023250959586205696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQIBzGaoAAdbYA.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2023250965340799340",
+        "created_at": "2026-02-16T16:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023438225847840845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1789221928823336960",
+              "start": 0,
+              "username": "AAnnalinanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023438225847840845",
+        "in_reply_to_user_id": "1789221928823336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023250965340799340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AAnnalinanna 这大奶子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023250959586205696"
+          ]
+        },
+        "author_id": "1789221928823336960",
+        "conversation_id": "2023250965340799340",
+        "created_at": "2026-02-16T04:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023250965340799340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KldzySPEQ",
+              "end": 38,
+              "expanded_url": "https://x.com/AAnnalinanna/status/2023250965340799340/photo/1",
+              "media_key": "3_2023250959586205696",
+              "start": 15,
+              "url": "https://t.co/0KldzySPEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023250965340799340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 24455,
+          "like_count": 714,
+          "quote_count": 7,
+          "reply_count": 43,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家除夕快樂～\n除習快樂～ https://t.co/0KldzySPEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 62,
+          "like_count": 7974,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 288
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T09:12:17.000Z",
+        "description": "自己的家園自己捍衛！不要以為你可以永遠政治冷感、歲月靜好、安居一隅。中共對台灣的侵略野心，不會因為你的乖順而停止！中國就是敵國！這是無法否認的事實！",
+        "id": "1789221928823336960",
+        "name": "台灣魂阿安",
+        "pinned_tweet_id": "1789257831679463827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789222100622090241/q_jEJ-lA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12293,
+          "following_count": 177,
+          "like_count": 26998,
+          "listed_count": 52,
+          "media_count": 2907,
+          "tweet_count": 8862
+        },
+        "username": "AAnnalinanna",
+        "verified": false
+      }
+    ]
+  }
+}

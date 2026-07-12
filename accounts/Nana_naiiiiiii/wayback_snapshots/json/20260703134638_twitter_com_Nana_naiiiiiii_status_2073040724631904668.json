@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072925305262702592"
+      ],
+      "media_source_tweet_id": [
+        "2072925311289938328"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2073040724631904668",
+    "created_at": "2026-07-03T13:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073040724631904668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1651963225049829378",
+          "start": 3,
+          "username": "oZzU_UzZo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RoBdykITdB",
+          "end": 72,
+          "expanded_url": "https://x.com/oZzU_UzZo/status/2072925311289938328/photo/1",
+          "media_key": "3_2072925305262702592",
+          "start": 49,
+          "url": "https://t.co/RoBdykITdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073040724631904668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072925311289938328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oZzU_UzZo: 脳みその形は人が身を守る時にとるポーズに似ていることに気づきました https://t.co/RoBdykITdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2072925305262702592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSClRIaAAA_H2n.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072925305262702592"
+          ],
+          "media_source_tweet_id": [
+            "2072925311289938328"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073040724631904668",
+        "created_at": "2026-07-03T13:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073040724631904668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1651963225049829378",
+              "start": 3,
+              "username": "oZzU_UzZo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoBdykITdB",
+              "end": 72,
+              "expanded_url": "https://x.com/oZzU_UzZo/status/2072925311289938328/photo/1",
+              "media_key": "3_2072925305262702592",
+              "start": 49,
+              "url": "https://t.co/RoBdykITdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073040724631904668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072925311289938328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oZzU_UzZo: 脳みその形は人が身を守る時にとるポーズに似ていることに気づきました https://t.co/RoBdykITdB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072925305262702592"
+          ]
+        },
+        "author_id": "1651963225049829378",
+        "conversation_id": "2072925311289938328",
+        "created_at": "2026-07-03T06:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072925311289938328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoBdykITdB",
+              "end": 57,
+              "expanded_url": "https://x.com/oZzU_UzZo/status/2072925311289938328/photo/1",
+              "media_key": "3_2072925305262702592",
+              "start": 34,
+              "url": "https://t.co/RoBdykITdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072925311289938328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2108,
+          "impression_count": 554973,
+          "like_count": 34836,
+          "quote_count": 62,
+          "reply_count": 21,
+          "retweet_count": 1954
+        },
+        "reply_settings": "everyone",
+        "text": "脳みその形は人が身を守る時にとるポーズに似ていることに気づきました https://t.co/RoBdykITdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 288,
+          "like_count": 20257,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T14:55:31.000Z",
+        "description": "こわいけどカワイイ人外を描くひと skeb受付中→\n https://t.co/BpgcqENERm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@oZzU_UzZo",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@oZzU_UzZo",
+                "start": 27,
+                "url": "https://t.co/BpgcqENERm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hi1i2nnwp2wkyy…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hi1i2nnwp2wkyy5?t=cPJaFT&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/SJkH9Y3nux"
+              }
+            ]
+          }
+        },
+        "id": "1651963225049829378",
+        "location": "ご連絡はDMにお願いします",
+        "name": "犬井ねぬ",
+        "pinned_tweet_id": "2051963254117941593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915952347802701827/oCHeYLKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 120,
+          "like_count": 6666,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/SJkH9Y3nux",
+        "username": "oZzU_UzZo",
+        "verified": false
+      }
+    ]
+  }
+}

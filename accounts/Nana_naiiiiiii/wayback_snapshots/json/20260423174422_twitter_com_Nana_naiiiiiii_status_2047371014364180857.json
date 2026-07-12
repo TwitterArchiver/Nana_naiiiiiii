@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047324550824919110",
+    "created_at": "2026-04-23T17:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047371014364180857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1700766411478724608",
+          "start": 0,
+          "username": "Li13JingZe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047371014364180857",
+    "in_reply_to_user_id": "1700766411478724608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047362944292556867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li13JingZe 谢谢你哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047324550824919110",
+        "created_at": "2026-04-23T17:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047371014364180857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700766411478724608",
+              "start": 0,
+              "username": "Li13JingZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047371014364180857",
+        "in_reply_to_user_id": "1700766411478724608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047362944292556867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li13JingZe 谢谢你哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700766411478724608",
+        "conversation_id": "2047324550824919110",
+        "created_at": "2026-04-23T17:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047362944292556867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047362944292556867",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047324550824919110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 🙂我也不知道咋劝你，你要对自己好点啊，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 168,
+          "like_count": 15329,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 998
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T07:01:52.000Z",
+        "description": "like stockinging\nall body black",
+        "id": "1700766411478724608",
+        "name": "李京泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700766522757771264/sPd_tGnD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 651,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 278
+        },
+        "username": "Li13JingZe",
+        "verified": false
+      }
+    ]
+  }
+}

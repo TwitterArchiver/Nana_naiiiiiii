@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2064697190476611841",
+    "created_at": "2026-06-10T22:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T23:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064832869898604778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954524887454011392",
+          "start": 0,
+          "username": "thexiexx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064832869898604778",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064727282191847569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thexiexx 谢谢宝宝😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2064697190476611841",
+        "created_at": "2026-06-10T22:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T23:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064832869898604778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064832869898604778",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064727282191847569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 谢谢宝宝😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2064697190476611841",
+        "created_at": "2026-06-10T15:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064727282191847569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064727282191847569",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064697190476611841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 恭喜呀宝宝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 273,
+          "like_count": 18243,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1373
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 434,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2573
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

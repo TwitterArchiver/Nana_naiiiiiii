@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036087583139340472",
+    "created_at": "2026-03-23T14:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036087583139340472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mianxue525/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/mianxue525/status/2036048641908220412",
+          "start": 18,
+          "url": "https://t.co/nRWvziBNHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036087583139340472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036048641908220412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我好幸运 麦记糖水真的很好喝！ https://t.co/nRWvziBNHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 918,
+        "media_key": "3_2036048628092207104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEF_cJbbgAAzeWc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036087583139340472",
+        "created_at": "2026-03-23T14:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036087583139340472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mianxue525/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mianxue525/status/2036048641908220412",
+              "start": 18,
+              "url": "https://t.co/nRWvziBNHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036087583139340472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036048641908220412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我好幸运 麦记糖水真的很好喝！ https://t.co/nRWvziBNHp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036048628092207104"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2035626433876537453",
+        "created_at": "2026-03-23T11:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036048641908220412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2ZPZpCDwa",
+              "end": 23,
+              "expanded_url": "https://x.com/MianXue525/status/2036048641908220412/photo/1",
+              "media_key": "3_2036048628092207104",
+              "start": 0,
+              "url": "https://t.co/n2ZPZpCDwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036048641908220412",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035626433876537453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/n2ZPZpCDwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 122,
+          "like_count": 12694,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 668
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 272,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

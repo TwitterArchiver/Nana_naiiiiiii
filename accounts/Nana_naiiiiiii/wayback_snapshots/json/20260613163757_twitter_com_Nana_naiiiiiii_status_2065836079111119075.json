@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2065741603189457370",
+    "created_at": "2026-06-13T16:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065836079111119075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065836079111119075",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065741603189457370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065741581676888064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr9BhWawAA3qzx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2065741603189457370",
+        "created_at": "2026-06-13T16:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065836079111119075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065836079111119075",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065741603189457370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065741581676888064"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2065741603189457370",
+        "created_at": "2026-06-13T10:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065741603189457370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpScWG2wri",
+              "end": 33,
+              "expanded_url": "https://x.com/maitakoo/status/2065741603189457370/photo/1",
+              "media_key": "3_2065741581676888064",
+              "start": 10,
+              "url": "https://t.co/QpScWG2wri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065741603189457370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我脸好圆我受不了了 https://t.co/QpScWG2wri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 280,
+          "like_count": 18382,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1413
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/coldne…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/coldness-inmyheart.bsky.social",
+                "start": 0,
+                "url": "https://t.co/b93rbjHfNq"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2026673425104953549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 223,
+          "like_count": 3686,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 2532
+        },
+        "url": "https://t.co/b93rbjHfNq",
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

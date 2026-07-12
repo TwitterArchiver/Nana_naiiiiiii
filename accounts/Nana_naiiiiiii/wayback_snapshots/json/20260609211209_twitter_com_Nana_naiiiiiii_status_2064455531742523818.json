@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2064452608233033809",
+    "created_at": "2026-06-09T21:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064455531742523818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037381870204198912",
+          "start": 0,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064455531742523818",
+    "in_reply_to_user_id": "2037381870204198912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064454518147035211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@980thVGRegiment 前两天发烧来着 已经好多了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2064452608233033809",
+        "created_at": "2026-06-09T21:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064455531742523818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037381870204198912",
+              "start": 0,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064455531742523818",
+        "in_reply_to_user_id": "2037381870204198912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064454518147035211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@980thVGRegiment 前两天发烧来着 已经好多了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037381870204198912",
+        "conversation_id": "2064452608233033809",
+        "created_at": "2026-06-09T21:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064454518147035211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064454518147035211",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064452608233033809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 咋回事老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 271,
+          "like_count": 18209,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1360
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "东方白@432Ifantrygroup小号，https://t.co/JmbqtJGYqD匿名提问",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "432Ifantrygroup"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 45,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 22,
+                "url": "https://t.co/JmbqtJGYqD"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2064377390261030975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 197,
+          "like_count": 1178,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 300
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

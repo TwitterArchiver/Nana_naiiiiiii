@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047472577887785100",
+    "created_at": "2026-04-24T03:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047525399069089939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047525399069089939",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047472577887785100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 有没有小睦新号哇😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047472575861919744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoVdbOakAAvQPg.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047472577887785100",
+        "created_at": "2026-04-24T03:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047525399069089939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047525399069089939",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047472577887785100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 有没有小睦新号哇😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047472575861919744"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "conversation_id": "2047472577887785100",
+        "created_at": "2026-04-24T00:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047472577887785100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yYCBDSFOG",
+              "end": 65,
+              "expanded_url": "https://x.com/OverSpring_wiki/status/2047472577887785100/photo/1",
+              "media_key": "3_2047472575861919744",
+              "start": 42,
+              "url": "https://t.co/4yYCBDSFOG"
+            },
+            {
+              "display_url": "x.com/OverSpring_wik…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/OverSpring_wiki/status/2047418682444517804",
+              "start": 66,
+              "url": "https://t.co/CF5lNU4VqI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047472577887785100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1765,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047418682444517804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己吸过大麻和氯胺酮的马斯克，不知道用了什么AI审核机制，这几天疯狂封中推OD相关 https://t.co/4yYCBDSFOG https://t.co/CF5lNU4VqI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 177,
+          "like_count": 15415,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1020
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "Friend of transhumanist Yamu (not herself)/Left-libertarian/Free market+UBI/Cultural liberty/Agorism/Open source/Agnostic atheist/Non-binary with any pronouns",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuyamu.com",
+                "end": 23,
+                "expanded_url": "https://xuyamu.com/",
+                "start": 0,
+                "url": "https://t.co/9RfFlFZcqo"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki (AnH+/acc)🏴",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006715684043317248/HW4v0b-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 956,
+          "like_count": 31965,
+          "listed_count": 11,
+          "media_count": 498,
+          "tweet_count": 7260
+        },
+        "url": "https://t.co/9RfFlFZcqo",
+        "username": "OverSpring_wiki",
+        "verified": true
+      }
+    ]
+  }
+}

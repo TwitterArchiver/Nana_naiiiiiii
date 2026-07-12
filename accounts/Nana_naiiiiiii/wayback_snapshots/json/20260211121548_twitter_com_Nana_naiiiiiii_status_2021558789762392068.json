@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2021558789762392068",
+    "created_at": "2026-02-11T12:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021558789762392068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2018652390891880448",
+          "start": 3,
+          "username": "futi999139732"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021558789762392068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021495313585078776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi999139732: 我是扶梯 已经第三世了！\n欢迎互fo 接纳任何人\n本人重度抑郁➕季节性双相➕人格解体\n喜欢追求智慧的人 真诚的人\n脸熟我的请帮我转帖\n感恩有你的陪伴与支持\n就让我最后一次为你而存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2021558789762392068",
+        "created_at": "2026-02-11T12:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021558789762392068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2018652390891880448",
+              "start": 3,
+              "username": "futi999139732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021558789762392068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021495313585078776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi999139732: 我是扶梯 已经第三世了！\n欢迎互fo 接纳任何人\n本人重度抑郁➕季节性双相➕人格解体\n喜欢追求智慧的人 真诚的人\n脸熟我的请帮我转帖\n感恩有你的陪伴与支持\n就让我最后一次为你而存在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018652390891880448",
+        "conversation_id": "2021495313585078776",
+        "created_at": "2026-02-11T08:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021495313585078776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021495313585078776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1215,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯 已经第三世了！\n欢迎互fo 接纳任何人\n本人重度抑郁➕季节性双相➕人格解体\n喜欢追求智慧的人 真诚的人\n脸熟我的请帮我转帖\n感恩有你的陪伴与支持\n就让我最后一次为你而存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 59,
+          "like_count": 7273,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 265
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 前世@futi78999 热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "futi78999"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "name": "扶梯三世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018652507795542016/ddB5EpLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 257,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 74
+        },
+        "username": "futi999139732",
+        "verified": false
+      }
+    ]
+  }
+}

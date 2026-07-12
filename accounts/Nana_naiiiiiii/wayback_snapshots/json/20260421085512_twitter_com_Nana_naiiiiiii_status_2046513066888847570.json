@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2046513066888847570",
+    "created_at": "2026-04-21T08:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046513066888847570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2032802107745824768",
+          "start": 3,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046513066888847570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046259818793664553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guangzhouxidu: 停止od，即将开启大麻时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2046513066888847570",
+        "created_at": "2026-04-21T08:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046513066888847570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2032802107745824768",
+              "start": 3,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046513066888847570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046259818793664553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @guangzhouxidu: 停止od，即将开启大麻时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032802107745824768",
+        "conversation_id": "2046259818793664553",
+        "created_at": "2026-04-20T16:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046259818793664553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/binbin77930833…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/binbin77930833/status/2046188444905595350",
+              "start": 14,
+              "url": "https://t.co/rs9hJ4RW2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046259818793664553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11328,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046188444905595350",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "停止od，即将开启大麻时代 https://t.co/rs9hJ4RW2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 157,
+          "like_count": 14995,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 956
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 35,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 56
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

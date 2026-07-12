@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2004755518389465528",
+    "created_at": "2025-12-27T17:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T18:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004969952168870328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1962369612366172160",
+          "start": 0,
+          "username": "lizhiquu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004969952168870328",
+    "in_reply_to_user_id": "1962369612366172160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004755518389465528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizhiquu 我破防了谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2004755518389465528",
+        "created_at": "2025-12-27T17:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004969952168870328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1962369612366172160",
+              "start": 0,
+              "username": "lizhiquu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004969952168870328",
+        "in_reply_to_user_id": "1962369612366172160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004755518389465528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizhiquu 我破防了谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962369612366172160",
+        "conversation_id": "2004755518389465528",
+        "created_at": "2025-12-27T03:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004755518389465528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004755518389465528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3669,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝怎么又在生闷气\n是不是又把自己当成什么很重要的人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 33,
+          "like_count": 2821,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 84
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T04:19:19.000Z",
+        "description": "叫我小荔枝｜infp｜已过大叔 熊二 日理万姬认证｜不喜欢的私信会骂回去｜有🚪验证20r 不收口令｜高强度在线等你互关｜过去式@xinttoo｜只过互关@lizhiove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "xinttoo"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "lizhiove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinttoo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinttoo1",
+                "start": 0,
+                "url": "https://t.co/KTzRwzy7Jf"
+              }
+            ]
+          }
+        },
+        "id": "1962369612366172160",
+        "location": "匿名→",
+        "name": "荔枝雾",
+        "pinned_tweet_id": "1999837527877026229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998979152305848320/-M9erb6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 178,
+          "like_count": 5211,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/KTzRwzy7Jf",
+        "username": "lizhiquu",
+        "verified": false
+      }
+    ]
+  }
+}

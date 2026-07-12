@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049111491505209700",
+    "created_at": "2026-04-28T14:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T15:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049131287076814951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049131287076814951",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049111491505209700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 剧烈欢迎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049111491505209700",
+        "created_at": "2026-04-28T14:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049131287076814951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049131287076814951",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049111491505209700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 剧烈欢迎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885765075996393472",
+        "conversation_id": "2049111491505209700",
+        "created_at": "2026-04-28T13:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049111491505209700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049111491505209700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们。我从。精神病院。正式回归了✌️😽🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 200,
+          "like_count": 16157,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1082
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo Ace泛性浪漫无性恋🖤🩶🤍💜\n互联网的小天使霖酱@rinii165892\n亲爱的女朋友@e57jcetmSs91516",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "rinii165892"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "e57jcetmSs91516"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%96%84%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%96%84%E6%B0%B7%E6%AE%89%E6%83%85",
+                "start": 0,
+                "url": "https://t.co/AG60232YzV"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2036718700414570657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 213,
+          "like_count": 3615,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/AG60232YzV",
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

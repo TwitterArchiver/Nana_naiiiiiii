@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049906629173498289",
+    "created_at": "2026-04-30T17:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049906629173498289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682815248531636224",
+          "start": 3,
+          "username": "zhuanxuan123456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049906629173498289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023457363060285572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @zhuanxuan123456: 各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023457360388517891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTDv6AbcAMxTpy.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049906629173498289",
+        "created_at": "2026-04-30T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049906629173498289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682815248531636224",
+              "start": 3,
+              "username": "zhuanxuan123456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049906629173498289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023457363060285572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @zhuanxuan123456: 各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023457360388517891"
+          ]
+        },
+        "author_id": "1682815248531636224",
+        "conversation_id": "2023457363060285572",
+        "created_at": "2026-02-16T18:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023457363060285572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S0NlBYF5Gu",
+              "end": 135,
+              "expanded_url": "https://x.com/shang_xin_2026/status/2023457363060285572/photo/1",
+              "media_key": "3_2023457360388517891",
+              "start": 112,
+              "url": "https://t.co/S0NlBYF5Gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023457363060285572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4424,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "各位推友你们好，去年11月份我不幸确诊白血病入院，医生说目前需要通过化疗治疗，否则不治疗拖到后期会有生命危险，化疗费用高昂，我感觉很绝望。因为在墙内求助没啥热度，所以我只能无奈的来推特试试，想求求好心人帮我一把，谢谢大家! https://t.co/S0NlBYF5Gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 219,
+          "like_count": 16738,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1126
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T18:10:05.000Z",
+        "description": "谢谢帮助我的好心人，努力治病ing！",
+        "id": "1682815248531636224",
+        "name": "转转萱",
+        "pinned_tweet_id": "2023457363060285572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021476026417831936/8BR6H3l0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 373,
+          "like_count": 6134,
+          "listed_count": 4,
+          "media_count": 1772,
+          "tweet_count": 14471
+        },
+        "username": "zhuanxuan123456",
+        "verified": false
+      }
+    ]
+  }
+}

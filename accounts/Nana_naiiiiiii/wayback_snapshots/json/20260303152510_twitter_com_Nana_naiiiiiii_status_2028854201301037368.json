@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2028854201301037368",
+    "created_at": "2026-03-03T15:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028854201301037368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blacktraptrip/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/blacktraptrip/status/2028504999735517578",
+          "start": 12,
+          "url": "https://t.co/6J0wjo4WKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028854201301037368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028504999735517578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯每天就靠幻想自杀活着 https://t.co/6J0wjo4WKl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2028854201301037368",
+        "created_at": "2026-03-03T15:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028854201301037368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blacktraptrip/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/blacktraptrip/status/2028504999735517578",
+              "start": 12,
+              "url": "https://t.co/6J0wjo4WKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028854201301037368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028504999735517578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯每天就靠幻想自杀活着 https://t.co/6J0wjo4WKl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2028504999735517578",
+        "created_at": "2026-03-02T16:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T17:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028504999735517578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028504999735517578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6504,
+          "like_count": 334,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "想象着自杀的时候是无比幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 78,
+          "like_count": 9907,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 387
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜she/her❗️非常雷男性称呼｜泛性恋｜纯看黄的不要关注我｜Individualist Anarchism但不键政｜生活就是sex drugs internet…?｜❗️uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "shtwt"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "odtwt"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️STONED",
+        "pinned_tweet_id": "2018898278058795017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019241923777642496/7qiWSBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 168,
+          "like_count": 1085,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

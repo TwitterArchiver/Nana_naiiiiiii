@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036095238343926001",
+    "created_at": "2026-03-23T15:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T16:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036108272902828342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759608933470310400",
+          "start": 0,
+          "username": "d1YWXa4nki18550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036108272902828342",
+    "in_reply_to_user_id": "1759608933470310400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036105298755432738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d1YWXa4nki18550 我操笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036095238343926001",
+        "created_at": "2026-03-23T15:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036108272902828342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759608933470310400",
+              "start": 0,
+              "username": "d1YWXa4nki18550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036108272902828342",
+        "in_reply_to_user_id": "1759608933470310400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036105298755432738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d1YWXa4nki18550 我操笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759608933470310400",
+        "conversation_id": "2036095238343926001",
+        "created_at": "2026-03-23T15:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036105298755432738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036105298755432738",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036095238343926001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 虎哥一脚踢出一个盛夏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 123,
+          "like_count": 12850,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 681
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T16:00:44.000Z",
+        "description": "少女祈祷中…..",
+        "id": "1759608933470310400",
+        "name": "迷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025654711131820032/Zy7STlUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "d1YWXa4nki18550",
+        "verified": false
+      }
+    ]
+  }
+}

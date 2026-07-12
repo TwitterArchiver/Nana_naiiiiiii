@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2075217192384422339",
+    "created_at": "2026-07-09T13:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T14:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075218380890738835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1317689258052710400",
+          "start": 0,
+          "username": "5oke_k29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075218380890738835",
+    "in_reply_to_user_id": "1317689258052710400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075217192384422339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5oke_k29 我操我吸模拟冰也没感觉 好奇怪…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 720,
+        "media_key": "13_2075217106933780480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075217106933780480/img/nohFnDYqRp3sa57a.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075217106933780480/vid/avc1/480x270/q6Cg3qcJ8S5gYCLP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075217106933780480/vid/avc1/640x360/WKcULE2FpZ5XY244.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075217106933780480/vid/avc1/1280x720/WrbWrk4HhknOGvIN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075217106933780480/pl/VrwVApr5N9FdTFHf.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2075217192384422339",
+        "created_at": "2026-07-09T13:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075218380890738835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1317689258052710400",
+              "start": 0,
+              "username": "5oke_k29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075218380890738835",
+        "in_reply_to_user_id": "1317689258052710400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075217192384422339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5oke_k29 我操我吸模拟冰也没感觉 好奇怪…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075217106933780480"
+          ]
+        },
+        "author_id": "1317689258052710400",
+        "conversation_id": "2075217192384422339",
+        "created_at": "2026-07-09T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075217192384422339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2fPNyrSlz",
+              "end": 39,
+              "expanded_url": "https://x.com/5oke_k29/status/2075217192384422339/video/1",
+              "media_key": "13_2075217106933780480",
+              "start": 16,
+              "url": "https://t.co/q2fPNyrSlz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075217192384422339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "模拟🧊 半小时一点感觉没有。。 https://t.co/q2fPNyrSlz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 300,
+          "like_count": 20792,
+          "listed_count": 2,
+          "media_count": 141,
+          "tweet_count": 1608
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T04:49:45.000Z",
+        "description": "傻逼别他妈烦我 恶心我你全家今晚就死 理解不了就屏蔽我滑走好吗？从始至终我都是瞎发而已..",
+        "id": "1317689258052710400",
+        "name": "穹",
+        "pinned_tweet_id": "1636710279810793472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682049945384407041/a7quSn3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4650,
+          "following_count": 146,
+          "like_count": 958,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 2550
+        },
+        "url": "",
+        "username": "5oke_k29",
+        "verified": false
+      }
+    ]
+  }
+}

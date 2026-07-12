@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038314783594950874",
+    "created_at": "2026-03-30T09:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038547853761827085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805386585405579264",
+          "start": 0,
+          "username": "youmaobingmiao"
+        },
+        {
+          "end": 26,
+          "id": "1952805837401202688",
+          "start": 16,
+          "username": "Z9Gsystem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038547853761827085",
+    "in_reply_to_user_id": "1805386585405579264",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038547378840736033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmaobingmiao @Z9Gsystem 。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038314783594950874",
+        "created_at": "2026-03-30T09:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038547853761827085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805386585405579264",
+              "start": 0,
+              "username": "youmaobingmiao"
+            },
+            {
+              "end": 26,
+              "id": "1952805837401202688",
+              "start": 16,
+              "username": "Z9Gsystem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038547853761827085",
+        "in_reply_to_user_id": "1805386585405579264",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038547378840736033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmaobingmiao @Z9Gsystem 。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805386585405579264",
+        "conversation_id": "2038314783594950874",
+        "created_at": "2026-03-30T09:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038547378840736033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952805837401202688",
+              "start": 0,
+              "username": "Z9Gsystem"
+            },
+            {
+              "end": 26,
+              "id": "1993150970705199108",
+              "start": 11,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038547378840736033",
+        "in_reply_to_user_id": "1952805837401202688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038416037520277938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z9Gsystem @Nana_naiiiiiii cod机枪11赌命来不来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 146,
+          "like_count": 14255,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 819
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T23:44:53.000Z",
+        "description": "小粉红 CNN1 相信咱妈 爱党爱国爱人民\n小宝宝@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1805386585405579264",
+        "location": "突尼斯",
+        "name": "少羽nb666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036497175329505280/-BwHbH4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "youmaobingmiao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T18:56:30.000Z",
+        "description": "07 四川 成分复杂 OverDoes 🏳️‍⚧️  亚文化🖤后朋🤘🏻 无政府主义爱好者☠️  CODM 机车 多意识体 tulpa Lee Lris \n世界上成分最复杂之人\n期待互fo喵",
+        "id": "1952805837401202688",
+        "location": "距离你114514km",
+        "name": "Aliseya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960586455530790912/fMX1dRw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 194,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 273
+        },
+        "username": "Z9Gsystem",
+        "verified": false
+      }
+    ]
+  }
+}

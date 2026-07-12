@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007765135348387840",
+        "3_2007765135331631104"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2007765155938218079",
+    "created_at": "2026-01-04T10:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T11:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007765155938218079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYmWVkhqTE",
+          "end": 128,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007765155938218079/photo/1",
+          "media_key": "3_2007765135348387840",
+          "start": 105,
+          "url": "https://t.co/JYmWVkhqTE"
+        },
+        {
+          "display_url": "pic.x.com/JYmWVkhqTE",
+          "end": 128,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007765155938218079/photo/1",
+          "media_key": "3_2007765135331631104",
+          "start": 105,
+          "url": "https://t.co/JYmWVkhqTE"
+        },
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2007101056325668931",
+          "start": 129,
+          "url": "https://t.co/yI1z5wQxhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007765155938218079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007101056325668931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后出幻觉以为我朋友的男朋友给我关门外了 其实是自己穿着短袖内裤光着脚跑出去 在房间门口晃悠了两三个小时我男朋友还没回来 我直接去楼下便利店找店员给我妈打电话让她找我男朋友来接我了…\n一觉睡醒发现身上全是淤青 https://t.co/JYmWVkhqTE https://t.co/yI1z5wQxhs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007765135348387840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90DwMTa0AAuLa1.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2007765135331631104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90DwMPbIAAQXeX.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007765135348387840",
+            "3_2007765135331631104"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2007765155938218079",
+        "created_at": "2026-01-04T10:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T11:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007765155938218079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYmWVkhqTE",
+              "end": 128,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007765155938218079/photo/1",
+              "media_key": "3_2007765135348387840",
+              "start": 105,
+              "url": "https://t.co/JYmWVkhqTE"
+            },
+            {
+              "display_url": "pic.x.com/JYmWVkhqTE",
+              "end": 128,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007765155938218079/photo/1",
+              "media_key": "3_2007765135331631104",
+              "start": 105,
+              "url": "https://t.co/JYmWVkhqTE"
+            },
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2007101056325668931",
+              "start": 129,
+              "url": "https://t.co/yI1z5wQxhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007765155938218079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007101056325668931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后出幻觉以为我朋友的男朋友给我关门外了 其实是自己穿着短袖内裤光着脚跑出去 在房间门口晃悠了两三个小时我男朋友还没回来 我直接去楼下便利店找店员给我妈打电话让她找我男朋友来接我了…\n一觉睡醒发现身上全是淤青 https://t.co/JYmWVkhqTE https://t.co/yI1z5wQxhs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2007101056325668931",
+        "created_at": "2026-01-02T14:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007101056325668931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007101056325668931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "32t红普 后➕4t思诺思\n我顶不住了…………"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 33,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 104
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

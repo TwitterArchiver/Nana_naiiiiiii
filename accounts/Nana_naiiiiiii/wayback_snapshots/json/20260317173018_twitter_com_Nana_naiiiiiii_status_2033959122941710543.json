@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2033820664235495696",
+    "created_at": "2026-03-17T17:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033959122941710543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2030244886369419264",
+          "start": 0,
+          "username": "cnr2i8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033959122941710543",
+    "in_reply_to_user_id": "2030244886369419264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033925752131924320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnr2i8964 谢谢宝贝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2033820664235495696",
+        "created_at": "2026-03-17T17:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033959122941710543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2030244886369419264",
+              "start": 0,
+              "username": "cnr2i8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033959122941710543",
+        "in_reply_to_user_id": "2030244886369419264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033925752131924320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnr2i8964 谢谢宝贝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030244886369419264",
+        "conversation_id": "2033820664235495696",
+        "created_at": "2026-03-17T15:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033925752131924320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033925752131924320",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033820664235495696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 111,
+          "like_count": 11920,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 575
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-07T11:35:11.000Z",
+        "description": "10｜infp｜ip陕西｜od｜ed\n高敏感高需求低精力低智商",
+        "id": "2030244886369419264",
+        "name": "哦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030271784764018688/fruz04Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "username": "cnr2i8964",
+        "verified": false
+      }
+    ]
+  }
+}

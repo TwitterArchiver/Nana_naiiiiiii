@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2052790366655729937",
+    "created_at": "2026-05-08T16:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052790366655729937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052790366655729937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052415213664911824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGod__: 我认为大多自杀是冲动的 如果预订了某个日期死去是不可能成功的 因为你根本不知道在这期间你会不会遇到什么又让你充满希望活下去的事物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2052790366655729937",
+        "created_at": "2026-05-08T16:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052790366655729937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052790366655729937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052415213664911824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGod__: 我认为大多自杀是冲动的 如果预订了某个日期死去是不可能成功的 因为你根本不知道在这期间你会不会遇到什么又让你充满希望活下去的事物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2052415213664911824",
+        "created_at": "2026-05-07T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052415213664911824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052415213664911824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5209,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 42,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我认为大多自杀是冲动的 如果预订了某个日期死去是不可能成功的 因为你根本不知道在这期间你会不会遇到什么又让你充满希望活下去的事物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 246,
+          "like_count": 17430,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1182
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是神明 喜欢喜欢我的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行?",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050895137711308800/8lIUBwwC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7251,
+          "following_count": 232,
+          "like_count": 32683,
+          "listed_count": 19,
+          "media_count": 207,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

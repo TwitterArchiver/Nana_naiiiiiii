@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008251053788327941"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2008251068413821173",
+    "created_at": "2026-01-05T18:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T19:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008251068413821173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hz61BD8Pxv",
+          "end": 46,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2008251068413821173/photo/1",
+          "media_key": "3_2008251053788327941",
+          "start": 23,
+          "url": "https://t.co/Hz61BD8Pxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008251068413821173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉今晚是写不了什么完整的记录了 我只想说—— https://t.co/Hz61BD8Pxv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008251053788327941",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G969sXjbcAUDEBf.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008251053788327941"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008251068413821173",
+        "created_at": "2026-01-05T18:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T19:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008251068413821173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hz61BD8Pxv",
+              "end": 46,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2008251068413821173/photo/1",
+              "media_key": "3_2008251053788327941",
+              "start": 23,
+              "url": "https://t.co/Hz61BD8Pxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008251068413821173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉今晚是写不了什么完整的记录了 我只想说—— https://t.co/Hz61BD8Pxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 37,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 112
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

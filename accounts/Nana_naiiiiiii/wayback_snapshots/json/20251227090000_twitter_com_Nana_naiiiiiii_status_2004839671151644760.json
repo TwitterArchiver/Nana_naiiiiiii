@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2004839671151644760",
+    "created_at": "2025-12-27T09:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T10:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004839671151644760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931634000453345280",
+          "start": 3,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004839671151644760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004666348765602166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ll97515: 以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2004839671151644760",
+        "created_at": "2025-12-27T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004839671151644760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931634000453345280",
+              "start": 3,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004839671151644760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004666348765602166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ll97515: 以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931634000453345280",
+        "conversation_id": "2004666348765602166",
+        "created_at": "2025-12-26T21:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T22:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004666348765602166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004666348765602166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6227,
+          "like_count": 193,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "以前心疼爸爸 觉得妈妈歇斯底里\n后来心疼妈妈 觉得爸爸不靠谱\n现在觉得他俩都有病\n我也有病 越长大越发现\n自己的暴躁失控全部是他们的影子\n自卑怯懦 敏感多思\n像黑暗中抓不到的影子 始终围绕在身边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 33,
+          "like_count": 2736,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 78
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？|  不定时崩溃 喜欢互动 玩一些舞萌 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 443,
+          "like_count": 3821,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 994
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

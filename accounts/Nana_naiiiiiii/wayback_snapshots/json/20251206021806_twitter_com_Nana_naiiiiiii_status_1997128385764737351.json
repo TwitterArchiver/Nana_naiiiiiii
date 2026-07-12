@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1996800131694497819",
+    "created_at": "2025-12-06T02:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T03:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997128385764737351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538255247386107905",
+          "start": 0,
+          "username": "4nth0ny_1z_d34d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997128385764737351",
+    "in_reply_to_user_id": "1538255247386107905",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996800131694497819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4nth0ny_1z_d34d cute cutspo💕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1996800127714099200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7YPIvvagAAnw-e.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1996800131694497819",
+        "created_at": "2025-12-06T02:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997128385764737351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538255247386107905",
+              "start": 0,
+              "username": "4nth0ny_1z_d34d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997128385764737351",
+        "in_reply_to_user_id": "1538255247386107905",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996800131694497819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4nth0ny_1z_d34d cute cutspo💕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996800127714099200"
+          ]
+        },
+        "author_id": "1538255247386107905",
+        "conversation_id": "1996800131694497819",
+        "created_at": "2025-12-05T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996800131694497819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "babiez",
+              "probability": 0.6187,
+              "start": 44,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3VLf4uMPb",
+              "end": 84,
+              "expanded_url": "https://x.com/anthony_iz_dead/status/1996800131694497819/photo/1",
+              "media_key": "3_1996800127714099200",
+              "start": 61,
+              "url": "https://t.co/Y3VLf4uMPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996800131694497819",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 5033,
+          "like_count": 1332,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "i like getting angsty on here :3 have these babiez i did!!1! https://t.co/Y3VLf4uMPb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T20:20:20.000Z",
+        "description": "✩₊˚.⋆ ꒰ th3 cr3@tvr3z 0n th3 1nt3rn3t p4r@-4d0r3 m3 ꒱ؘ ⋆⁺₊✧┊ 16 :P ┊my irl name is anthony too hehe ┊angel dust kinnie ┊ed recov n bmi’s still 18 :3┊ dmz open┊",
+        "id": "1538255247386107905",
+        "location": "he/him",
+        "name": "𝔍𝔒𝔏𝔏𝔜 𝔞𝔫𝔱𝔥𝔬𝔫𝔶 𝔬𝔣 𝔰𝔥𝔱𝔴𝔱",
+        "pinned_tweet_id": "1996268273701450221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995949695634739200/yCwPtcDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 222,
+          "like_count": 1223,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 162
+        },
+        "username": "4nth0ny_1z_d34d",
+        "verified": false
+      }
+    ]
+  }
+}

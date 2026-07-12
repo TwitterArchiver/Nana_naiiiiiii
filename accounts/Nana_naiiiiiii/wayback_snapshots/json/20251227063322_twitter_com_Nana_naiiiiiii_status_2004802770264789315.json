@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2004802770264789315",
+    "created_at": "2025-12-27T06:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004802770264789315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1237455423302586368",
+          "start": 3,
+          "username": "666yanye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004802770264789315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004444617144783258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666yanye: 心情不好的时候od总是很难受 头晕想吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2004802770264789315",
+        "created_at": "2025-12-27T06:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004802770264789315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1237455423302586368",
+              "start": 3,
+              "username": "666yanye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004802770264789315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004444617144783258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666yanye: 心情不好的时候od总是很难受 头晕想吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237455423302586368",
+        "conversation_id": "2004444617144783258",
+        "created_at": "2025-12-26T06:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004444617144783258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004444617144783258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好的时候od总是很难受 头晕想吐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 33,
+          "like_count": 2577,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 77
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T19:09:34.000Z",
+        "description": "言叶 08 坐标江浙沪欢迎来找我玩接线下 🚪88🚪200🚪520 永远的妹妹 @sakimiosama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "sakimiosama"
+              }
+            ]
+          }
+        },
+        "id": "1237455423302586368",
+        "name": "言叶的幸福快乐生活",
+        "pinned_tweet_id": "2002560229352091941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000968845943545861/gw_Vd9Zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 58,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 42
+        },
+        "username": "666yanye",
+        "verified": false
+      }
+    ]
+  }
+}

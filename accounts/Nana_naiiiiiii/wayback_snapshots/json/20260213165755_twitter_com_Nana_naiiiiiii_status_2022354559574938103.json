@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022354531443757056",
+        "3_2022354531460526080",
+        "3_2022354531447914496",
+        "3_2022354531439546368"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2022354559574938103",
+    "created_at": "2026-02-13T16:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022354559574938103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A6CWHYrjux",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+          "media_key": "3_2022354531443757056",
+          "start": 14,
+          "url": "https://t.co/A6CWHYrjux"
+        },
+        {
+          "display_url": "pic.x.com/A6CWHYrjux",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+          "media_key": "3_2022354531460526080",
+          "start": 14,
+          "url": "https://t.co/A6CWHYrjux"
+        },
+        {
+          "display_url": "pic.x.com/A6CWHYrjux",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+          "media_key": "3_2022354531447914496",
+          "start": 14,
+          "url": "https://t.co/A6CWHYrjux"
+        },
+        {
+          "display_url": "pic.x.com/A6CWHYrjux",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+          "media_key": "3_2022354531439546368",
+          "start": 14,
+          "url": "https://t.co/A6CWHYrjux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022354559574938103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2022–2023土蕾时期 https://t.co/A6CWHYrjux"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022354531443757056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDYu0CbUAAagzS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022354531460526080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDYu0GbMAAPhme.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1321,
+        "media_key": "3_2022354531447914496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDYu0DawAAxinN.jpg",
+        "width": 855
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2022354531439546368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBDYu0BbEAA5kwN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022354531443757056",
+            "3_2022354531460526080",
+            "3_2022354531447914496",
+            "3_2022354531439546368"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2022354559574938103",
+        "created_at": "2026-02-13T16:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022354559574938103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6CWHYrjux",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+              "media_key": "3_2022354531443757056",
+              "start": 14,
+              "url": "https://t.co/A6CWHYrjux"
+            },
+            {
+              "display_url": "pic.x.com/A6CWHYrjux",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+              "media_key": "3_2022354531460526080",
+              "start": 14,
+              "url": "https://t.co/A6CWHYrjux"
+            },
+            {
+              "display_url": "pic.x.com/A6CWHYrjux",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+              "media_key": "3_2022354531447914496",
+              "start": 14,
+              "url": "https://t.co/A6CWHYrjux"
+            },
+            {
+              "display_url": "pic.x.com/A6CWHYrjux",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022354559574938103/photo/1",
+              "media_key": "3_2022354531439546368",
+              "start": 14,
+              "url": "https://t.co/A6CWHYrjux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022354559574938103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2022–2023土蕾时期 https://t.co/A6CWHYrjux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 61,
+          "like_count": 7423,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 270
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

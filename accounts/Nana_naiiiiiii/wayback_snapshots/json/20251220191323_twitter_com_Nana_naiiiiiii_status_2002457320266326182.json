@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2002457320266326182",
+    "created_at": "2025-12-20T19:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T20:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002457320266326182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1557529273686454272",
+          "start": 3,
+          "username": "deadman667773"
+        },
+        {
+          "end": 31,
+          "id": "1598129227034857473",
+          "start": 19,
+          "username": "Hi558575331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002457320266326182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002364502424129965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deadman667773: @Hi558575331 这就是吕布为什么要恨董卓的原因\n吕布把自己全部的爱都给了董卓，董卓却没有没有回报自己全部的爱，这才让吕布产生恨意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2002457320266326182",
+        "created_at": "2025-12-20T19:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T20:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002457320266326182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1557529273686454272",
+              "start": 3,
+              "username": "deadman667773"
+            },
+            {
+              "end": 31,
+              "id": "1598129227034857473",
+              "start": 19,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002457320266326182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002364502424129965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deadman667773: @Hi558575331 这就是吕布为什么要恨董卓的原因\n吕布把自己全部的爱都给了董卓，董卓却没有没有回报自己全部的爱，这才让吕布产生恨意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557529273686454272",
+        "conversation_id": "2002026057831256425",
+        "created_at": "2025-12-20T13:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002364502424129965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598129227034857473",
+              "start": 0,
+              "username": "Hi558575331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002364502424129965",
+        "in_reply_to_user_id": "1598129227034857473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1996,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002026057831256425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hi558575331 这就是吕布为什么要恨董卓的原因\n吕布把自己全部的爱都给了董卓，董卓却没有没有回报自己全部的爱，这才让吕布产生恨意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 27,
+          "like_count": 1907,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 65
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T00:50:07.000Z",
+        "description": "爱打游戏，动画倒是不经常看\n                     我不会读心术，所以有话请直说                          (ps:我讨厌别人放我鸽子)",
+        "id": "1557529273686454272",
+        "location": "光子力研究所",
+        "name": "此刻剑铁也!!!超越伟大的勇者!!!成为伟大的皇帝!!!",
+        "pinned_tweet_id": "1985792427387744395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985541904482910213/2PUQZw5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 86,
+          "like_count": 4960,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1669
+        },
+        "username": "deadman667773",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T01:38:08.000Z",
+        "description": "梦境护卫/友好但不交友/开黑也不交友/永不交友",
+        "id": "1598129227034857473",
+        "location": "Earth ",
+        "name": "不具名海岸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968992182192525312/tMOZvbCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10839,
+          "following_count": 102,
+          "like_count": 47204,
+          "listed_count": 56,
+          "media_count": 2738,
+          "tweet_count": 34571
+        },
+        "username": "Hi558575331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036819265920393420",
+    "created_at": "2026-03-26T08:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T09:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037084249623564557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1853967550381445127",
+          "start": 0,
+          "username": "Djdjdj927312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037084249623564557",
+    "in_reply_to_user_id": "1853967550381445127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036828737702920441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Djdjdj927312 恶心想吐 腰酸背痛😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036819265920393420",
+        "created_at": "2026-03-26T08:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037084249623564557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1853967550381445127",
+              "start": 0,
+              "username": "Djdjdj927312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037084249623564557",
+        "in_reply_to_user_id": "1853967550381445127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036828737702920441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Djdjdj927312 恶心想吐 腰酸背痛😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853967550381445127",
+        "conversation_id": "2036819265920393420",
+        "created_at": "2026-03-25T15:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036828737702920441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036828737702920441",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036827068554690807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 啥副作用。。。\n我也想从120打到90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 134,
+          "like_count": 13466,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 735
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T01:08:12.000Z",
+        "description": "希望世界大同 方大同我爱你口牙 本人12小时差中 肥猪减肥中。。。\n常年在纽约 时不时发点自己 平时可能会发发牢骚吧 精神状态不咋好 我有焦虑喜欢咬手 致歉一切",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/artist/1YrtUPr…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd",
+                "start": 0,
+                "url": "https://t.co/XlsRPFQZZD"
+              }
+            ]
+          }
+        },
+        "id": "1853967550381445127",
+        "location": "182/122",
+        "name": "不喜欢rnb的只能度过一个相对失败的人生",
+        "pinned_tweet_id": "2034330382888259996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034312997502341120/9f4wr-gP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 74,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/XlsRPFQZZD",
+        "username": "Djdjdj927312",
+        "verified": false
+      }
+    ]
+  }
+}

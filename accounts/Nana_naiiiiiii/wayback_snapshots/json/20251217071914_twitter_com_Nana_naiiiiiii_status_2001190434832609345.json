@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989929119224926209",
+        "3_1989929119203954691"
+      ],
+      "media_source_tweet_id": [
+        "1989929128221675611",
+        "1989929128221675611"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2001190434832609345",
+    "created_at": "2025-12-17T07:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001190434832609345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2861320986",
+          "start": 3,
+          "username": "killadd2045671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xkzHUEPxJj",
+          "end": 86,
+          "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+          "media_key": "3_1989929119224926209",
+          "start": 63,
+          "url": "https://t.co/xkzHUEPxJj"
+        },
+        {
+          "display_url": "pic.x.com/xkzHUEPxJj",
+          "end": 86,
+          "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+          "media_key": "3_1989929119203954691",
+          "start": 63,
+          "url": "https://t.co/xkzHUEPxJj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001190434832609345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989929128221675611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @killadd2045671: 新号回归活动，转发抽奖关注里抽一个人送lsd一张或者thc电子烟一根！24小时开奖！ https://t.co/xkzHUEPxJj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1989929119224926209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52l_aebkAEuFB4.jpg",
+        "width": 960
+      },
+      {
+        "height": 1268,
+        "media_key": "3_1989929119203954691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52l_aZbkAMSF92.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989929119224926209",
+            "3_1989929119203954691"
+          ],
+          "media_source_tweet_id": [
+            "1989929128221675611",
+            "1989929128221675611"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2001190434832609345",
+        "created_at": "2025-12-17T07:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001190434832609345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2861320986",
+              "start": 3,
+              "username": "killadd2045671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkzHUEPxJj",
+              "end": 86,
+              "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+              "media_key": "3_1989929119224926209",
+              "start": 63,
+              "url": "https://t.co/xkzHUEPxJj"
+            },
+            {
+              "display_url": "pic.x.com/xkzHUEPxJj",
+              "end": 86,
+              "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+              "media_key": "3_1989929119203954691",
+              "start": 63,
+              "url": "https://t.co/xkzHUEPxJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001190434832609345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989929128221675611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @killadd2045671: 新号回归活动，转发抽奖关注里抽一个人送lsd一张或者thc电子烟一根！24小时开奖！ https://t.co/xkzHUEPxJj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989929119224926209",
+            "3_1989929119203954691"
+          ]
+        },
+        "author_id": "2861320986",
+        "conversation_id": "1989929128221675611",
+        "created_at": "2025-11-16T05:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T06:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989929128221675611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkzHUEPxJj",
+              "end": 66,
+              "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+              "media_key": "3_1989929119224926209",
+              "start": 43,
+              "url": "https://t.co/xkzHUEPxJj"
+            },
+            {
+              "display_url": "pic.x.com/xkzHUEPxJj",
+              "end": 66,
+              "expanded_url": "https://x.com/killadd2045671/status/1989929128221675611/photo/1",
+              "media_key": "3_1989929119203954691",
+              "start": 43,
+              "url": "https://t.co/xkzHUEPxJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989929128221675611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3431,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "新号回归活动，转发抽奖关注里抽一个人送lsd一张或者thc电子烟一根！24小时开奖！ https://t.co/xkzHUEPxJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 1668,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 53
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-17T22:41:35.000Z",
+        "description": "购买请加qq 464658384 加不上直接私信",
+        "id": "2861320986",
+        "location": "距离你4.52KM",
+        "name": "上头电子烟大麻闪送大王",
+        "pinned_tweet_id": "1989926476234592601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989925620395167744/i-crzifx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 7,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "username": "killadd2045671",
+        "verified": false
+      }
+    ]
+  }
+}

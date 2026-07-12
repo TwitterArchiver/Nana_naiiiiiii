@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025286293048229890",
+        "3_2025286293052383232",
+        "3_2025286293014589440",
+        "3_2025286293060788224"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2025286320621584723",
+    "created_at": "2026-02-21T19:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T20:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025286320621584723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbSgLjK353",
+          "end": 48,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+          "media_key": "3_2025286293048229890",
+          "start": 25,
+          "url": "https://t.co/ZbSgLjK353"
+        },
+        {
+          "display_url": "pic.x.com/ZbSgLjK353",
+          "end": 48,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+          "media_key": "3_2025286293052383232",
+          "start": 25,
+          "url": "https://t.co/ZbSgLjK353"
+        },
+        {
+          "display_url": "pic.x.com/ZbSgLjK353",
+          "end": 48,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+          "media_key": "3_2025286293014589440",
+          "start": 25,
+          "url": "https://t.co/ZbSgLjK353"
+        },
+        {
+          "display_url": "pic.x.com/ZbSgLjK353",
+          "end": 48,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+          "media_key": "3_2025286293060788224",
+          "start": 25,
+          "url": "https://t.co/ZbSgLjK353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025286320621584723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么久没去青岛市立急诊医生是不是以为我割腕割死了 https://t.co/ZbSgLjK353"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2025286293048229890",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtDJzGbgAIhesv.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025286293052383232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtDJzHa4AAJsZQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025286293014589440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtDJy-aMAATNHu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025286293060788224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtDJzJbIAAunhc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025286293048229890",
+            "3_2025286293052383232",
+            "3_2025286293014589440",
+            "3_2025286293060788224"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2025286320621584723",
+        "created_at": "2026-02-21T19:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T20:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025286320621584723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbSgLjK353",
+              "end": 48,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+              "media_key": "3_2025286293048229890",
+              "start": 25,
+              "url": "https://t.co/ZbSgLjK353"
+            },
+            {
+              "display_url": "pic.x.com/ZbSgLjK353",
+              "end": 48,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+              "media_key": "3_2025286293052383232",
+              "start": 25,
+              "url": "https://t.co/ZbSgLjK353"
+            },
+            {
+              "display_url": "pic.x.com/ZbSgLjK353",
+              "end": 48,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+              "media_key": "3_2025286293014589440",
+              "start": 25,
+              "url": "https://t.co/ZbSgLjK353"
+            },
+            {
+              "display_url": "pic.x.com/ZbSgLjK353",
+              "end": 48,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2025286320621584723/photo/1",
+              "media_key": "3_2025286293060788224",
+              "start": 25,
+              "url": "https://t.co/ZbSgLjK353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025286320621584723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么久没去青岛市立急诊医生是不是以为我割腕割死了 https://t.co/ZbSgLjK353"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 73,
+          "like_count": 9283,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 332
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

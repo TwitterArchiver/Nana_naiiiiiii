@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049813305535922400",
+    "created_at": "2026-04-30T12:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049829243954344212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991572736305692672",
+          "start": 0,
+          "username": "dixue1kusu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049829243954344212",
+    "in_reply_to_user_id": "1991572736305692672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049813305535922400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dixue1kusu5 我测好美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10968,
+        "height": 1280,
+        "media_key": "13_2049813145233784832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049813145233784832/img/2YZ4Riw6XorMKh9h.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049813145233784832/vid/avc1/320x568/q4oWbBCTqLsFWNDH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049813145233784832/vid/avc1/480x852/4hnxAKVzxikXFDx0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049813145233784832/vid/avc1/720x1280/40YrB1IDPpaWCAcq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049813145233784832/pl/F7AqVDQqZQ-5nyf-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049813305535922400",
+        "created_at": "2026-04-30T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049829243954344212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991572736305692672",
+              "start": 0,
+              "username": "dixue1kusu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049829243954344212",
+        "in_reply_to_user_id": "1991572736305692672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049813305535922400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dixue1kusu5 我测好美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049813145233784832"
+          ]
+        },
+        "author_id": "1991572736305692672",
+        "conversation_id": "2049813305535922400",
+        "created_at": "2026-04-30T11:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049813305535922400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKG2UPstI7",
+              "end": 48,
+              "expanded_url": "https://x.com/dixue1kusu5/status/2049813305535922400/video/1",
+              "media_key": "13_2049813145233784832",
+              "start": 25,
+              "url": "https://t.co/gKG2UPstI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049813305535922400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁着灯灭亲你一口 你不会知道发生了什么(￣▽￣) https://t.co/gKG2UPstI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 207,
+          "like_count": 16582,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1109
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T18:22:06.000Z",
+        "description": "任何问题过门回复♪( ´▽｀)",
+        "id": "1991572736305692672",
+        "location": "🚪188可验证",
+        "name": "iiyy11",
+        "pinned_tweet_id": "2049609329318240604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030495714703536128/GIJwATUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 56,
+          "like_count": 983,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 410
+        },
+        "username": "dixue1kusu5",
+        "verified": false
+      }
+    ]
+  }
+}

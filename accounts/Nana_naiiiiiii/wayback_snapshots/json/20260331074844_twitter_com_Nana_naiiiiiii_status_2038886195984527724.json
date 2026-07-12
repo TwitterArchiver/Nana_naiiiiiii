@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038886195984527724",
+    "created_at": "2026-03-31T07:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038886195984527724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2900565097",
+          "start": 3,
+          "username": "johnny_onpuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038886195984527724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038651033086558389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnny_onpuchan: 这就是初恋吗？\n我第一眼看到习主席，就感觉被闪电击中了\n他的笑容，而且他的丰满身材让人想起唐代美女…一切都吸引了我心\n\n如果我们是同学，我非常想跟他成为朋友，但我不起勇气，三年就这样过去了\n毕业那天，我唯一能做的就是写了一封信，倾诉对他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038886195984527724",
+        "created_at": "2026-03-31T07:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038886195984527724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2900565097",
+              "start": 3,
+              "username": "johnny_onpuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038886195984527724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038651033086558389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnny_onpuchan: 这就是初恋吗？\n我第一眼看到习主席，就感觉被闪电击中了\n他的笑容，而且他的丰满身材让人想起唐代美女…一切都吸引了我心\n\n如果我们是同学，我非常想跟他成为朋友，但我不起勇气，三年就这样过去了\n毕业那天，我唯一能做的就是写了一封信，倾诉对他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "conversation_id": "2038651033086558389",
+        "created_at": "2026-03-30T16:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038651033086558389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038651033086558389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7372,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这就是初恋吗？\n我第一眼看到习主席，就感觉被闪电击中了\n他的笑容，而且他的丰满身材让人想起唐代美女…一切都吸引了我心\n\n如果我们是同学，我非常想跟他成为朋友，但我不起勇气，三年就这样过去了\n毕业那天，我唯一能做的就是写了一封信，倾诉对他的恋慕，然后把它放进了他的鞋柜里…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 159,
+          "like_count": 14463,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 865
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/学习中文/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "2032985102821765310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14896,
+          "following_count": 1305,
+          "like_count": 134580,
+          "listed_count": 102,
+          "media_count": 7680,
+          "tweet_count": 139524
+        },
+        "username": "johnny_onpuchan",
+        "verified": true
+      }
+    ]
+  }
+}

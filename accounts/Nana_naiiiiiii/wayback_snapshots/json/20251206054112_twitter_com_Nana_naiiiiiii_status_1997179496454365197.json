@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1996255563819413583",
+    "created_at": "2025-12-06T05:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997179496454365197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1451201458360049671",
+          "start": 0,
+          "username": "mmmm55555wwwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997179496454365197",
+    "in_reply_to_user_id": "1451201458360049671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997178758542119026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmm55555wwwwww 是真的喵…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1996255563819413583",
+        "created_at": "2025-12-06T05:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997179496454365197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1451201458360049671",
+              "start": 0,
+              "username": "mmmm55555wwwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997179496454365197",
+        "in_reply_to_user_id": "1451201458360049671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997178758542119026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmm55555wwwwww 是真的喵…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451201458360049671",
+        "conversation_id": "1996255563819413583",
+        "created_at": "2025-12-06T05:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997178758542119026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997178758542119026",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996255563819413583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 真的假的，对自己这么狠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T14:59:32.000Z",
+        "description": "",
+        "id": "1451201458360049671",
+        "name": "成为主人的玩具喵",
+        "pinned_tweet_id": "1818725072682860795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818855797834891268/EquLTcwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 798,
+          "like_count": 6216,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 176
+        },
+        "username": "mmmm55555wwwwww",
+        "verified": false
+      }
+    ]
+  }
+}

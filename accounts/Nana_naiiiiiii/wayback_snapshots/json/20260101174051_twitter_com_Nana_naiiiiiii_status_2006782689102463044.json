@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2006782689102463044",
+    "created_at": "2026-01-01T17:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006782689102463044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912165629911588864",
+          "start": 3,
+          "username": "ilwgunssl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006782689102463044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1830
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006481944054509716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ilwgunssl: 2026 goals\n\nkill myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2006782689102463044",
+        "created_at": "2026-01-01T17:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006782689102463044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912165629911588864",
+              "start": 3,
+              "username": "ilwgunssl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006782689102463044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1830
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006481944054509716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ilwgunssl: 2026 goals\n\nkill myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912165629911588864",
+        "conversation_id": "2006481944054509716",
+        "created_at": "2025-12-31T21:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T22:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006481944054509716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006481944054509716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 53678,
+          "like_count": 5379,
+          "quote_count": 26,
+          "reply_count": 16,
+          "retweet_count": 1830
+        },
+        "reply_settings": "everyone",
+        "text": "2026 goals\n\nkill myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 34,
+          "like_count": 3153,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 95
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T15:26:36.000Z",
+        "description": "૮꒰ ˶• ༝ •˶꒱ა ┆shedtwt.ᐟ ┆15teen ┆cbmi 15.5 ┆#shedtwt #yaoitwt ┆@rinowgun spam",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "yaoitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "rinowgun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ilwgunssl.straw.page",
+                "end": 23,
+                "expanded_url": "https://ilwgunssl.straw.page",
+                "start": 0,
+                "url": "https://t.co/ANfEKIJnr6"
+              }
+            ]
+          }
+        },
+        "id": "1912165629911588864",
+        "name": "rinna🪽 | shedtwt",
+        "pinned_tweet_id": "1999867158319481075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005081151468154880/_msb16hp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 1107,
+          "like_count": 6212,
+          "listed_count": 14,
+          "media_count": 240,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/ANfEKIJnr6",
+        "username": "ilwgunssl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2002800914135191753",
+    "created_at": "2025-12-21T17:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T18:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002800914135191753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1607388730914140160",
+          "start": 3,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002800914135191753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996964226662027662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popcat1234566: 千fo（未到）纪念抽奖活动——\n奖品：买一送一的十瓶N2O！\n​数量：5份，靠摇号随机抽取\n​条件：转发此条推文，并且fo我（后续关注的也可以参与，但是我会排除广告哥、纯黄推以及小号）！\n​时间：圣诞节之前！\n​\n感谢你们！感谢药物滥用！…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2002800914135191753",
+        "created_at": "2025-12-21T17:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T18:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002800914135191753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1607388730914140160",
+              "start": 3,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002800914135191753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996964226662027662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popcat1234566: 千fo（未到）纪念抽奖活动——\n奖品：买一送一的十瓶N2O！\n​数量：5份，靠摇号随机抽取\n​条件：转发此条推文，并且fo我（后续关注的也可以参与，但是我会排除广告哥、纯黄推以及小号）！\n​时间：圣诞节之前！\n​\n感谢你们！感谢药物滥用！…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1996964226662027662",
+        "created_at": "2025-12-05T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996964226662027662"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996964226662027662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 20584,
+          "like_count": 65,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "千fo（未到）纪念抽奖活动——\n奖品：买一送一的十瓶N2O！\n​数量：5份，靠摇号随机抽取\n​条件：转发此条推文，并且fo我（后续关注的也可以参与，但是我会排除广告哥、纯黄推以及小号）！\n​时间：圣诞节之前！\n​\n感谢你们！感谢药物滥用！\n另售dpt 600/1g 不存在被警"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 31,
+          "like_count": 1998,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 66
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n\ndpt 550/1g  2000/5g   4200/25g pea 噻萘普汀 麦斯卡林 随剂量问价 /普瑞巴林处方持有者 可合法代购\n没有警察的义务！\n私信不回，联系https://t.co/si90IVq3wj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 134,
+                "expanded_url": "https://t.me/opodoge",
+                "start": 111,
+                "url": "https://t.co/si90IVq3wj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1996964226662027662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997609291507998720/J7qv1WAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 652,
+          "like_count": 36383,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

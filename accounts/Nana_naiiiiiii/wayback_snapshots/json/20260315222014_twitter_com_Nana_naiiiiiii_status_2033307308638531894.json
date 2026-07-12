@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032968924946427904"
+      ],
+      "media_source_tweet_id": [
+        "2032968930818465912"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2033307308638531894",
+    "created_at": "2026-03-15T22:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033307308638531894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1207310145094598656",
+          "start": 3,
+          "username": "Angeel_Artesano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A8Hz3eTPkt",
+          "end": 44,
+          "expanded_url": "https://x.com/Angeel_Artesano/status/2032968930818465912/photo/1",
+          "media_key": "3_2032968924946427904",
+          "start": 21,
+          "url": "https://t.co/A8Hz3eTPkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033307308638531894",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032968930818465912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Angeel_Artesano: https://t.co/A8Hz3eTPkt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2032968924946427904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaOd1LW8AA0a9y.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032968924946427904"
+          ],
+          "media_source_tweet_id": [
+            "2032968930818465912"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2033307308638531894",
+        "created_at": "2026-03-15T22:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033307308638531894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1207310145094598656",
+              "start": 3,
+              "username": "Angeel_Artesano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8Hz3eTPkt",
+              "end": 44,
+              "expanded_url": "https://x.com/Angeel_Artesano/status/2032968930818465912/photo/1",
+              "media_key": "3_2032968924946427904",
+              "start": 21,
+              "url": "https://t.co/A8Hz3eTPkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033307308638531894",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032968930818465912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Angeel_Artesano: https://t.co/A8Hz3eTPkt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032968924946427904"
+          ]
+        },
+        "author_id": "1207310145094598656",
+        "conversation_id": "2032968930818465912",
+        "created_at": "2026-03-14T23:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T00:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032968930818465912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A8Hz3eTPkt",
+              "end": 23,
+              "expanded_url": "https://x.com/Angeel_Artesano/status/2032968930818465912/photo/1",
+              "media_key": "3_2032968924946427904",
+              "start": 0,
+              "url": "https://t.co/A8Hz3eTPkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032968930818465912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 16396,
+          "like_count": 1864,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A8Hz3eTPkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 99,
+          "like_count": 11532,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 499
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-18T14:42:33.000Z",
+        "description": "SUUUM FUNNY SHIT👽MEMES | grower🌱 | Weedpics and just some random selfies. 👾marihuano pero buen muchacho 😉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/angelartesano?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/angelartesano?igsh=MWw2Y2k5bmloOHdydA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/4Lwk8obuDD"
+              }
+            ]
+          }
+        },
+        "id": "1207310145094598656",
+        "location": "420",
+        "name": "Angel Artesano ॐ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027472622640922624/syYh0KaE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23486,
+          "following_count": 289,
+          "like_count": 48347,
+          "listed_count": 22,
+          "media_count": 5033,
+          "tweet_count": 10688
+        },
+        "url": "https://t.co/4Lwk8obuDD",
+        "username": "Angeel_Artesano",
+        "verified": false
+      }
+    ]
+  }
+}

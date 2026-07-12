@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2001675365220258045",
+    "created_at": "2025-12-22T12:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T13:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003085720035180692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        },
+        {
+          "end": 22,
+          "id": "1836276354041495553",
+          "start": 12,
+          "username": "CABR_Lies"
+        },
+        {
+          "end": 37,
+          "id": "1998921643704696833",
+          "start": 23,
+          "username": "Ina_puppywwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003085720035180692",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001675365220258045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina @CABR_Lies @Ina_puppywwww 老婆我想和你互fo🥹🥹"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Ina_puppywwww].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Ina_puppywwww",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Ina_puppywwww"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001675356433182720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ_acAAWHpu.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356424773632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ9aIAAJ_m1.jpg",
+        "width": 576
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356441579521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIaBakAEK_-2.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2001675356429074432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dhIZ-bwAAFobN.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2001675365220258045",
+        "created_at": "2025-12-22T12:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T13:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003085720035180692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            },
+            {
+              "end": 22,
+              "id": "1836276354041495553",
+              "start": 12,
+              "username": "CABR_Lies"
+            },
+            {
+              "end": 37,
+              "id": "1998921643704696833",
+              "start": 23,
+              "username": "Ina_puppywwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003085720035180692",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001675365220258045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina @CABR_Lies @Ina_puppywwww 老婆我想和你互fo🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001675356433182720",
+            "3_2001675356424773632",
+            "3_2001675356441579521",
+            "3_2001675356429074432"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2001675365220258045",
+        "created_at": "2025-12-18T15:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T16:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001675365220258045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1998921643704696833",
+              "start": 7,
+              "username": "Ina_puppywwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356433182720",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356424773632",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356441579521",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            },
+            {
+              "display_url": "pic.x.com/vYg8dhikOO",
+              "end": 64,
+              "expanded_url": "https://x.com/AMadelaina/status/2001675365220258045/photo/1",
+              "media_key": "3_2001675356429074432",
+              "start": 41,
+              "url": "https://t.co/vYg8dhikOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001675365220258045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 7880,
+          "like_count": 291,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "我是椒椒，前世@Ina_puppywwww，被马斯克制裁冻结，现在求找回互关…… https://t.co/vYg8dhikOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 2062,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 69
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2001675365220258045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001801988561080321/KVTm5ajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 126,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 44
+        },
+        "username": "AMadelaina",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGT4fs"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2001660785513079002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000864698149867522/dPGkGiAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4841,
+          "following_count": 173,
+          "like_count": 24827,
+          "listed_count": 8,
+          "media_count": 1048,
+          "tweet_count": 13515
+        },
+        "url": "https://t.co/sFJNxGT4fs",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

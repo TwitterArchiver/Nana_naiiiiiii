@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996582931704471552"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "1996582942748078141",
+    "created_at": "2025-12-04T14:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996582942748078141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ng4v0wg61C",
+          "end": 23,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/1996582942748078141/photo/1",
+          "media_key": "3_1996582931704471552",
+          "start": 0,
+          "url": "https://t.co/ng4v0wg61C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996582942748078141",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/ng4v0wg61C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_1996582931704471552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7VJmRjaYAAGW47.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996582931704471552"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "1996582942748078141",
+        "created_at": "2025-12-04T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996582942748078141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ng4v0wg61C",
+              "end": 23,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/1996582942748078141/photo/1",
+              "media_key": "3_1996582931704471552",
+              "start": 0,
+              "url": "https://t.co/ng4v0wg61C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996582942748078141",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ng4v0wg61C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015091659529146368"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2015091681117569216",
+    "created_at": "2026-01-24T15:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T16:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015091681117569216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aZ6ut0enB6",
+          "end": 30,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2015091681117569216/photo/1",
+          "media_key": "3_2015091659529146368",
+          "start": 7,
+          "url": "https://t.co/aZ6ut0enB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015091681117569216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我来大姨妈了 https://t.co/aZ6ut0enB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2015091659529146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cLMBwWUAAJLdA.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015091659529146368"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2015091681117569216",
+        "created_at": "2026-01-24T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015091681117569216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZ6ut0enB6",
+              "end": 30,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2015091681117569216/photo/1",
+              "media_key": "3_2015091659529146368",
+              "start": 7,
+              "url": "https://t.co/aZ6ut0enB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015091681117569216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来大姨妈了 https://t.co/aZ6ut0enB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 39,
+          "like_count": 5262,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 183
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

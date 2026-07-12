@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2015813577517699493",
+    "created_at": "2026-01-28T09:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T10:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016438627237285980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016438627237285980",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015813577517699493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 爱你老晶明天见❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2015813577517699493",
+        "created_at": "2026-01-28T09:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T10:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016438627237285980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016438627237285980",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015813577517699493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 爱你老晶明天见❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2015813577517699493",
+        "created_at": "2026-01-26T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015813577517699493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015813577517699493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3086,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "医生希望你有病\n律师希望你被告\n只有晶格\n希望你天天有度吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 44,
+          "like_count": 5528,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 193
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "一个老实本分的农民\n大麻/迷幻剂去污名合法化\n官网：https://t.co/G0KfQSHAWC\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 49,
+                "expanded_url": "https://overdose.day/",
+                "start": 26,
+                "url": "https://t.co/G0KfQSHAWC"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 77,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 54,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2015675601815060786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 131,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 95
+        },
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

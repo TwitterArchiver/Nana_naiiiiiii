@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2016852083643994344",
+    "created_at": "2026-01-29T12:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016852313944838603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990243522738540544",
+          "start": 0,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016852313944838603",
+    "in_reply_to_user_id": "1990243522738540544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016852083643994344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hana9226Y 我操好吓人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2016852083643994344",
+        "created_at": "2026-01-29T12:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016852313944838603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990243522738540544",
+              "start": 0,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016852313944838603",
+        "in_reply_to_user_id": "1990243522738540544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016852083643994344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hana9226Y 我操好吓人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990243522738540544",
+        "conversation_id": "2016852083643994344",
+        "created_at": "2026-01-29T12:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016852083643994344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016852083643994344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被本地晶哥打电话找了。。\n一开始就确定我的姓名年龄还有户籍地 然后问我住城里还是乡下在哪上学什么什么的\n然后就开始问我有没有抑郁症有没有什么失意的事情\n然后就问我有没有服用一些药物 网购什么的我操我听到这个的时候我就知道大事不妙了 \n我好害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 46,
+          "like_count": 5845,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 211
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "我是花9226 可以叫我花玖",
+        "id": "1990243522738540544",
+        "location": "天国",
+        "name": "花9226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990244016370196480/uvn5LsPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 126,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 41
+        },
+        "username": "hana9226Y",
+        "verified": false
+      }
+    ]
+  }
+}

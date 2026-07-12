@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2009684432299728936",
+    "created_at": "2026-01-09T19:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T20:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009713717991383191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007068022750814208",
+          "start": 0,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009713717991383191",
+    "in_reply_to_user_id": "2007068022750814208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009684432299728936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futi78999 喵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009684432299728936].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2009684432299728936",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2009684432299728936"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2009684432299728936",
+        "created_at": "2026-01-09T19:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T20:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009713717991383191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007068022750814208",
+              "start": 0,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009713717991383191",
+        "in_reply_to_user_id": "2007068022750814208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009684432299728936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi78999 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 39,
+          "like_count": 3624,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 114
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在中重度精分发散中 色胺宇宙的精灵 所有展示的药品均为化学研究 欢迎互fo lgbt全友好",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008204620464619520/vqx57Cyl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 184,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 122
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

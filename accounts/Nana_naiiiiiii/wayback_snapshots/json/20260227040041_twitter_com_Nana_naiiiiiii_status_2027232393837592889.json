@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2024257958973207000",
+    "created_at": "2026-02-27T04:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T05:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027232393837592889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1543072342447771650",
+          "start": 0,
+          "username": "qsmhls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027232393837592889",
+    "in_reply_to_user_id": "1543072342447771650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026884471908348374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsmhls 好哦谢谢宝宝😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2024257958973207000",
+        "created_at": "2026-02-27T04:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027232393837592889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1543072342447771650",
+              "start": 0,
+              "username": "qsmhls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027232393837592889",
+        "in_reply_to_user_id": "1543072342447771650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026884471908348374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsmhls 好哦谢谢宝宝😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543072342447771650",
+        "conversation_id": "2024257958973207000",
+        "created_at": "2026-02-26T04:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026884471908348374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026884471908348374",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024257958973207000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 会，但是我旁边一点是关节，所以不建议这割😃，还是手腕更有性价比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 74,
+          "like_count": 9713,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 358
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-02T03:21:36.000Z",
+        "description": "皮下男 皮下男 皮下男\n双相/自伤/od/摄影\n推文里的女孩子是俺老婆（我的老婆包括但不限于和泉纱雾，谷风天音，五更琉璃，桐生瑞叶）",
+        "id": "1543072342447771650",
+        "name": "和泉紗霧の犬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845852571371724800/4PsOdxAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 133,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1098
+        },
+        "username": "qsmhls",
+        "verified": false
+      }
+    ]
+  }
+}

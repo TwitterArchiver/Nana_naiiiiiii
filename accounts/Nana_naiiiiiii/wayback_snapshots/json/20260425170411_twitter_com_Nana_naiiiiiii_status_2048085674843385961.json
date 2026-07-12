@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2048048849504309340",
+    "created_at": "2026-04-25T17:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048085674843385961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1965457223636975617",
+          "start": 0,
+          "username": "Thymol_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048085674843385961",
+    "in_reply_to_user_id": "1965457223636975617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048048849504309340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thymol_11 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048048832219652096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwhj9cbIAA07NB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2048048849504309340",
+        "created_at": "2026-04-25T17:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048085674843385961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1965457223636975617",
+              "start": 0,
+              "username": "Thymol_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048085674843385961",
+        "in_reply_to_user_id": "1965457223636975617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048048849504309340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thymol_11 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048048832219652096"
+          ]
+        },
+        "author_id": "1965457223636975617",
+        "conversation_id": "2048048849504309340",
+        "created_at": "2026-04-25T14:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048048849504309340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05ZpZkZknC",
+              "end": 28,
+              "expanded_url": "https://x.com/Thymol_11/status/2048048849504309340/photo/1",
+              "media_key": "3_2048048832219652096",
+              "start": 5,
+              "url": "https://t.co/05ZpZkZknC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048048849504309340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 912,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加巴测试 https://t.co/05ZpZkZknC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 191,
+          "like_count": 15519,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1041
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:48:33.000Z",
+        "description": "叫我眠眠就好！ᯓ👾★ 🔪 ☕ ♫ྀི🎹⋆⑅ 🤍🩶🖤 👾09｜intp5w4｜自伤od｜半健全边缘人｜LGBTQ+全友好｜不键政｜粉红绕道｜我喜欢听日音喵｜最爱女朋友@TropicQAQ ｜查成分互fo喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "TropicQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thymol_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thymol_111",
+                "start": 0,
+                "url": "https://t.co/V0vlfUkWrY"
+              }
+            ]
+          }
+        },
+        "id": "1965457223636975617",
+        "location": "想用你的心跳堵住双耳",
+        "name": "電子安眠藥魔法👾",
+        "pinned_tweet_id": "2045358763578970285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 603,
+          "like_count": 5345,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/V0vlfUkWrY",
+        "username": "Thymol_11",
+        "verified": false
+      }
+    ]
+  }
+}

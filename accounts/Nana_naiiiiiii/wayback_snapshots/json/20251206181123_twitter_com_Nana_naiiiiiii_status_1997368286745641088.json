@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1997356415279824952",
+    "created_at": "2025-12-06T18:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997368286745641088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1615348637936287744",
+          "start": 0,
+          "username": "AqTxi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997368286745641088",
+    "in_reply_to_user_id": "1615348637936287744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997364773382750358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AqTxi_ 好的喵 谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1997356415279824952",
+        "created_at": "2025-12-06T18:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997368286745641088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1615348637936287744",
+              "start": 0,
+              "username": "AqTxi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997368286745641088",
+        "in_reply_to_user_id": "1615348637936287744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997364773382750358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AqTxi_ 好的喵 谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615348637936287744",
+        "conversation_id": "1997356415279824952",
+        "created_at": "2025-12-06T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997364773382750358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997364773382750358",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997356415279824952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 好看好美呜呜QAQ，推荐液体创可贴哦，不发炎可以继续很久i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 584,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T14:02:15.000Z",
+        "description": "若安好，何必打擾",
+        "id": "1615348637936287744",
+        "name": "顾念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765418826299277312/61CwqcZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "AqTxi_",
+        "verified": false
+      }
+    ]
+  }
+}

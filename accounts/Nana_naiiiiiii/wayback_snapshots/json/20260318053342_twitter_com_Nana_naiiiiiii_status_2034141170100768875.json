@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2034141170100768875",
+    "created_at": "2026-03-18T05:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034141170100768875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558050035899990018",
+          "start": 3,
+          "username": "ooooooorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034141170100768875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033795825516630499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ooooooorea: 我就是超级性缘脑……别人只要一对我透露出一点点好感我就会开始意淫对方是不是喜欢我之类……开始脑子里出现和对方doi的画面，摸我的样子………好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2034141170100768875",
+        "created_at": "2026-03-18T05:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034141170100768875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558050035899990018",
+              "start": 3,
+              "username": "ooooooorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034141170100768875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033795825516630499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ooooooorea: 我就是超级性缘脑……别人只要一对我透露出一点点好感我就会开始意淫对方是不是喜欢我之类……开始脑子里出现和对方doi的画面，摸我的样子………好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558050035899990018",
+        "conversation_id": "2033795825516630499",
+        "created_at": "2026-03-17T06:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033795825516630499"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033795825516630499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 177322,
+          "like_count": 1627,
+          "quote_count": 12,
+          "reply_count": 46,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "我就是超级性缘脑……别人只要一对我透露出一点点好感我就会开始意淫对方是不是喜欢我之类……开始脑子里出现和对方doi的画面，摸我的样子………好恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 113,
+          "like_count": 11958,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 591
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-12T11:17:37.000Z",
+        "description": "🐻🐻🐻🐻重度自恋者   288＋V\n\n推广自辨 小号防走丢@areeeooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "areeeooo"
+              }
+            ]
+          }
+        },
+        "id": "1558050035899990018",
+        "location": "山东",
+        "name": "orea",
+        "pinned_tweet_id": "2033114012074869183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758493778753757184/WXcsiLE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8252,
+          "following_count": 17,
+          "like_count": 128,
+          "listed_count": 30,
+          "media_count": 75,
+          "tweet_count": 591
+        },
+        "username": "ooooooorea",
+        "verified": false
+      }
+    ]
+  }
+}

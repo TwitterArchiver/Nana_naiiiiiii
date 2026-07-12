@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2042918498792526224",
+    "created_at": "2026-04-12T18:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043391352369803508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 16,
+          "id": "1603306318139248640",
+          "start": 9,
+          "username": "yhbkqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043391352369803508",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043185275917291667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @yhbkqs 我真是受不了了 啥时候才能看到这个梗不笑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043185275917291667].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043185275917291667",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043185275917291667"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2042918498792526224",
+        "created_at": "2026-04-12T18:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043391352369803508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 16,
+              "id": "1603306318139248640",
+              "start": 9,
+              "username": "yhbkqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043391352369803508",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043185275917291667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @yhbkqs 我真是受不了了 啥时候才能看到这个梗不笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2038899195973947514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 146,
+          "like_count": 14389,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 894
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西,不提供任何付费服务.我不吸毒，别钓了\n\n互关们可以私我领取tg🤲🏻❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2042185391361634720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 526,
+          "like_count": 41678,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 5227
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14869,
+          "following_count": 809,
+          "like_count": 46,
+          "listed_count": 64,
+          "media_count": 912,
+          "tweet_count": 5471
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

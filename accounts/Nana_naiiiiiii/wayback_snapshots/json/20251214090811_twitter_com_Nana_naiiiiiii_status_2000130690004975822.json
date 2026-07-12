@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1995031921806684617",
+    "created_at": "2025-12-14T09:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000130690004975822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463718627287318528",
+          "start": 0,
+          "username": "chanyeo19151906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000130690004975822",
+    "in_reply_to_user_id": "1463718627287318528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995031921806684617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanyeo19151906 宝宝可否求求渠道…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1995031887103102982",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_G7mJbkAYBOVN.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1995031921806684617",
+        "created_at": "2025-12-14T09:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000130690004975822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463718627287318528",
+              "start": 0,
+              "username": "chanyeo19151906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000130690004975822",
+        "in_reply_to_user_id": "1463718627287318528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995031921806684617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanyeo19151906 宝宝可否求求渠道…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995031887103102982"
+          ]
+        },
+        "author_id": "1463718627287318528",
+        "conversation_id": "1995031921806684617",
+        "created_at": "2025-11-30T07:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995031921806684617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NZU4mdOeg4",
+              "end": 34,
+              "expanded_url": "https://x.com/chanyeo19151906/status/1995031921806684617/photo/1",
+              "media_key": "3_1995031887103102982",
+              "start": 11,
+              "url": "https://t.co/NZU4mdOeg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995031921806684617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "thc真爽就是太呛了 https://t.co/NZU4mdOeg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 27,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-25T03:58:24.000Z",
+        "description": "🚪88",
+        "id": "1463718627287318528",
+        "name": "鸣asuka.(接推广)",
+        "pinned_tweet_id": "1582858834569490432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597513750055047169/mG4qlnA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 35,
+          "like_count": 1126,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 1271
+        },
+        "username": "chanyeo19151906",
+        "verified": false
+      }
+    ]
+  }
+}

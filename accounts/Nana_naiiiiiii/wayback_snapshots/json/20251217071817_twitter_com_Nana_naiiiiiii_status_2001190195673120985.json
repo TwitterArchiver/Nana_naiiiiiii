@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2000874476704309668",
+    "created_at": "2025-12-17T07:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001190195673120985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995055008384233472",
+          "start": 0,
+          "username": "tianshi20040812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001190195673120985",
+    "in_reply_to_user_id": "1995055008384233472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001146635515257059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tianshi20040812 这是好久之前了 做完手术接上了 现在我左手一用力就疼🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2000874476704309668",
+        "created_at": "2025-12-17T07:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001190195673120985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995055008384233472",
+              "start": 0,
+              "username": "tianshi20040812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001190195673120985",
+        "in_reply_to_user_id": "1995055008384233472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001146635515257059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tianshi20040812 这是好久之前了 做完手术接上了 现在我左手一用力就疼🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995055008384233472",
+        "conversation_id": "2000874476704309668",
+        "created_at": "2025-12-17T04:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001146635515257059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001146635515257059",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000874476704309668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 你要干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 27,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 52
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T08:59:26.000Z",
+        "description": "",
+        "id": "1995055008384233472",
+        "name": "Tianshi111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995055180908552193/CZXmgw98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "tianshi20040812",
+        "verified": false
+      }
+    ]
+  }
+}

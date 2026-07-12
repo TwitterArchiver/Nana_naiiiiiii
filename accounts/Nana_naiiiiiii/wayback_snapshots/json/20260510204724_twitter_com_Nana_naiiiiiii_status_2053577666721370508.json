@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2053147597280358477",
+    "created_at": "2026-05-10T20:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T21:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053577666721370508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950548412140494848",
+          "start": 0,
+          "username": "realQinYuele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053577666721370508",
+    "in_reply_to_user_id": "1950548412140494848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053147597280358477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realQinYuele 吓死我了我操"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2053147527663235077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4-zGHWsAU2NEm.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2053147597280358477",
+        "created_at": "2026-05-10T20:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T21:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053577666721370508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950548412140494848",
+              "start": 0,
+              "username": "realQinYuele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053577666721370508",
+        "in_reply_to_user_id": "1950548412140494848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053147597280358477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realQinYuele 吓死我了我操"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053147527663235077"
+          ]
+        },
+        "author_id": "1950548412140494848",
+        "conversation_id": "2053147597280358477",
+        "created_at": "2026-05-09T16:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053147597280358477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfBBnIjLXr",
+              "end": 53,
+              "expanded_url": "https://x.com/realQinYuele/status/2053147597280358477/photo/1",
+              "media_key": "3_2053147527663235077",
+              "start": 30,
+              "url": "https://t.co/vfBBnIjLXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053147597280358477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 15333,
+          "like_count": 625,
+          "quote_count": 6,
+          "reply_count": 73,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "中国网友创作的毛泽东meme\n快转发给你身边的共产主义者： https://t.co/vfBBnIjLXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 249,
+          "like_count": 17594,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1213
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T13:26:23.000Z",
+        "description": "Senior correspondent at Langxin News focusing on East Asian socio-political dynamics, digital civil rights, and emerging internet subcultures.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/langrenxinwen1",
+                "end": 23,
+                "expanded_url": "https://t.me/langrenxinwen1",
+                "start": 0,
+                "url": "https://t.co/CFxkcvTlO6"
+              }
+            ]
+          }
+        },
+        "id": "1950548412140494848",
+        "location": "Prague, Czech Republic",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000796873461043200/CC2Fl9ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25891,
+          "following_count": 341,
+          "like_count": 1961,
+          "listed_count": 71,
+          "media_count": 1625,
+          "tweet_count": 2064
+        },
+        "url": "https://t.co/CFxkcvTlO6",
+        "username": "realQinYuele",
+        "verified": false
+      }
+    ]
+  }
+}

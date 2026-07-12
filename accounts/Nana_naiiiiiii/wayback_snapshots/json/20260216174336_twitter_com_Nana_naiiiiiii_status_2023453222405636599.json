@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2023112351948693687",
+    "created_at": "2026-02-16T17:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T18:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023453222405636599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1223407990713114624",
+          "start": 0,
+          "username": "wmtbxsh"
+        },
+        {
+          "end": 19,
+          "id": "2003149753148932096",
+          "start": 9,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023453222405636599",
+    "in_reply_to_user_id": "1223407990713114624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023112351948693687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmtbxsh @Ruruko_oo 好恶心…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2023112351948693687",
+        "created_at": "2026-02-16T17:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023453222405636599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            },
+            {
+              "end": 19,
+              "id": "2003149753148932096",
+              "start": 9,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023453222405636599",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023112351948693687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh @Ruruko_oo 好恶心…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223407990713114624",
+        "conversation_id": "2023112351948693687",
+        "created_at": "2026-02-15T19:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T20:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023112351948693687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023112351948693687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 26591,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "看到一个言论说很多胖子喜欢萝莉 是因为胖子唧唧小 萝莉还没发育好 草萝莉才会有感觉 （太恶心了…要吐了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 60,
+          "like_count": 8025,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 294
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "我只想安静发疯💢｜碎碎念@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 12,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "name": "我明天不想说话（读研发疯版）",
+        "pinned_tweet_id": "2021485337516835277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43341,
+          "following_count": 242,
+          "like_count": 5121,
+          "listed_count": 98,
+          "media_count": 356,
+          "tweet_count": 1529
+        },
+        "username": "wmtbxsh",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "gekki 08 🚪80/120/520/1314 日语大部分是机翻。 不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2012381578379633007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 176,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 619
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

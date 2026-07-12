@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2010880245562478774",
+    "created_at": "2026-01-13T01:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T02:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010880245562478774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/llpipi/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/llpipi/status/2010574116907049319",
+          "start": 4,
+          "url": "https://t.co/S6Fx2mU3ui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010880245562478774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010574116907049319",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天 https://t.co/S6Fx2mU3ui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2010574110607147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-b-gElWAAA2PvI.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2010880245562478774",
+        "created_at": "2026-01-13T01:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010880245562478774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/llpipi/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/llpipi/status/2010574116907049319",
+              "start": 4,
+              "url": "https://t.co/S6Fx2mU3ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010880245562478774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010574116907049319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天 https://t.co/S6Fx2mU3ui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010574110607147008"
+          ]
+        },
+        "author_id": "1979698494316138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010574116907049319",
+        "created_at": "2026-01-12T04:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010574116907049319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8C8kh97Ip",
+              "end": 23,
+              "expanded_url": "https://x.com/llpipi/status/2010574116907049319/photo/1",
+              "media_key": "3_2010574110607147008",
+              "start": 0,
+              "url": "https://t.co/L8C8kh97Ip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010574116907049319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 11288,
+          "like_count": 710,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L8C8kh97Ip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 40,
+          "like_count": 3904,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 139
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T23:58:13.000Z",
+        "description": "“I post. You stare.”",
+        "id": "1979698494316138496",
+        "name": "BMW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991349444462129153/3Y4szxyb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9046,
+          "following_count": 0,
+          "like_count": 4313,
+          "listed_count": 10,
+          "media_count": 1060,
+          "tweet_count": 1361
+        },
+        "username": "llpipi",
+        "verified": true
+      }
+    ]
+  }
+}

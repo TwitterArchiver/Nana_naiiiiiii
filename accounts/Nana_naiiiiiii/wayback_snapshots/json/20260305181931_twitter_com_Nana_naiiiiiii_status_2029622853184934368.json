@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2029119293775069344",
+    "created_at": "2026-03-05T18:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T19:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029622853184934368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431510026221350912",
+          "start": 0,
+          "username": "ZdnxXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029622853184934368",
+    "in_reply_to_user_id": "1431510026221350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029462037756297235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZdnxXc 可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2029119293775069344",
+        "created_at": "2026-03-05T18:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T19:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029622853184934368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431510026221350912",
+              "start": 0,
+              "username": "ZdnxXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029622853184934368",
+        "in_reply_to_user_id": "1431510026221350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029462037756297235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZdnxXc 可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431510026221350912",
+        "conversation_id": "2029119293775069344",
+        "created_at": "2026-03-05T07:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029462037756297235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029462037756297235",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029119293775069344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 可以 但我还没吃过片剂4-ho-met"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 82,
+          "like_count": 10500,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 417
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "2009133793559683578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 102,
+          "like_count": 1067,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      }
+    ]
+  }
+}

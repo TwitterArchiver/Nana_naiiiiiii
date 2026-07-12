@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2073428259707170904",
+    "created_at": "2026-07-06T14:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T15:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074141762554343773"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074141762554343773",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073428259707170904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？这条咋火的 我没懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11666,
+        "height": 1280,
+        "media_key": "13_2073428096825561092",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073428096825561092/img/gDHMjYANlCQAOwsO.jpg",
+        "public_metrics": {
+          "view_count": 13817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073428096825561092/vid/avc1/320x568/stV01z9DmCq8xIIN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073428096825561092/vid/avc1/480x852/hCfNuZUoHDDUyTfh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073428096825561092/vid/avc1/720x1280/eB0RxXW0jdpSYjE7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073428096825561092/pl/9PdyF5J92ZvObLUR.m3u8?v=f79"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073428259707170904",
+        "created_at": "2026-07-06T14:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T15:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074141762554343773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074141762554343773",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073428259707170904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？这条咋火的 我没懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073428096825561092"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073428259707170904",
+        "created_at": "2026-07-04T15:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428259707170904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TiBehTzSpz",
+              "end": 32,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2073428259707170904/video/1",
+              "media_key": "13_2073428096825561092",
+              "start": 9,
+              "url": "https://t.co/TiBehTzSpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428259707170904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 14720,
+          "like_count": 277,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "老公爸爸主人爹😭 https://t.co/TiBehTzSpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 292,
+          "like_count": 20503,
+          "listed_count": 2,
+          "media_count": 139,
+          "tweet_count": 1576
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

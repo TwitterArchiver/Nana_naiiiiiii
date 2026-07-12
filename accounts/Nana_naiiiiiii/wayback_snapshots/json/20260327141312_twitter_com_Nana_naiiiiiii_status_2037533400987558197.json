@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2037508193950298506",
+    "created_at": "2026-03-27T14:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037533400987558197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900122867452567553",
+          "start": 0,
+          "username": "xioxiobnmo68407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037533400987558197",
+    "in_reply_to_user_id": "1900122867452567553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037527142322303304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioxiobnmo68407 好啊啊我拿玉米片跟你交换…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2037508193950298506",
+        "created_at": "2026-03-27T14:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037533400987558197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900122867452567553",
+              "start": 0,
+              "username": "xioxiobnmo68407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037533400987558197",
+        "in_reply_to_user_id": "1900122867452567553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037527142322303304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioxiobnmo68407 好啊啊我拿玉米片跟你交换…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900122867452567553",
+        "conversation_id": "2037508193950298506",
+        "created_at": "2026-03-27T13:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037527142322303304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037527142322303304",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037526896959951244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 下次去大上海俺给你发消息找我领取QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 143,
+          "like_count": 13949,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 772
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T09:53:01.000Z",
+        "description": "哭穷卖惨仇富厌男厌女厌世界",
+        "id": "1900122867452567553",
+        "location": "Thailand",
+        "name": "ゆめみ",
+        "pinned_tweet_id": "1990288295339962681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025868887477088256/oSu1sdie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 40,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 318
+        },
+        "username": "xioxiobnmo68407",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1998020202538361050",
+    "created_at": "2025-12-08T16:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T17:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998061216120660389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998061216120660389",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998020202538361050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokigirlluv 不早说！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1998020202538361050",
+        "created_at": "2025-12-08T16:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998061216120660389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998061216120660389",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998020202538361050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokigirlluv 不早说！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919090536180600832",
+        "conversation_id": "1998020202538361050",
+        "created_at": "2025-12-08T13:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T14:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998020202538361050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998020202538361050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 836,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我鼓励大家用大麻来戒烟 尼古丁这种东西真的太害人了 大麻可以让有进食障碍的人恢复食欲 让失眠的人重新睡个好觉 我开玩笑的 不要当真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 22,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 32
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQA6kY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQA6kY"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "666",
+        "pinned_tweet_id": "1993309795512942974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995153705914814464/U9vW_fZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9770,
+          "following_count": 49,
+          "like_count": 396,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 266
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

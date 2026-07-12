@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047013466591150508",
+    "created_at": "2026-04-23T14:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047317053330342163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990814524556128256",
+          "start": 0,
+          "username": "angle71766"
+        },
+        {
+          "end": 22,
+          "id": "2003149753148932096",
+          "start": 12,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047317053330342163",
+    "in_reply_to_user_id": "1990814524556128256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047013466591150508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angle71766 @Ruruko_oo 感觉是张胜春发现自己身份证被限购去拿娜娜的开了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2047013396982431745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhz1smagAE2CBc.jpg",
+        "width": 2170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047013466591150508",
+        "created_at": "2026-04-23T14:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047317053330342163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990814524556128256",
+              "start": 0,
+              "username": "angle71766"
+            },
+            {
+              "end": 22,
+              "id": "2003149753148932096",
+              "start": 12,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047317053330342163",
+        "in_reply_to_user_id": "1990814524556128256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047013466591150508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angle71766 @Ruruko_oo 感觉是张胜春发现自己身份证被限购去拿娜娜的开了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047013396982431745"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2047013466591150508",
+        "created_at": "2026-04-22T18:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:03:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047013410408468875",
+          "2047013466591150508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PUM4Rk8fI",
+              "end": 23,
+              "expanded_url": "https://x.com/angle71766/status/2047013466591150508/photo/1",
+              "media_key": "3_2047013396982431745",
+              "start": 0,
+              "url": "https://t.co/1PUM4Rk8fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047013466591150508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 14064,
+          "like_count": 553,
+          "quote_count": 12,
+          "reply_count": 24,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1PUM4Rk8fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 164,
+          "like_count": 15254,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 984
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 151,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 374
+        },
+        "username": "angle71766",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "安静的私密账号 gekki 08 不线下不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2045806061559660793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 220,
+          "like_count": 2474,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1234
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

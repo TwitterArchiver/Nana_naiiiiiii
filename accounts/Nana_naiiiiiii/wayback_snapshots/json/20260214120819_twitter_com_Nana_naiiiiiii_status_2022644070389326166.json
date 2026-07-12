@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022644056065740801",
+        "3_2022644056111878145"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2022644070389326166",
+    "created_at": "2026-02-14T12:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022644070389326166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986837441874173955",
+          "start": 3,
+          "username": "pepeiii66"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NXSBMgEOe1",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022644070389326166/photo/1",
+          "media_key": "3_2022644056065740801",
+          "start": 14,
+          "url": "https://t.co/NXSBMgEOe1"
+        },
+        {
+          "display_url": "pic.x.com/NXSBMgEOe1",
+          "end": 37,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022644070389326166/photo/1",
+          "media_key": "3_2022644056111878145",
+          "start": 14,
+          "url": "https://t.co/NXSBMgEOe1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022644070389326166",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝宝😋@pepeiii66 https://t.co/NXSBMgEOe1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022644056065740801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHgDXTakAECq4Q.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2022644056111878145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHgDXeakAEi4vs.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022644056065740801",
+            "3_2022644056111878145"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2022644070389326166",
+        "created_at": "2026-02-14T12:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022644070389326166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986837441874173955",
+              "start": 3,
+              "username": "pepeiii66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXSBMgEOe1",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022644070389326166/photo/1",
+              "media_key": "3_2022644056065740801",
+              "start": 14,
+              "url": "https://t.co/NXSBMgEOe1"
+            },
+            {
+              "display_url": "pic.x.com/NXSBMgEOe1",
+              "end": 37,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2022644070389326166/photo/1",
+              "media_key": "3_2022644056111878145",
+              "start": 14,
+              "url": "https://t.co/NXSBMgEOe1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022644070389326166",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝😋@pepeiii66 https://t.co/NXSBMgEOe1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 59,
+          "like_count": 7661,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 278
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "点单直接飞机",
+        "id": "1986837441874173955",
+        "location": "✉️",
+        "name": "不命名",
+        "pinned_tweet_id": "1994764842704699839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017457510026985472/azfEUCF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 66,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 121
+        },
+        "username": "pepeiii66",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038288397719216402",
+    "created_at": "2026-03-30T09:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038550118937620496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1986760052955652096",
+          "start": 0,
+          "username": "ZhaXia123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038550118937620496",
+    "in_reply_to_user_id": "1986760052955652096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038338589151604976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhaXia123 感觉欧美区脂肪层已是基操…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038288397719216402",
+        "created_at": "2026-03-30T09:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038550118937620496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1986760052955652096",
+              "start": 0,
+              "username": "ZhaXia123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038550118937620496",
+        "in_reply_to_user_id": "1986760052955652096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038338589151604976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhaXia123 感觉欧美区脂肪层已是基操…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986760052955652096",
+        "conversation_id": "2038288397719216402",
+        "created_at": "2026-03-29T19:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038338589151604976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038338589151604976",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038288397719216402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 欧美区自残咋他妈这么吓人 一刀直接脂肪层"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 148,
+          "like_count": 14260,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 820
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T11:38:20.000Z",
+        "description": "保持理智 不停下思考",
+        "id": "1986760052955652096",
+        "name": "one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034306215086592000/ey2a-d6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 39,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 597
+        },
+        "username": "ZhaXia123",
+        "verified": false
+      }
+    ]
+  }
+}

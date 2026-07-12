@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1993913531922776566",
+    "created_at": "2025-11-27T23:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T00:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994188948776550437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922396327927021573",
+          "start": 0,
+          "username": "DoctorGoon80370"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994188948776550437",
+    "in_reply_to_user_id": "1922396327927021573",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993913531922776566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoctorGoon80370 🫂🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 489,
+        "media_key": "3_1993913530299338752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vNyqZWUAAEBvJ.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1993913531922776566",
+        "created_at": "2025-11-27T23:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994188948776550437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922396327927021573",
+              "start": 0,
+              "username": "DoctorGoon80370"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994188948776550437",
+        "in_reply_to_user_id": "1922396327927021573",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993913531922776566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoctorGoon80370 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993913530299338752"
+          ]
+        },
+        "author_id": "1922396327927021573",
+        "conversation_id": "1993913531922776566",
+        "created_at": "2025-11-27T05:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993913531922776566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fwWVYE1IR",
+              "end": 51,
+              "expanded_url": "https://x.com/DoctorGoon80370/status/1993913531922776566/photo/1",
+              "media_key": "3_1993913530299338752",
+              "start": 28,
+              "url": "https://t.co/3fwWVYE1IR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993913531922776566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2766,
+          "like_count": 432,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "i hate myself i want to die https://t.co/3fwWVYE1IR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T21:00:16.000Z",
+        "description": "when i die i want to be ur guardian angel !! ~ shedtwt  ~ no dni :3 mw ez !!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goondoctor.straw.page",
+                "end": 23,
+                "expanded_url": "https://goondoctor.straw.page",
+                "start": 0,
+                "url": "https://t.co/L7otpdHtU5"
+              }
+            ]
+          }
+        },
+        "id": "1922396327927021573",
+        "location": "~ femcel girlfailure ~",
+        "name": "rei ˚ʚ♡ɞ˚shtwt",
+        "pinned_tweet_id": "1937677042637742159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941319525024100352/rbEwF6i9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 312,
+          "like_count": 3375,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/L7otpdHtU5",
+        "username": "DoctorGoon80370",
+        "verified": false
+      }
+    ]
+  }
+}

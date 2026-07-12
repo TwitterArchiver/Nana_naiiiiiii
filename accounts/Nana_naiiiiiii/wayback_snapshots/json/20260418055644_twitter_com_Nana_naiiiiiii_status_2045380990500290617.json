@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2045217472371204346",
+    "created_at": "2026-04-18T05:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045380990500290617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        },
+        {
+          "end": 26,
+          "id": "1694679423159836672",
+          "start": 13,
+          "username": "KrebbsB15422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045380990500290617",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045217472371204346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 @KrebbsB15422 笑死我了有弟弟线下吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2045217472371204346",
+        "created_at": "2026-04-18T05:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045380990500290617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            },
+            {
+              "end": 26,
+              "id": "1694679423159836672",
+              "start": 13,
+              "username": "KrebbsB15422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045380990500290617",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045217472371204346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 @KrebbsB15422 笑死我了有弟弟线下吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2045217472371204346",
+        "created_at": "2026-04-17T19:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045217472371204346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045217472371204346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1514,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "导几把太大众了！割几把才是真男人！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 155,
+          "like_count": 14832,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 934
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "已完成今日大学习【寻回推u】🔪\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin36611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin36611",
+                "start": 0,
+                "url": "https://t.co/eWuyqK1iCB"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 797,
+          "like_count": 6792,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/eWuyqK1iCB",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-24T11:54:02.000Z",
+        "description": "對不起，我只是在泥潭掙扎的可憐小孩\n无言直fo抱歉，查成分回fo。 我有点精日，下辈子希望是日本人\n匿名提问https://t.co/tFYgnHYSkF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/k%E2%80%86n%E2…",
+                "end": 77,
+                "expanded_url": "https://ngl.link/k%E2%80%86n%E2%80%86d",
+                "start": 54,
+                "url": "https://t.co/tFYgnHYSkF"
+              }
+            ]
+          }
+        },
+        "id": "1694679423159836672",
+        "name": "浅な川椿",
+        "pinned_tweet_id": "2032733312314487252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700458848673484800/n9u9uMHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 181,
+          "like_count": 674,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 696
+        },
+        "username": "KrebbsB15422",
+        "verified": true
+      }
+    ]
+  }
+}

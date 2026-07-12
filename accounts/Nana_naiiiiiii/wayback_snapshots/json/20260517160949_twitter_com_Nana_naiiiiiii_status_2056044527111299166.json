@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2056024022048215206",
+    "created_at": "2026-05-17T16:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T17:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056044527111299166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882013113949855744",
+          "start": 0,
+          "username": "endless_37"
+        },
+        {
+          "end": 23,
+          "id": "1136294746165407746",
+          "start": 12,
+          "username": "SinorotorD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056044527111299166",
+    "in_reply_to_user_id": "1882013113949855744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056032067503202540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@endless_37 @SinorotorD 哼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2056024022048215206",
+        "created_at": "2026-05-17T16:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056044527111299166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882013113949855744",
+              "start": 0,
+              "username": "endless_37"
+            },
+            {
+              "end": 23,
+              "id": "1136294746165407746",
+              "start": 12,
+              "username": "SinorotorD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056044527111299166",
+        "in_reply_to_user_id": "1882013113949855744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056032067503202540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@endless_37 @SinorotorD 哼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882013113949855744",
+        "conversation_id": "2056024022048215206",
+        "created_at": "2026-05-17T15:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056032067503202540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 27,
+              "id": "1136294746165407746",
+              "start": 16,
+              "username": "SinorotorD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056032067503202540",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056024022048215206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @SinorotorD 我不愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 250,
+          "like_count": 17660,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1224
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T10:31:17.000Z",
+        "description": "旧情人的泪做的香水",
+        "id": "1882013113949855744",
+        "name": "人类",
+        "pinned_tweet_id": "2051291565847671202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022447638269038594/-d9lp5ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 151,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3639
+        },
+        "username": "endless_37",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-05T15:32:33.000Z",
+        "description": "遗书，一个倒霉蛋，一个弱智，一个傻子，一个网蛆，一个神人，一个行走的五十万，一个唐逼，不好看，不聪明，情商低，没智商，感受不到人间的温暖。",
+        "id": "1136294746165407746",
+        "name": "怜怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019691964699144195/WNK3UScR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 3,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "SinorotorD",
+        "verified": false
+      }
+    ]
+  }
+}

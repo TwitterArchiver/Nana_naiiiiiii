@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049514989908885885",
+    "created_at": "2026-04-29T15:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049514989908885885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1941398737840111623",
+          "start": 3,
+          "username": "loooolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049514989908885885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049426509274988800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loooolzaozimin: 广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049514989908885885",
+        "created_at": "2026-04-29T15:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049514989908885885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1941398737840111623",
+              "start": 3,
+              "username": "loooolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049514989908885885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049426509274988800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loooolzaozimin: 广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941398737840111623",
+        "conversation_id": "2049426509274988800",
+        "created_at": "2026-04-29T09:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049426509274988800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049426509274988800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9035,
+          "like_count": 240,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒太蠢了 你都不用抽查这个那个 你只要在大街上看到穿那个唐企鹅拖鞋穿那个唐企鹅短袖的绝对od 你直接就统统抓起来就行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 201,
+          "like_count": 16261,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1087
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:28:40.000Z",
+        "description": "",
+        "id": "1941398737840111623",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "2032329380845011431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042573347343712256/Cdo-ax9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7701,
+          "following_count": 27,
+          "like_count": 156,
+          "listed_count": 7,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "username": "loooolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

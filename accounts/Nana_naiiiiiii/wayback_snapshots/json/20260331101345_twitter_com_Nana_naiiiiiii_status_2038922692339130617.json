@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038916455497134430",
+    "created_at": "2026-03-31T10:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038922692339130617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1805386585405579264",
+          "start": 6,
+          "username": "youmaobingmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038922692339130617",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038916455497134430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算了 等我拿@youmaobingmiao 这个支那粉蛆的号联系被抽到的宝宝吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038916447859363840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuvtOlb0AAIUnk.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038916455497134430",
+        "created_at": "2026-03-31T10:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038922692339130617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1805386585405579264",
+              "start": 6,
+              "username": "youmaobingmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038922692339130617",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038916455497134430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了 等我拿@youmaobingmiao 这个支那粉蛆的号联系被抽到的宝宝吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038916447859363840"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038916455497134430",
+        "created_at": "2026-03-31T09:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038916455497134430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1589508609578176512",
+              "start": 27,
+              "username": "mifanmiaomiao"
+            },
+            {
+              "end": 59,
+              "id": "1339446920511569920",
+              "start": 49,
+              "username": "shudesu00"
+            },
+            {
+              "end": 73,
+              "id": "1777129646867542016",
+              "start": 60,
+              "username": "Sunset__3000"
+            },
+            {
+              "end": 93,
+              "id": "1690530117171453952",
+              "start": 81,
+              "username": "AgNo3_XQ719"
+            },
+            {
+              "end": 109,
+              "id": "1530699087133421568",
+              "start": 94,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 121,
+              "id": "1736764672999878656",
+              "start": 110,
+              "username": "BAKA__0902"
+            },
+            {
+              "end": 163,
+              "id": "1952805837401202688",
+              "start": 153,
+              "username": "Z9Gsystem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfxTlHH8Kk",
+              "end": 205,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2038916455497134430/photo/1",
+              "media_key": "3_2038916447859363840",
+              "start": 182,
+              "url": "https://t.co/dfxTlHH8Kk"
+            },
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 229,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2038907522875363604",
+              "start": 206,
+              "url": "https://t.co/fJnXlBzocN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038916455497134430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038907522875363604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个一个亲自数的 每位互关都很眼熟呢🥺\n一等奖52元@mifanmiaomiao \n二等奖20元@shudesu00 @Sunset__3000 \n三等奖10元@AgNo3_XQ719 @SpicyspacEmk16 @BAKA__0902 \n请大家直接发我收款码 我得晚点才能转😭\n还有五盒玉米片黑幕给@Z9Gsystem 就作为我昨晚对你导了一管的补偿吧！ https://t.co/dfxTlHH8Kk https://t.co/fJnXlBzocN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2038899195973947514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 155,
+          "like_count": 14484,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 877
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T23:44:53.000Z",
+        "description": "小粉红 CNN1 相信咱妈 爱党爱国爱人民\n小宝宝@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1805386585405579264",
+        "location": "突尼斯",
+        "name": "少羽nb666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036497175329505280/-BwHbH4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "youmaobingmiao",
+        "verified": false
+      }
+    ]
+  }
+}

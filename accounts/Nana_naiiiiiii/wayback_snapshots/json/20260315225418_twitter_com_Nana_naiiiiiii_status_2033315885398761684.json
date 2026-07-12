@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2032712796945961051",
+    "created_at": "2026-03-15T22:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T23:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033315885398761684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958561918328643584",
+          "start": 0,
+          "username": "qwq_jihoon"
+        },
+        {
+          "end": 19,
+          "id": "1990264238812884992",
+          "start": 12,
+          "username": "kqklzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033315885398761684",
+    "in_reply_to_user_id": "1958561918328643584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032712796945961051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_jihoon @kqklzs 求互fo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2032712796945961051",
+        "created_at": "2026-03-15T22:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T23:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033315885398761684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958561918328643584",
+              "start": 0,
+              "username": "qwq_jihoon"
+            },
+            {
+              "end": 19,
+              "id": "1990264238812884992",
+              "start": 12,
+              "username": "kqklzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033315885398761684",
+        "in_reply_to_user_id": "1958561918328643584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032712796945961051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_jihoon @kqklzs 求互fo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958561918328643584",
+        "conversation_id": "2032712796945961051",
+        "created_at": "2026-03-14T06:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032712796945961051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032712796945961051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能转一下我呀 我想互fo餐劵妹🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 102,
+          "like_count": 11605,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 505
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T16:08:55.000Z",
+        "description": "我互fo|健全不互|od|加vq门槛52000不给别加|: @IBGDRGN|: @Lilpeep|最爱的蜜: @GD_Aug18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "IBGDRGN"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "Lilpeep"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "GD_Aug18"
+              }
+            ]
+          }
+        },
+        "id": "1958561918328643584",
+        "location": "距离你0.52km",
+        "name": "小犬_824",
+        "pinned_tweet_id": "2010414420879622167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030595115061014529/UNfmnPq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 96,
+          "like_count": 5709,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 335
+        },
+        "username": "qwq_jihoon",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T03:43:26.000Z",
+        "description": "喜欢世界上很多东西除了自己😢\n餐券弟/男剧女/coser/oder/重焦重抑\n这些都是我^^欢迎来咨询或者宣泄任何东西，我都会看的（除了垃圾广告）\n叫我小拜就好了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kqklzs1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kqklzs1",
+                "start": 0,
+                "url": "https://t.co/91ELI3YUqw"
+              }
+            ]
+          }
+        },
+        "id": "1990264238812884992",
+        "name": "bipolar...",
+        "pinned_tweet_id": "1995845018486178254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027000737100857344/8bMneVGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 175,
+          "like_count": 250,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/91ELI3YUqw",
+        "username": "kqklzs",
+        "verified": false
+      }
+    ]
+  }
+}

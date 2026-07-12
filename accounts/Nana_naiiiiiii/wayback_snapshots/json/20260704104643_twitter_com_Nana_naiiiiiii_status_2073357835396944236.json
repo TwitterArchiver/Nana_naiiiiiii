@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2073357835396944236",
+    "created_at": "2026-07-04T10:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073357835396944236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2073356673557914039",
+          "start": 69,
+          "url": "https://t.co/E5HrVH6fHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073357835396944236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073356673557914039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好在是这两次我都不在她身边啊 但我现在巨担心她妈看她手机发现我俩聊天记录有点啥再给我点了 这个逼一直在祸害身边朋友我真受不了了😂😂😂😂😂 https://t.co/E5HrVH6fHr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073357835396944236",
+        "created_at": "2026-07-04T10:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073357835396944236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2073356673557914039",
+              "start": 69,
+              "url": "https://t.co/E5HrVH6fHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073357835396944236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073356673557914039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好在是这两次我都不在她身边啊 但我现在巨担心她妈看她手机发现我俩聊天记录有点啥再给我点了 这个逼一直在祸害身边朋友我真受不了了😂😂😂😂😂 https://t.co/E5HrVH6fHr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2073356673557914039",
+        "created_at": "2026-07-04T10:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073356673557914039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073356673557914039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个很好的朋友 但自从她开始跟那群司马挂壁仔玩了之后我越来越烦 上次手机丢了直接失联 她生物妈一个电话给我打过来让我找了她一天 我天天跟她说别吃感康别瞎联用别天天玩解离剂 答应得好好的 现在牛逼了玉米片普瑞巴林感康一块下肚直接120 她生物妈又空降来了我是真尼玛想死😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 290,
+          "like_count": 20375,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

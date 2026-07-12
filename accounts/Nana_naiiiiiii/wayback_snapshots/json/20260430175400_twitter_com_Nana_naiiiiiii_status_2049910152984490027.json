@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049625244994830441",
+    "created_at": "2026-04-30T17:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T18:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049910152984490027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751595389562822657",
+          "start": 0,
+          "username": "ijia522218"
+        },
+        {
+          "end": 26,
+          "id": "1976659813863227392",
+          "start": 12,
+          "username": "qian_YuqianMi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049910152984490027",
+    "in_reply_to_user_id": "1751595389562822657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049625244994830441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijia522218 @qian_YuqianMi 如此美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2448,
+        "media_key": "3_2049625198559625216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHG7QjrWAAAmhW_.jpg",
+        "width": 2622
+      },
+      {
+        "height": 1284,
+        "media_key": "3_2049625205782298624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHG7Q-lXQAAumA8.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049625244994830441",
+        "created_at": "2026-04-30T17:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049910152984490027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751595389562822657",
+              "start": 0,
+              "username": "ijia522218"
+            },
+            {
+              "end": 26,
+              "id": "1976659813863227392",
+              "start": 12,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049910152984490027",
+        "in_reply_to_user_id": "1751595389562822657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049625244994830441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijia522218 @qian_YuqianMi 如此美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049625198559625216",
+            "3_2049625205782298624"
+          ]
+        },
+        "author_id": "1751595389562822657",
+        "conversation_id": "2049625244994830441",
+        "created_at": "2026-04-29T23:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T00:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049625244994830441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 114,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 135,
+              "start": 129,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 143,
+              "start": 137,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "地雷系"
+            },
+            {
+              "end": 156,
+              "start": 150,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1eIpuDIcU",
+              "end": 180,
+              "expanded_url": "https://x.com/ijia522218/status/2049625244994830441/photo/1",
+              "media_key": "3_2049625198559625216",
+              "start": 157,
+              "url": "https://t.co/G1eIpuDIcU"
+            },
+            {
+              "display_url": "pic.x.com/G1eIpuDIcU",
+              "end": 180,
+              "expanded_url": "https://x.com/ijia522218/status/2049625244994830441/photo/1",
+              "media_key": "3_2049625205782298624",
+              "start": 157,
+              "url": "https://t.co/G1eIpuDIcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049625244994830441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1624,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个自介条 欢迎互fo~\n我是里奈🌸\n双相感情障碍/两年多经验Oder（几乎o的少了）\n我很温良~小女孩/可爱小男孩/跨性别找我说话没问题👌\n日常发碎碎念和od注意事项，会游走在互关评论区或者疯狂点赞ww总之和我互动吧😌\n #病み垢さんと繋がりたい  \n#病み垢女子  #自撮り界隈 \n#地雷系 #地雷系女子 https://t.co/G1eIpuDIcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Kamigyō-ku, Kyōto, Japan",
+              "geo": {
+                "coordinates": [
+                  135.75666,
+                  35.02954
+                ],
+                "type": "Point"
+              },
+              "locality": "Kamigyō-ku",
+              "region": "Kyōto",
+              "sub_region": "Kyōto-shi"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 219,
+          "like_count": 16776,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1129
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/点赞就是想和你互动/非常好脾气~/药物安全非专业人士全是亲身体验，想戒断我会给你建议",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2049625244994830441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 192,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 349
+        },
+        "username": "ijia522218",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 860,
+          "like_count": 27674,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 5489
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

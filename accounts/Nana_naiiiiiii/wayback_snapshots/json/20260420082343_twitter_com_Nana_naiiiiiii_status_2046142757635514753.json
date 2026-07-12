@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045543240041218048"
+      ],
+      "media_source_tweet_id": [
+        "2045543247679017330"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2046142757635514753",
+    "created_at": "2026-04-20T08:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046142757635514753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557839863151337473",
+          "start": 3,
+          "username": "scutigera_kuma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTdHgMquC3",
+          "end": 47,
+          "expanded_url": "https://x.com/scutigera_kuma/status/2045543247679017330/photo/1",
+          "media_key": "3_2045543240041218048",
+          "start": 24,
+          "url": "https://t.co/OTdHgMquC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046142757635514753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045543247679017330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @scutigera_kuma: 我笑得 https://t.co/OTdHgMquC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1763,
+        "media_key": "3_2045543240041218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6vTNbwAAs4P4.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543240041218048"
+          ],
+          "media_source_tweet_id": [
+            "2045543247679017330"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2046142757635514753",
+        "created_at": "2026-04-20T08:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046142757635514753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557839863151337473",
+              "start": 3,
+              "username": "scutigera_kuma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTdHgMquC3",
+              "end": 47,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2045543247679017330/photo/1",
+              "media_key": "3_2045543240041218048",
+              "start": 24,
+              "url": "https://t.co/OTdHgMquC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046142757635514753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045543247679017330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @scutigera_kuma: 我笑得 https://t.co/OTdHgMquC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045543240041218048"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "2045543247679017330",
+        "created_at": "2026-04-18T16:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045543247679017330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTdHgMquC3",
+              "end": 27,
+              "expanded_url": "https://x.com/scutigera_kuma/status/2045543247679017330/photo/1",
+              "media_key": "3_2045543240041218048",
+              "start": 4,
+              "url": "https://t.co/OTdHgMquC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045543247679017330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13955,
+          "like_count": 205,
+          "quote_count": 6,
+          "reply_count": 19,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我笑得 https://t.co/OTdHgMquC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 157,
+          "like_count": 14980,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 952
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "kuma/♂/中文/日本语/お幸せに/@mentallychels重度依赖ʕ ᵔᴥᵔ ʔ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 19,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "桃子互联网医生",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022283211133599744/IMwyHZy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4748,
+          "following_count": 3486,
+          "like_count": 34207,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 9114
+        },
+        "username": "scutigera_kuma",
+        "verified": false
+      }
+    ]
+  }
+}

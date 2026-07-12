@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036433939179700486",
+    "created_at": "2026-03-31T09:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038919150060658825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1805386585405579264",
+          "start": 0,
+          "username": "youmaobingmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038919150060658825",
+    "in_reply_to_user_id": "1805386585405579264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036433939179700486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youmaobingmiao 我输了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036433939179700486",
+        "created_at": "2026-03-31T09:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038919150060658825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1805386585405579264",
+              "start": 0,
+              "username": "youmaobingmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038919150060658825",
+        "in_reply_to_user_id": "1805386585405579264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036433939179700486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youmaobingmiao 我输了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805386585405579264",
+        "conversation_id": "2036433939179700486",
+        "created_at": "2026-03-24T13:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036433939179700486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036433939179700486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1271,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和平对掏求输赌命输了跳楼谁接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2038899195973947514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 155,
+          "like_count": 14484,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 873
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T23:44:53.000Z",
+        "description": "小粉红 CNN1 相信咱妈 爱党爱国爱人民\n小宝宝@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 25,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "1805386585405579264",
+        "location": "突尼斯",
+        "name": "少羽nb666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036497175329505280/-BwHbH4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "youmaobingmiao",
+        "verified": false
+      }
+    ]
+  }
+}

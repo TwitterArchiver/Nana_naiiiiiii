@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062413946985066496"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2062413960335471015",
+    "created_at": "2026-06-04T05:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062413960335471015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wHWpcdBTQD",
+          "end": 25,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2062413960335471015/photo/1",
+          "media_key": "3_2062413946985066496",
+          "start": 2,
+          "url": "https://t.co/wHWpcdBTQD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062413960335471015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘘 https://t.co/wHWpcdBTQD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062413946985066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8qjsHbMAAJ5_7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062413946985066496"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2062413960335471015",
+        "created_at": "2026-06-04T05:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062413960335471015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHWpcdBTQD",
+              "end": 25,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2062413960335471015/photo/1",
+              "media_key": "3_2062413946985066496",
+              "start": 2,
+              "url": "https://t.co/wHWpcdBTQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062413960335471015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘘 https://t.co/wHWpcdBTQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 260,
+          "like_count": 17910,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1283
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

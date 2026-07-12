@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036780147647647792",
+    "created_at": "2026-03-25T12:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036780147647647792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2036479068888244272",
+          "start": 23,
+          "url": "https://t.co/ehhVidn3nF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036780147647647792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036479068888244272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛逼兄弟没话说中午吐完睡了一下午刚起来又难受 https://t.co/ehhVidn3nF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036780147647647792",
+        "created_at": "2026-03-25T12:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036780147647647792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2036479068888244272",
+              "start": 23,
+              "url": "https://t.co/ehhVidn3nF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036780147647647792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036479068888244272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛逼兄弟没话说中午吐完睡了一下午刚起来又难受 https://t.co/ehhVidn3nF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036479068888244272",
+        "created_at": "2026-03-24T16:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036479068888244272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036479068888244272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1636,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5tsns下肚 不安啊 上次的事真给我整怕了 不知道会发生什么！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 134,
+          "like_count": 13452,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 731
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

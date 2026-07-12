@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007928395745935361"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2007928409083756628",
+    "created_at": "2026-01-04T21:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T22:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007928409083756628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZy6VJHJPC",
+          "end": 164,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007928409083756628/photo/1",
+          "media_key": "3_2007928395745935361",
+          "start": 141,
+          "url": "https://t.co/RZy6VJHJPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007928409083756628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜晚太短，我来不及弥补。没多少血能流，脂肪也暴露不出来。我很痛，全身痛。谵妄过后如梦初醒，我想通了，你们可以为所欲为，你们对我的关心也好嘲笑也罢，一切都影响不到我，我不会因为任何人任何事改变自己。除了洞洞吧，我不知道为什么我怎么这么爱他了，甚至愿意为了他动摇。唉，爱是震荡，我想你 https://t.co/RZy6VJHJPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007928395745935361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G92YPMrbQAE1SEZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007928395745935361"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2007928409083756628",
+        "created_at": "2026-01-04T21:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T22:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007928409083756628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZy6VJHJPC",
+              "end": 164,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2007928409083756628/photo/1",
+              "media_key": "3_2007928395745935361",
+              "start": 141,
+              "url": "https://t.co/RZy6VJHJPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007928409083756628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜晚太短，我来不及弥补。没多少血能流，脂肪也暴露不出来。我很痛，全身痛。谵妄过后如梦初醒，我想通了，你们可以为所欲为，你们对我的关心也好嘲笑也罢，一切都影响不到我，我不会因为任何人任何事改变自己。除了洞洞吧，我不知道为什么我怎么这么爱他了，甚至愿意为了他动摇。唉，爱是震荡，我想你 https://t.co/RZy6VJHJPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 33,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 106
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

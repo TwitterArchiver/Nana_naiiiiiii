@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038669005310095360"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038669011907653901",
+    "created_at": "2026-03-30T17:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T18:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038669011907653901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 150,
+          "id": "1218831437865963520",
+          "start": 139,
+          "username": "_jack_zhao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3q3f0m2gjy",
+          "end": 174,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2038669011907653901/photo/1",
+          "media_key": "3_2038669005310095360",
+          "start": 151,
+          "url": "https://t.co/3q3f0m2gjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038669011907653901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "600fo了 感谢大家喜欢我 配图就是我想说的 这首歌是我曾经最好的异性朋友带我听的 至于为什么是“曾经”呢 因为他早已永远地离开了 我理解所有人的痛苦 我也知道死亡是最好的解脱 但还是无法接受 看到大家这样我真心难过 我改变不了任何已经发生的和即将到来的 唉 最好还是不要死啊@_jack_zhao https://t.co/3q3f0m2gjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2038669005310095360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErOqLQbcAABP0h.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038669005310095360"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038669011907653901",
+        "created_at": "2026-03-30T17:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T18:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038669011907653901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 150,
+              "id": "1218831437865963520",
+              "start": 139,
+              "username": "_jack_zhao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3q3f0m2gjy",
+              "end": 174,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2038669011907653901/photo/1",
+              "media_key": "3_2038669005310095360",
+              "start": 151,
+              "url": "https://t.co/3q3f0m2gjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038669011907653901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "600fo了 感谢大家喜欢我 配图就是我想说的 这首歌是我曾经最好的异性朋友带我听的 至于为什么是“曾经”呢 因为他早已永远地离开了 我理解所有人的痛苦 我也知道死亡是最好的解脱 但还是无法接受 看到大家这样我真心难过 我改变不了任何已经发生的和即将到来的 唉 最好还是不要死啊@_jack_zhao https://t.co/3q3f0m2gjy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 152,
+          "like_count": 14359,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 859
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-19T09:44:04.000Z",
+        "description": "",
+        "id": "1218831437865963520",
+        "location": "🚪999",
+        "name": "Psychocandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708657661456297984/KxNF-dDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 583,
+          "like_count": 18762,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 4412
+        },
+        "username": "_jack_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2043830099133518001",
+    "created_at": "2026-04-13T23:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T00:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043830099133518001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043830099133518001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043515100540338620",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGod__: 现在是推特大掉fo时代！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2043830099133518001",
+        "created_at": "2026-04-13T23:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043830099133518001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043830099133518001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043515100540338620",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGod__: 现在是推特大掉fo时代！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2043515100540338620",
+        "created_at": "2026-04-13T02:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043515100540338620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043515100540338620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19185,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "现在是推特大掉fo时代！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 154,
+          "like_count": 14605,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 908
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "我是神明 喜欢喜欢我的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecy3bV"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行 春夏秋 春",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041792804310151169/_3LSNwPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7091,
+          "following_count": 235,
+          "like_count": 32588,
+          "listed_count": 19,
+          "media_count": 213,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/ZLduecy3bV",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

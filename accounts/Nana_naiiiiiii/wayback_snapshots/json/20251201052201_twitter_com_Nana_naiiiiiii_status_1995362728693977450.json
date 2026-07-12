@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1995275825961468402",
+    "created_at": "2025-12-01T05:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T06:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995362728693977450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960389326258495492",
+          "start": 0,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995362728693977450",
+    "in_reply_to_user_id": "1960389326258495492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995275825961468402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@looolzaozimin 后备箱那个是乌苏吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31810,
+        "height": 1280,
+        "media_key": "13_1995275716251029504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995275716251029504/img/eqXHVr7nxIgzEgAJ.jpg",
+        "public_metrics": {
+          "view_count": 725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995275716251029504/vid/avc1/320x568/OeltwU2yKoIwyvrl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995275716251029504/vid/avc1/480x852/L_Lev7qHa6n5dBzG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995275716251029504/vid/avc1/720x1280/nudqwQ9JB99xx1eE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995275716251029504/pl/KfYf5WgtJY9aDGRl.m3u8?v=775"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1995275825961468402",
+        "created_at": "2025-12-01T05:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995362728693977450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960389326258495492",
+              "start": 0,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995362728693977450",
+        "in_reply_to_user_id": "1960389326258495492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995275825961468402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@looolzaozimin 后备箱那个是乌苏吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995275716251029504"
+          ]
+        },
+        "author_id": "1960389326258495492",
+        "conversation_id": "1995275825961468402",
+        "created_at": "2025-11-30T23:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995275825961468402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUn8ZRJHKs",
+              "end": 23,
+              "expanded_url": "https://x.com/looolzaozimin/status/1995275825961468402/video/1",
+              "media_key": "13_1995275716251029504",
+              "start": 0,
+              "url": "https://t.co/iUn8ZRJHKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995275825961468402",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1492,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iUn8ZRJHKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "",
+        "id": "1960389326258495492",
+        "location": "門88 288 1888",
+        "name": "小藻",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992597603708751872/jvB9Z1f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19157,
+          "following_count": 23,
+          "like_count": 72,
+          "listed_count": 23,
+          "media_count": 48,
+          "tweet_count": 64
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

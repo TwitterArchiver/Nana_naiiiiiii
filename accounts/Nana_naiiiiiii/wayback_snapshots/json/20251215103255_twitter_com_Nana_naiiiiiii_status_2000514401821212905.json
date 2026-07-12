@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2000477747114856950",
+    "created_at": "2025-12-15T10:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T11:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000514401821212905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917167960260816896",
+          "start": 0,
+          "username": "FarViewNews"
+        },
+        {
+          "end": 23,
+          "id": "1975500696427581440",
+          "start": 13,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000514401821212905",
+    "in_reply_to_user_id": "1917167960260816896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000491623265047014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FarViewNews @TReverie_ 骇死我了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000491505056886784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MsbL8aMAAC983.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2000477747114856950",
+        "created_at": "2025-12-15T10:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T11:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000514401821212905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917167960260816896",
+              "start": 0,
+              "username": "FarViewNews"
+            },
+            {
+              "end": 23,
+              "id": "1975500696427581440",
+              "start": 13,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000514401821212905",
+        "in_reply_to_user_id": "1917167960260816896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000491623265047014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FarViewNews @TReverie_ 骇死我了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000491505056886784"
+          ]
+        },
+        "author_id": "1917167960260816896",
+        "conversation_id": "2000477747114856950",
+        "created_at": "2025-12-15T09:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000491623265047014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGsyJrawDf",
+              "end": 48,
+              "expanded_url": "https://x.com/FarViewNews/status/2000491623265047014/photo/1",
+              "media_key": "3_2000491505056886784",
+              "start": 25,
+              "url": "https://t.co/OGsyJrawDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000491623265047014",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 157,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000477747114856950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 梁家河牌人工智能，新款。🤣 https://t.co/OGsyJrawDf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 25,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T10:44:09.000Z",
+        "description": "远川视野关注中国时事与社会现实，从制度、历史与逻辑出发，拆解新闻背后的真正原因。\n我们不煽动、不站队，只用清晰的结构、可靠的信息和普通人的视角，解释这个时代正在发生的事。\n这里没有偏见，只有事实和思考。",
+        "id": "1917167960260816896",
+        "name": "FarViewNews",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989510952338034691/HEmfKrcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 80,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 743
+        },
+        "username": "FarViewNews",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "pinned_tweet_id": "1997905916759531682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996531878183235584/x-H22fXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3887,
+          "following_count": 840,
+          "like_count": 12466,
+          "listed_count": 35,
+          "media_count": 848,
+          "tweet_count": 3200
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

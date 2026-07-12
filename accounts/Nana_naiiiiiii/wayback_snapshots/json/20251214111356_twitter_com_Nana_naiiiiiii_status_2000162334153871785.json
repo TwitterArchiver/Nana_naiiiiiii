@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000162323399675904"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2000162334153871785",
+    "created_at": "2025-12-14T11:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T12:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000162334153871785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u4cEVqb3wu",
+          "end": 41,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2000162334153871785/photo/1",
+          "media_key": "3_2000162323399675904",
+          "start": 18,
+          "url": "https://t.co/u4cEVqb3wu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000162334153871785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在pdd买药给我弹这个是何意味。 https://t.co/u4cEVqb3wu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2000162323399675904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IBCStbkAACRnz.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000162323399675904"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2000162334153871785",
+        "created_at": "2025-12-14T11:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T12:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000162334153871785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u4cEVqb3wu",
+              "end": 41,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2000162334153871785/photo/1",
+              "media_key": "3_2000162323399675904",
+              "start": 18,
+              "url": "https://t.co/u4cEVqb3wu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000162334153871785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在pdd买药给我弹这个是何意味。 https://t.co/u4cEVqb3wu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 27,
+          "like_count": 1467,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047327262085931071",
+    "created_at": "2026-04-23T15:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T16:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047341510170210595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980396569363935232",
+          "start": 0,
+          "username": "Disturbeuphoric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047341510170210595",
+    "in_reply_to_user_id": "1980396569363935232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047341289444684073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Disturbeuphoric 好哦🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047327262085931071",
+        "created_at": "2026-04-23T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047341510170210595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980396569363935232",
+              "start": 0,
+              "username": "Disturbeuphoric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047341510170210595",
+        "in_reply_to_user_id": "1980396569363935232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047341289444684073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Disturbeuphoric 好哦🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980396569363935232",
+        "conversation_id": "2047327262085931071",
+        "created_at": "2026-04-23T15:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047341289444684073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047341289444684073",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047327262085931071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 美好的永恒安息😇\n做对你来说有意义的事\n我祝你幸福快乐🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 168,
+          "like_count": 15329,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 995
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T22:13:55.000Z",
+        "description": "艺术家 . 非典型. 不稳定  。宅男。我既不是天使也不是恶魔。我的脚没有踩在地上。我很轻。经常有人告诉我，我是纯洁的。我温柔又善良。我希望你能以善意接纳真实的我。adhd, asd, ocd, ptsd, aroace。感官过度敏感，我无法忍受暴力。我痛恨战争和政治. 我厌恶性与爱情。我与你分享我的情绪状态。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suno.com/@joyspirit",
+                "end": 23,
+                "expanded_url": "https://suno.com/@joyspirit",
+                "start": 0,
+                "url": "https://t.co/OARyaBVIBT"
+              }
+            ]
+          }
+        },
+        "id": "1980396569363935232",
+        "name": "欢乐精神",
+        "pinned_tweet_id": "2046979926708924699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047338200339816448/l-WkEn-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 142,
+          "like_count": 13116,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3584
+        },
+        "url": "https://t.co/OARyaBVIBT",
+        "username": "Disturbeuphoric",
+        "verified": false
+      }
+    ]
+  }
+}

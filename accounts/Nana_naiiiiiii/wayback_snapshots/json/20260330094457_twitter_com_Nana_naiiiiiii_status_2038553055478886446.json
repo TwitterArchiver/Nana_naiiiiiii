@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038553039859286016"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038553055478886446",
+    "created_at": "2026-03-30T09:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038553055478886446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VA24r2DD8E",
+          "end": 38,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2038553055478886446/photo/1",
+          "media_key": "3_2038553039859286016",
+          "start": 15,
+          "url": "https://t.co/VA24r2DD8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038553055478886446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牛逼我真没话说了我太牛逼了。 https://t.co/VA24r2DD8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038553039859286016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEplMGSbAAAP02P.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038553039859286016"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038553055478886446",
+        "created_at": "2026-03-30T09:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038553055478886446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VA24r2DD8E",
+              "end": 38,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2038553055478886446/photo/1",
+              "media_key": "3_2038553039859286016",
+              "start": 15,
+              "url": "https://t.co/VA24r2DD8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038553055478886446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼我真没话说了我太牛逼了。 https://t.co/VA24r2DD8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 148,
+          "like_count": 14261,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 823
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

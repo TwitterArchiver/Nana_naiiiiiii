@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1994085473791123723",
+    "created_at": "2025-11-28T04:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994269881605165359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1989365397116817408",
+          "start": 0,
+          "username": "Again_971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994269881605165359",
+    "in_reply_to_user_id": "1989365397116817408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994085473791123723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Again_971 美萌女神…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994085460847808515",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xqKVma0AMcc4z.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1994085473791123723",
+        "created_at": "2025-11-28T04:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994269881605165359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1989365397116817408",
+              "start": 0,
+              "username": "Again_971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994269881605165359",
+        "in_reply_to_user_id": "1989365397116817408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994085473791123723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Again_971 美萌女神…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994085460847808515"
+          ]
+        },
+        "author_id": "1989365397116817408",
+        "conversation_id": "1994085473791123723",
+        "created_at": "2025-11-27T16:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994085473791123723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "le"
+            },
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "wlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VmjIwcGZId",
+              "end": 45,
+              "expanded_url": "https://x.com/Again_971/status/1994085473791123723/photo/1",
+              "media_key": "3_1994085460847808515",
+              "start": 22,
+              "url": "https://t.co/VmjIwcGZId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994085473791123723",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 82018,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#le #wlw (˶‾᷄ ⁻̫ ‾᷅˵) https://t.co/VmjIwcGZId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T16:11:02.000Z",
+        "description": "女同。 丑逼。",
+        "id": "1989365397116817408",
+        "name": "Again_",
+        "pinned_tweet_id": "1994167223838273603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989365978493501440/E-YCN_fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 35,
+          "like_count": 360,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 122
+        },
+        "username": "Again_971",
+        "verified": false
+      }
+    ]
+  }
+}

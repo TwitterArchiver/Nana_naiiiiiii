@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047373613607899453",
+    "created_at": "2026-04-24T09:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047606028360204574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003149753148932096",
+          "start": 0,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047606028360204574",
+    "in_reply_to_user_id": "2003149753148932096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047567357430894654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruruko_oo 我吃完谵妄了两天干了特别多傻逼事😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047373613607899453",
+        "created_at": "2026-04-24T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047606028360204574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003149753148932096",
+              "start": 0,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047606028360204574",
+        "in_reply_to_user_id": "2003149753148932096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047567357430894654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruruko_oo 我吃完谵妄了两天干了特别多傻逼事😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003149753148932096",
+        "conversation_id": "2047373613607899453",
+        "created_at": "2026-04-24T06:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047567357430894654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047567357430894654",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047553528701624784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 你吃完就是睡着吗还是怎么样因为我也有想吞的药（不是这些）大概400t左右 感觉吞药好难吞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 178,
+          "like_count": 15454,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1025
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "安静的私密账号 gekki 08 不线下不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2045806061559660793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 227,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1249
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

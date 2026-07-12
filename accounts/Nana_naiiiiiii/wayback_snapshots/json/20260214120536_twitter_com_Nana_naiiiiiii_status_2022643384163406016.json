@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2022379430493233529",
+    "created_at": "2026-02-14T12:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022643384163406016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1700766411478724608",
+          "start": 0,
+          "username": "Li13JingZe"
+        },
+        {
+          "end": 22,
+          "id": "1721541631537532928",
+          "start": 12,
+          "username": "RiNYASH04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022643384163406016",
+    "in_reply_to_user_id": "1700766411478724608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022636089794769093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li13JingZe @RiNYASH04 没吃过 我最多消个毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2022379430493233529",
+        "created_at": "2026-02-14T12:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022643384163406016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700766411478724608",
+              "start": 0,
+              "username": "Li13JingZe"
+            },
+            {
+              "end": 22,
+              "id": "1721541631537532928",
+              "start": 12,
+              "username": "RiNYASH04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022643384163406016",
+        "in_reply_to_user_id": "1700766411478724608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022636089794769093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li13JingZe @RiNYASH04 没吃过 我最多消个毒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700766411478724608",
+        "conversation_id": "2022379430493233529",
+        "created_at": "2026-02-14T11:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022636089794769093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 26,
+              "id": "1721541631537532928",
+              "start": 16,
+              "username": "RiNYASH04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022636089794769093",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022410808307913176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @RiNYASH04 问一下，割了之后一般吃不吃消炎药，我感觉有点难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 59,
+          "like_count": 7660,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 277
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T07:01:52.000Z",
+        "description": "like stockinging\nall body black",
+        "id": "1700766411478724608",
+        "name": "李京泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700766522757771264/sPd_tGnD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 660,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 224
+        },
+        "username": "Li13JingZe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T14:55:20.000Z",
+        "description": "#shedtwt !!                     DMs always open",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1721541631537532928",
+        "name": "𝑅𝑖。",
+        "pinned_tweet_id": "1998562390254956728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018450648082116608/cGghXF56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 805,
+          "like_count": 7453,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 1006
+        },
+        "username": "RiNYASH04",
+        "verified": false
+      }
+    ]
+  }
+}

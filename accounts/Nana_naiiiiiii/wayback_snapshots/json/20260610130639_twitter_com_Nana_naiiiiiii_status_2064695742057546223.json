@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2064452608233033809",
+    "created_at": "2026-06-10T13:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064695742057546223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064695742057546223",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064618000909795465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl 美人叔啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2064452608233033809",
+        "created_at": "2026-06-10T13:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064695742057546223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064695742057546223",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064618000909795465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl 美人叔啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2064452608233033809",
+        "created_at": "2026-06-10T07:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064618000909795465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064618000909795465",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064452608233033809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 不许吐啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 273,
+          "like_count": 18221,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1363
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "岩田優",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063407227109814272/vmLa_cc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 5,
+          "like_count": 48,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047372871836831771",
+    "created_at": "2026-04-23T17:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047372871836831771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nana_naiiiiiii…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2047327262085931071",
+          "start": 46,
+          "url": "https://t.co/O7F9i6y31I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047372871836831771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047327262085931071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家都是特别好的宝宝呀 我没想到随手发的帖子会被这么多人关心 其实被骗也是我太傻了求放过😭 https://t.co/O7F9i6y31I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047372871836831771",
+        "created_at": "2026-04-23T17:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047372871836831771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nana_naiiiiiii…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/nana_naiiiiiii/status/2047327262085931071",
+              "start": 46,
+              "url": "https://t.co/O7F9i6y31I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047372871836831771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047327262085931071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家都是特别好的宝宝呀 我没想到随手发的帖子会被这么多人关心 其实被骗也是我太傻了求放过😭 https://t.co/O7F9i6y31I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047327262085931071",
+        "created_at": "2026-04-23T14:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047327262085931071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047327262085931071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 829,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前为止已被骗1630元我打算吃完囤货就找个楼跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 172,
+          "like_count": 15342,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1000
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

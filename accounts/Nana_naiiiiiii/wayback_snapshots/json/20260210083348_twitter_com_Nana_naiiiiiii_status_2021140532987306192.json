@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2020804440819909092",
+    "created_at": "2026-02-10T08:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T09:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021140532987306192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2008943608695840768",
+          "start": 0,
+          "username": "electronic_dirt"
+        },
+        {
+          "end": 26,
+          "id": "1812304729432838144",
+          "start": 17,
+          "username": "huimu420"
+        },
+        {
+          "end": 35,
+          "id": "1517113519522873344",
+          "start": 27,
+          "username": "xxNYAS_"
+        },
+        {
+          "end": 47,
+          "id": "1956544219751063552",
+          "start": 36,
+          "username": "wu_si42846"
+        },
+        {
+          "end": 63,
+          "id": "2000386018953101312",
+          "start": 48,
+          "username": "ecstasy_myslee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021140532987306192",
+    "in_reply_to_user_id": "2008943608695840768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020804440819909092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@electronic_dirt @huimu420 @xxNYAS_ @wu_si42846 @ecstasy_myslee 哈哈哈哈哈小宝宝！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2020804432641060864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtW7MAa8AAP3Nf.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2020804440819909092",
+        "created_at": "2026-02-10T08:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021140532987306192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2008943608695840768",
+              "start": 0,
+              "username": "electronic_dirt"
+            },
+            {
+              "end": 26,
+              "id": "1812304729432838144",
+              "start": 17,
+              "username": "huimu420"
+            },
+            {
+              "end": 35,
+              "id": "1517113519522873344",
+              "start": 27,
+              "username": "xxNYAS_"
+            },
+            {
+              "end": 47,
+              "id": "1956544219751063552",
+              "start": 36,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 63,
+              "id": "2000386018953101312",
+              "start": 48,
+              "username": "ecstasy_myslee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021140532987306192",
+        "in_reply_to_user_id": "2008943608695840768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020804440819909092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@electronic_dirt @huimu420 @xxNYAS_ @wu_si42846 @ecstasy_myslee 哈哈哈哈哈小宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020804432641060864"
+          ]
+        },
+        "author_id": "2008943608695840768",
+        "conversation_id": "2020804440819909092",
+        "created_at": "2026-02-09T10:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020804440819909092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1993150970705199108",
+              "start": 22,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 47,
+              "id": "1812304729432838144",
+              "start": 38,
+              "username": "huimu420"
+            },
+            {
+              "end": 62,
+              "id": "1517113519522873344",
+              "start": 54,
+              "username": "xxNYAS_"
+            },
+            {
+              "end": 80,
+              "id": "1956544219751063552",
+              "start": 69,
+              "username": "wu_si42846"
+            },
+            {
+              "end": 96,
+              "id": "2000386018953101312",
+              "start": 81,
+              "username": "ecstasy_myslee"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 124,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020713770138615809/zwm3QuJV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/Cuej6eQTku"
+            },
+            {
+              "display_url": "pic.x.com/Br878zRD8I",
+              "end": 148,
+              "expanded_url": "https://x.com/electronic_dirt/status/2020804440819909092/photo/1",
+              "media_key": "3_2020804432641060864",
+              "start": 125,
+              "url": "https://t.co/Br878zRD8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020804440819909092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Nana_naiiiiiii @huimu420\n👰 配偶: @xxNYAS_\n👶 孩子: @wu_si42846 @ecstasy_myslee\n\n➡️ https://t.co/Cuej6eQTku https://t.co/Br878zRD8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 56,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 258
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 我是电子垢/通缉喵 可以找我互fo捏( ^ω^ ) 09休学中 内含画画｜废话｜od｜自伤｜果",
+        "id": "2008943608695840768",
+        "name": "通缉电子垢💡",
+        "pinned_tweet_id": "2019978992556908806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018785279499497472/GMU_7D_F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 149,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 465
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券女 被b自己找原因 聊骚滚\nfo你是暗恋你\n唯一的恋人是酷拉皮卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNm1eQ"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "提问箱→",
+        "name": "回木",
+        "pinned_tweet_id": "2016510432039571539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 689,
+          "like_count": 23371,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 5473
+        },
+        "url": "https://t.co/o2XkPNm1eQ",
+        "username": "huimu420",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T12:10:42.000Z",
+        "description": "💉にゃんぱいあスキ/♀/AB型/うお座.雙魚/🧊🩹🩶⛓️🌧️❄️🥛🤍",
+        "id": "1517113519522873344",
+        "location": "ダンボール",
+        "name": "やすいなら.",
+        "pinned_tweet_id": "1864162686642344133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002762730193723392/3dQSwBek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 1114,
+          "like_count": 18948,
+          "listed_count": 8,
+          "media_count": 497,
+          "tweet_count": 3971
+        },
+        "username": "xxNYAS_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "我不嗑药，我只想睡觉🔪- ✰*🎀 ੈ✩🐰✰*💗 ੈ✩- 高度活跃互联网！想交朋友！互fo捏/（我是低龄糖逼大傻福，实在抱歉！）/（如果看到我连续发了很多条帖子请立马叫我去学习！）/很多不良嗜好 -12现役初中生/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2012134116444295316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019551411944714241/tXeV2g2C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 279,
+          "like_count": 8987,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "location": "beijing",
+        "name": "Ꮇіnаtо #蒭藁增二",
+        "pinned_tweet_id": "2015747709479641278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 136,
+          "like_count": 3879,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 203
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      }
+    ]
+  }
+}

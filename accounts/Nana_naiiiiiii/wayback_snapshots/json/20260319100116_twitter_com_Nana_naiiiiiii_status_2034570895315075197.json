@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034570876340043776"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2034570895315075197",
+    "created_at": "2026-03-19T10:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034570895315075197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o0WLG1yc4w",
+          "end": 33,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2034570895315075197/photo/1",
+          "media_key": "3_2034570876340043776",
+          "start": 10,
+          "url": "https://t.co/o0WLG1yc4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034570895315075197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽我被富婆包养了 https://t.co/o0WLG1yc4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034570876340043776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDw_brKagAAFeIL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034570876340043776"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034570895315075197",
+        "created_at": "2026-03-19T10:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034570895315075197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0WLG1yc4w",
+              "end": 33,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2034570895315075197/photo/1",
+              "media_key": "3_2034570876340043776",
+              "start": 10,
+              "url": "https://t.co/o0WLG1yc4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034570895315075197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我被富婆包养了 https://t.co/o0WLG1yc4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 113,
+          "like_count": 12063,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 609
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2052819440648311249",
+    "created_at": "2026-05-08T18:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T19:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052825018929926380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023762324038004736",
+          "start": 0,
+          "username": "salmon__sukiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052825018929926380",
+    "in_reply_to_user_id": "2023762324038004736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052819440648311249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@salmon__sukiii 你超级超级超级无敌好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2052819440648311249",
+        "created_at": "2026-05-08T18:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052825018929926380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023762324038004736",
+              "start": 0,
+              "username": "salmon__sukiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052825018929926380",
+        "in_reply_to_user_id": "2023762324038004736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052819440648311249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@salmon__sukiii 你超级超级超级无敌好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023762324038004736",
+        "conversation_id": "2052819440648311249",
+        "created_at": "2026-05-08T18:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052819440648311249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xchase173294/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/xchase173294/status/2052252085262180496",
+              "start": 6,
+              "url": "https://t.co/9owC9ozQG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052819440648311249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052252085262180496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不是好人 https://t.co/9owC9ozQG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 246,
+          "like_count": 17498,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 1187
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T14:12:00.000Z",
+        "description": "转推内容可能有血腥画面请注意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/thaliana_su",
+                "end": 23,
+                "expanded_url": "https://ngl.link/thaliana_su",
+                "start": 0,
+                "url": "https://t.co/7qPJkRQkeL"
+              }
+            ]
+          }
+        },
+        "id": "2023762324038004736",
+        "name": "小苏",
+        "pinned_tweet_id": "2052262697874641095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048996480149819392/2UIAbTWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 179,
+          "like_count": 3454,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/7qPJkRQkeL",
+        "username": "salmon__sukiii",
+        "verified": false
+      }
+    ]
+  }
+}

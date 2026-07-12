@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045380604108345344",
+        "3_2045380604125237248",
+        "3_2045380604108390400",
+        "3_2045380604087418880"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2045380653685096521",
+    "created_at": "2026-04-18T05:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045380653685096521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6KDkT1MKZY",
+          "end": 31,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+          "media_key": "3_2045380604108345344",
+          "start": 8,
+          "url": "https://t.co/6KDkT1MKZY"
+        },
+        {
+          "display_url": "pic.x.com/6KDkT1MKZY",
+          "end": 31,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+          "media_key": "3_2045380604125237248",
+          "start": 8,
+          "url": "https://t.co/6KDkT1MKZY"
+        },
+        {
+          "display_url": "pic.x.com/6KDkT1MKZY",
+          "end": 31,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+          "media_key": "3_2045380604108390400",
+          "start": 8,
+          "url": "https://t.co/6KDkT1MKZY"
+        },
+        {
+          "display_url": "pic.x.com/6KDkT1MKZY",
+          "end": 31,
+          "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+          "media_key": "3_2045380604087418880",
+          "start": 8,
+          "url": "https://t.co/6KDkT1MKZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045380653685096521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总有刁民想害朕 https://t.co/6KDkT1MKZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045380604108345344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKm0pJaEAAl0PD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1081,
+        "media_key": "3_2045380604125237248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKm0pNb0AAVdWd.jpg",
+        "width": 1079
+      },
+      {
+        "height": 950,
+        "media_key": "3_2045380604108390400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKm0pJawAAJNoi.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2045380604087418880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKm0pEawAAv_Sp.jpg",
+        "width": 1241
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045380604108345344",
+            "3_2045380604125237248",
+            "3_2045380604108390400",
+            "3_2045380604087418880"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2045380653685096521",
+        "created_at": "2026-04-18T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045380653685096521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KDkT1MKZY",
+              "end": 31,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+              "media_key": "3_2045380604108345344",
+              "start": 8,
+              "url": "https://t.co/6KDkT1MKZY"
+            },
+            {
+              "display_url": "pic.x.com/6KDkT1MKZY",
+              "end": 31,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+              "media_key": "3_2045380604125237248",
+              "start": 8,
+              "url": "https://t.co/6KDkT1MKZY"
+            },
+            {
+              "display_url": "pic.x.com/6KDkT1MKZY",
+              "end": 31,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+              "media_key": "3_2045380604108390400",
+              "start": 8,
+              "url": "https://t.co/6KDkT1MKZY"
+            },
+            {
+              "display_url": "pic.x.com/6KDkT1MKZY",
+              "end": 31,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2045380653685096521/photo/1",
+              "media_key": "3_2045380604087418880",
+              "start": 8,
+              "url": "https://t.co/6KDkT1MKZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045380653685096521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总有刁民想害朕 https://t.co/6KDkT1MKZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 155,
+          "like_count": 14826,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 933
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1999042806212624856",
+    "created_at": "2025-12-11T09:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999042806212624856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/1998910434116775974",
+          "start": 71,
+          "url": "https://t.co/07HBvMmPTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999042806212624856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998910434116775974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就在精神病院。。每天吃了药能睡14个小时然后脑子昏昏沉沉只想躺在床上 就是感觉活得很懵逼啊！不过这个更有可能是之前吃美金刚给脑子吃坏了 https://t.co/07HBvMmPTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1998910430186799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72OchEbgAAOcsP.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1999042806212624856",
+        "created_at": "2025-12-11T09:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999042806212624856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/1998910434116775974",
+              "start": 71,
+              "url": "https://t.co/07HBvMmPTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999042806212624856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998910434116775974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就在精神病院。。每天吃了药能睡14个小时然后脑子昏昏沉沉只想躺在床上 就是感觉活得很懵逼啊！不过这个更有可能是之前吃美金刚给脑子吃坏了 https://t.co/07HBvMmPTl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998910430186799104"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "1998910434116775974",
+        "created_at": "2025-12-11T00:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998910434116775974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQPMCeJXGf",
+              "end": 93,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1998910434116775974/photo/1",
+              "media_key": "3_1998910430186799104",
+              "start": 70,
+              "url": "https://t.co/YQPMCeJXGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998910434116775974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 692,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前绝大多数精神药物主要研发目的是降低精神病患者的社会危害性和死亡率，而不是降低精神病患者的痛苦，望周知。\n虽然没有精神科医生会告诉你这些 https://t.co/YQPMCeJXGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 1218,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科（接投稿）",
+        "pinned_tweet_id": "1996947939554648081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995690033203003393/TErFGW0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4162,
+          "following_count": 1379,
+          "like_count": 818,
+          "listed_count": 3,
+          "media_count": 227,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

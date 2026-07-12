@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2010662419975245959",
+    "created_at": "2026-01-29T12:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016844572459200591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008185885137977345",
+          "start": 0,
+          "username": "steven_cha3340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016844572459200591",
+    "in_reply_to_user_id": "2008185885137977345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010662419975245959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steven_cha3340 你妈死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2010662330208497664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dOvINWMAAf5dI.png",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2010662419975245959",
+        "created_at": "2026-01-29T12:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016844572459200591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008185885137977345",
+              "start": 0,
+              "username": "steven_cha3340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016844572459200591",
+        "in_reply_to_user_id": "2008185885137977345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010662419975245959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steven_cha3340 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010662330208497664"
+          ]
+        },
+        "author_id": "2008185885137977345",
+        "conversation_id": "2010662419975245959",
+        "created_at": "2026-01-12T10:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010662419975245959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "爱礼"
+            },
+            {
+              "end": 20,
+              "start": 4,
+              "tag": "caomeiweimaomao"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "爱礼"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "爱礼"
+            },
+            {
+              "end": 89,
+              "start": 73,
+              "tag": "caomeiweimaomao"
+            },
+            {
+              "end": 106,
+              "start": 90,
+              "tag": "caomeiweimaomao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UbxJNZ7RG2",
+              "end": 130,
+              "expanded_url": "https://x.com/steven_cha3340/status/2010662419975245959/photo/1",
+              "media_key": "3_2010662330208497664",
+              "start": 107,
+              "url": "https://t.co/UbxJNZ7RG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010662419975245959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 409,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#爱礼 #caomeiweimaomao\n被操到哭着求饶还不停，穴红肿翻出来\n全程实录超长\n# 评论区扣235的全都有份 😈💦💗\n#爱礼 #爱礼 #caomeiweimaomao #caomeiweimaomao https://t.co/UbxJNZ7RG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 46,
+          "like_count": 5835,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 209
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:36:40.000Z",
+        "description": "#爱礼 #caomeiweimaomao\n🎀写故事的人丨🦜嘤鹉：@SENDOH214丨�?5\n#爱礼  #caomeiweimaomao",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "爱礼"
+              },
+              {
+                "end": 20,
+                "start": 4,
+                "tag": "caomeiweimaomao"
+              },
+              {
+                "end": 50,
+                "start": 47,
+                "tag": "爱礼"
+              },
+              {
+                "end": 68,
+                "start": 52,
+                "tag": "caomeiweimaomao"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "SENDOH214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gvfans.top/caomeiweimaomao",
+                "end": 23,
+                "expanded_url": "https://gvfans.top/caomeiweimaomao",
+                "start": 0,
+                "url": "https://t.co/XJFOo2Ags1"
+              }
+            ]
+          }
+        },
+        "id": "2008185885137977345",
+        "location": "🚨大号限流，新地址已上线👉",
+        "name": "爱礼|caomeiweimaomao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010662152953069568/reooDdxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/XJFOo2Ags1",
+        "username": "steven_cha3340",
+        "verified": false
+      }
+    ]
+  }
+}

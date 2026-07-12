@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "1997334818229821750",
+    "created_at": "2025-12-06T18:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997368588869460014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528713880691691520",
+          "start": 0,
+          "username": "Sheep94510210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997368588869460014",
+    "in_reply_to_user_id": "1528713880691691520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997334818229821750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sheep94510210 你到底咋知道的啊🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "1997334818229821750",
+        "created_at": "2025-12-06T18:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997368588869460014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528713880691691520",
+              "start": 0,
+              "username": "Sheep94510210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997368588869460014",
+        "in_reply_to_user_id": "1528713880691691520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997334818229821750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sheep94510210 你到底咋知道的啊🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528713880691691520",
+        "conversation_id": "1997334818229821750",
+        "created_at": "2025-12-06T15:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997334818229821750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997334818229821750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10839,
+          "like_count": 137,
+          "quote_count": 4,
+          "reply_count": 90,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你一直刷推 是因为没人和你聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 25
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T12:26:25.000Z",
+        "description": "日常",
+        "id": "1528713880691691520",
+        "location": "你好",
+        "name": "Alcoholic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873025699453300736/e6yNz4rS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 197,
+          "like_count": 2346,
+          "listed_count": 5,
+          "media_count": 682,
+          "tweet_count": 3377
+        },
+        "username": "Sheep94510210",
+        "verified": false
+      }
+    ]
+  }
+}

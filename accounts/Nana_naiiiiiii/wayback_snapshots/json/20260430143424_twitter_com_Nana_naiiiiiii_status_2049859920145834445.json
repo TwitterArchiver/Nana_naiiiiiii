@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049859920145834445",
+    "created_at": "2026-04-30T14:34:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T15:34:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049859920145834445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/badrhy888/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/badrhy888/status/2049496157517402449",
+          "start": 29,
+          "url": "https://t.co/vlI82RPFcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049859920145834445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049496157517402449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新关注我的宝宝们抱歉啊啊 不是我不回fo我是真的看不到… https://t.co/vlI82RPFcL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049859920145834445",
+        "created_at": "2026-04-30T14:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049859920145834445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/badrhy888/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/badrhy888/status/2049496157517402449",
+              "start": 29,
+              "url": "https://t.co/vlI82RPFcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049859920145834445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049496157517402449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新关注我的宝宝们抱歉啊啊 不是我不回fo我是真的看不到… https://t.co/vlI82RPFcL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440331535492681733",
+        "conversation_id": "2049496157517402449",
+        "created_at": "2026-04-29T14:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049496157517402449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049496157517402449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 39051,
+          "like_count": 262,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "掉粉的时候看不出来谁取关了\n涨粉的时候也看不出来谁关注了\n推上就这样多出来幽灵粉丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 207,
+          "like_count": 16626,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1110
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-21T15:06:30.000Z",
+        "description": "ENTP双子 183/80 直男 喜欢体格差🎺@diandian010607 提问箱：https://t.co/7pgiG1xSLs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "diandian010607"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rhyme_82",
+                "end": 66,
+                "expanded_url": "https://ngl.link/rhyme_82",
+                "start": 43,
+                "url": "https://t.co/7pgiG1xSLs"
+              }
+            ]
+          }
+        },
+        "id": "1440331535492681733",
+        "location": "gym",
+        "name": ".",
+        "pinned_tweet_id": "1896926120416780627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962505812980682752/hWJ2Z9b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10184,
+          "following_count": 986,
+          "like_count": 21530,
+          "listed_count": 26,
+          "media_count": 369,
+          "tweet_count": 1678
+        },
+        "username": "badrhy888",
+        "verified": false
+      }
+    ]
+  }
+}

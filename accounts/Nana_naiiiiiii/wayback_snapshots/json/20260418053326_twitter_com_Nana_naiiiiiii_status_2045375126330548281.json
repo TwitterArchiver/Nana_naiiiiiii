@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2045026285047742517",
+    "created_at": "2026-04-18T05:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045375126330548281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045022236201918465",
+          "start": 0,
+          "username": "cVPrL20wIa42392"
+        },
+        {
+          "end": 26,
+          "id": "1852135214795100164",
+          "start": 17,
+          "username": "ayameeii"
+        },
+        {
+          "end": 41,
+          "id": "1455784742922555395",
+          "start": 27,
+          "username": "lengcuicui119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045375126330548281",
+    "in_reply_to_user_id": "2045022236201918465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045026285047742517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cVPrL20wIa42392 @ayameeii @lengcuicui119 老公我来了😭"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [lengcuicui119].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lengcuicui119",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lengcuicui119"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2045026285047742517",
+        "created_at": "2026-04-18T05:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045375126330548281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045022236201918465",
+              "start": 0,
+              "username": "cVPrL20wIa42392"
+            },
+            {
+              "end": 26,
+              "id": "1852135214795100164",
+              "start": 17,
+              "username": "ayameeii"
+            },
+            {
+              "end": 41,
+              "id": "1455784742922555395",
+              "start": 27,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045375126330548281",
+        "in_reply_to_user_id": "2045022236201918465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045026285047742517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cVPrL20wIa42392 @ayameeii @lengcuicui119 老公我来了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045026285047742517",
+        "created_at": "2026-04-17T06:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045026285047742517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455784742922555395",
+              "start": 2,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045026285047742517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3172,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 157,
+          "like_count": 14773,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 923
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，02/od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/药理学习中/二三涉/请自行避雷🥰/同类互fo（慢回怕号又崩了）/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "location": "✟升天✟",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045330605500698957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 164,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|对象❤️@AAAAAMTxT 前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "AAAAAMTxT"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "location": "某处",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 600,
+          "like_count": 9483,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 3512
+        },
+        "username": "ayameeii",
+        "verified": false
+      }
+    ]
+  }
+}

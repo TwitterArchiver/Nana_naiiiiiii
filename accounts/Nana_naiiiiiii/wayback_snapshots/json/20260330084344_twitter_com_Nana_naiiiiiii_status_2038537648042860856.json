@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038401638185267481",
+    "created_at": "2026-03-30T08:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T09:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038537648042860856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002072845892157441",
+          "start": 0,
+          "username": "kill_me_sakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038537648042860856",
+    "in_reply_to_user_id": "2002072845892157441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038401638185267481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kill_me_sakura 不要死宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038401638185267481",
+        "created_at": "2026-03-30T08:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038537648042860856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002072845892157441",
+              "start": 0,
+              "username": "kill_me_sakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038537648042860856",
+        "in_reply_to_user_id": "2002072845892157441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038401638185267481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kill_me_sakura 不要死宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002072845892157441",
+        "conversation_id": "2038401638185267481",
+        "created_at": "2026-03-29T23:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038401638185267481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038401638185267481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天有嘗試低位自縊和自勒自殺\n結果一直因為腦袋和眼睛脹得難受而放棄\n看到別人有勇氣赴死就開始想自己是不是太過膽小了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 145,
+          "like_count": 14234,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 813
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T17:45:47.000Z",
+        "description": "友跨 戒割戒o 抽菸難戒🚬\n正在努力當正常人\n成分複雜 fo你表示我喜歡你呀！òωó",
+        "id": "2002072845892157441",
+        "name": "都是你的錯",
+        "pinned_tweet_id": "2038460668261839096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025648197411258368/LvOOcd6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 69,
+          "like_count": 1012,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 460
+        },
+        "username": "kill_me_sakura",
+        "verified": false
+      }
+    ]
+  }
+}

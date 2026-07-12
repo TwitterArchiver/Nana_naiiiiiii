@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2049369701290221640",
+    "created_at": "2026-04-30T16:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T17:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049883326010535988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1477461044226248704",
+          "start": 0,
+          "username": "Daymoon46"
+        },
+        {
+          "end": 25,
+          "id": "1891362165317410816",
+          "start": 11,
+          "username": "Kris_Dreammer"
+        },
+        {
+          "end": 35,
+          "id": "1714351609977978882",
+          "start": 26,
+          "username": "TinxYxx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049883326010535988",
+    "in_reply_to_user_id": "1477461044226248704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049879404432777570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daymoon46 @Kris_Dreammer @TinxYxx2 可以的可以的宝宝🩷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2049369701290221640",
+        "created_at": "2026-04-30T16:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T17:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049883326010535988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1477461044226248704",
+              "start": 0,
+              "username": "Daymoon46"
+            },
+            {
+              "end": 25,
+              "id": "1891362165317410816",
+              "start": 11,
+              "username": "Kris_Dreammer"
+            },
+            {
+              "end": 35,
+              "id": "1714351609977978882",
+              "start": 26,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049883326010535988",
+        "in_reply_to_user_id": "1477461044226248704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049879404432777570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daymoon46 @Kris_Dreammer @TinxYxx2 可以的可以的宝宝🩷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477461044226248704",
+        "conversation_id": "2049369701290221640",
+        "created_at": "2026-04-30T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049879404432777570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 30,
+              "id": "1891362165317410816",
+              "start": 16,
+              "username": "Kris_Dreammer"
+            },
+            {
+              "end": 40,
+              "id": "1714351609977978882",
+              "start": 31,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049879404432777570",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049527076508832092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @Kris_Dreammer @TinxYxx2 可以抱图吗你拍得好漂亮宝我特别喜欢暴力熊……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈｜我只想疯狂自残嗑药吸毒做爱\n普瑞巴林重度依赖 戒割中…\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 207,
+          "like_count": 16652,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1112
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T02:05:45.000Z",
+        "description": "18↑/BL大好き/主人公右固定/中国語👌/EN、日本語勉强中/🩷学園ヘヴン 和啓最推し/👋https://t.co/umwEbn4fia",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/bnqdps7zj…",
+                "end": 69,
+                "expanded_url": "https://wavebox.me/wave/bnqdps7zjd73phfz/",
+                "start": 46,
+                "url": "https://t.co/umwEbn4fia"
+              }
+            ]
+          }
+        },
+        "id": "1477461044226248704",
+        "location": "ベルリバディスクール理事長室",
+        "name": "Karumiru",
+        "pinned_tweet_id": "1919044718425493992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857607401236738049/bK_0xxND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 184,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 512
+        },
+        "username": "Daymoon46",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "药物滥用重度依赖 \n药圈萌新\n关注我的都回关\n目前只o愈美和普瑞（因为没有其他吃的）",
+        "id": "1891362165317410816",
+        "location": "自由",
+        "name": "kris（愈美大王版）",
+        "pinned_tweet_id": "2007887928459165768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 375,
+          "like_count": 3265,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1456
+        },
+        "username": "Kris_Dreammer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T18:44:18.000Z",
+        "description": "迷路了也没关系，",
+        "id": "1714351609977978882",
+        "location": "西格玛高原",
+        "name": "令兒8964",
+        "pinned_tweet_id": "2040823982933643599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041444989243441152/z-NEydYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 1088,
+          "like_count": 20267,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 4611
+        },
+        "username": "TinxYxx2",
+        "verified": false
+      }
+    ]
+  }
+}

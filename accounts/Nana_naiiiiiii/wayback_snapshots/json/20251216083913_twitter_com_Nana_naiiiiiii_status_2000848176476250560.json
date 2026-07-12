@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2000762281945391560",
+    "created_at": "2025-12-16T08:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000848176476250560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989441591262810116",
+          "start": 0,
+          "username": "eggykawaii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000848176476250560",
+    "in_reply_to_user_id": "1989441591262810116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000762281945391560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggykawaii 好萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6200,
+        "height": 1280,
+        "media_key": "13_2000762223510298624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000762223510298624/img/5HcVKKeT6VdIaGcU.jpg",
+        "public_metrics": {
+          "view_count": 63
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000762223510298624/vid/avc1/320x568/uMtDdZcx_OIQNIdq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000762223510298624/vid/avc1/480x852/MGDQiCwyaPmgZ0vN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000762223510298624/vid/avc1/720x1280/kUOy9K6ZIYctgb_0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000762223510298624/pl/R4W09U5eWSpGccfo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2000762281945391560",
+        "created_at": "2025-12-16T08:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000848176476250560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989441591262810116",
+              "start": 0,
+              "username": "eggykawaii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000848176476250560",
+        "in_reply_to_user_id": "1989441591262810116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000762281945391560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggykawaii 好萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000762223510298624"
+          ]
+        },
+        "author_id": "1989441591262810116",
+        "conversation_id": "2000762281945391560",
+        "created_at": "2025-12-16T02:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000762281945391560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGpwP8QlJl",
+              "end": 59,
+              "expanded_url": "https://x.com/eggykawaii/status/2000762281945391560/video/1",
+              "media_key": "13_2000762223510298624",
+              "start": 36,
+              "url": "https://t.co/aGpwP8QlJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000762281945391560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在是五度 下午居然有二十度 虽然没有睡觉 但是我要玩手机到下午再出门 https://t.co/aGpwP8QlJl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 1582,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 45
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T21:13:48.000Z",
+        "description": "我是呪 不想面对过去的自己开启了转生…没有看屌的义务 可以找我说话 家暴霸凌强奸被逼崩溃割手嗑药的小女孩 喜欢漂亮衣服香味的东西和狗 爱我请给钱🐥🎀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joyofsatan.org",
+                "end": 23,
+                "expanded_url": "https://www.joyofsatan.org/",
+                "start": 0,
+                "url": "https://t.co/ZMsJ2UwttN"
+              }
+            ]
+          }
+        },
+        "id": "1989441591262810116",
+        "name": "kuuaiii",
+        "pinned_tweet_id": "2000677996504686954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000101591756734464/o5_ING9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 290,
+          "like_count": 559,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/ZMsJ2UwttN",
+        "username": "eggykawaii",
+        "verified": false
+      }
+    ]
+  }
+}

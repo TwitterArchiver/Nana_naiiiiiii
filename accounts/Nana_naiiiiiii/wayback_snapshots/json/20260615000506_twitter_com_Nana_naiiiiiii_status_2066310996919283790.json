@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2065770726058332161",
+    "created_at": "2026-06-15T00:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T01:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066310996919283790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1399308922087899138",
+          "start": 0,
+          "username": "Celicovvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066310996919283790",
+    "in_reply_to_user_id": "1399308922087899138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066108782938386552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Celicovvb 妈妈你是真美神"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2065770726058332161",
+        "created_at": "2026-06-15T00:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066310996919283790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1399308922087899138",
+              "start": 0,
+              "username": "Celicovvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066310996919283790",
+        "in_reply_to_user_id": "1399308922087899138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066108782938386552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Celicovvb 妈妈你是真美神"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399308922087899138",
+        "conversation_id": "2065770726058332161",
+        "created_at": "2026-06-14T10:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066108782938386552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066108782938386552",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065770726058332161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 好美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 289,
+          "like_count": 18767,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1442
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T10:17:09.000Z",
+        "description": "虫某人的185天下海生涯",
+        "id": "1399308922087899138",
+        "location": "线下🚪38/188",
+        "name": "虫虫",
+        "pinned_tweet_id": "2059976252354896243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060533132290666496/SkpxR_RC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 23,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 360
+        },
+        "username": "Celicovvb",
+        "verified": true
+      }
+    ]
+  }
+}

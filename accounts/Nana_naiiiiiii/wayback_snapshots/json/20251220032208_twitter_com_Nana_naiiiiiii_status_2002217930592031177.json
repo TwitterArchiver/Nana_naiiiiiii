@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2000487966464942575",
+    "created_at": "2025-12-20T03:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T04:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002217930592031177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002217930592031177",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000487966464942575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 我拼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2000487966464942575",
+        "created_at": "2025-12-20T03:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002217930592031177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002217930592031177",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000487966464942575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 我拼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920308340737126400",
+        "conversation_id": "2000487966464942575",
+        "created_at": "2025-12-15T08:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000487966464942575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000487966464942575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7294,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想拼团4hoMet，算一颗200吧拼的人多降降，为啥最近吃的人如此之多恩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 24,
+          "like_count": 1829,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹。私信只回口令，爱你们",
+        "id": "1920308340737126400",
+        "location": "🚪128/288/520",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000560574267371521/sDHcZbDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8705,
+          "following_count": 162,
+          "like_count": 782,
+          "listed_count": 15,
+          "media_count": 142,
+          "tweet_count": 2086
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

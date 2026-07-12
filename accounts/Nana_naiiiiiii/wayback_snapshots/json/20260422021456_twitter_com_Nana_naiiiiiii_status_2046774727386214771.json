@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2046424040559251575",
+    "created_at": "2026-04-22T02:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T03:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046774727386214771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        },
+        {
+          "end": 25,
+          "id": "2003149753148932096",
+          "start": 15,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046774727386214771",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046424040559251575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 @Ruruko_oo 蹲一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046424021705883648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZbzimbAAAlnZ9.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2046424040559251575",
+        "created_at": "2026-04-22T02:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T03:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046774727386214771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            },
+            {
+              "end": 25,
+              "id": "2003149753148932096",
+              "start": 15,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046774727386214771",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046424040559251575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 @Ruruko_oo 蹲一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046424021705883648"
+          ]
+        },
+        "author_id": "1891748269853700096",
+        "conversation_id": "2046424040559251575",
+        "created_at": "2026-04-21T03:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T04:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046424040559251575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fZQIUqatP",
+              "end": 40,
+              "expanded_url": "https://x.com/Entropy149868/status/2046424040559251575/photo/1",
+              "media_key": "3_2046424021705883648",
+              "start": 17,
+              "url": "https://t.co/6fZQIUqatP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046424040559251575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13575,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "话说普瑞禁了以后这种还可以买吗？ https://t.co/6fZQIUqatP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2043196929312694563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 159,
+          "like_count": 15124,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 970
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 384,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 413
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "安静的私密账号 gekki 08 不线下不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2045806061559660793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 220,
+          "like_count": 2467,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1228
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

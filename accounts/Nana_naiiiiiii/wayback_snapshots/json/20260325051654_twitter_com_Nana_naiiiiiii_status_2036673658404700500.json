@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2036386963478167799",
+    "created_at": "2026-03-25T05:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036673658404700500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812198136741249024",
+          "start": 0,
+          "username": "Mitsu716111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036673658404700500",
+    "in_reply_to_user_id": "1812198136741249024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036586207623168488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mitsu716111 不管了不管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036386963478167799",
+        "created_at": "2026-03-25T05:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036673658404700500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812198136741249024",
+              "start": 0,
+              "username": "Mitsu716111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036673658404700500",
+        "in_reply_to_user_id": "1812198136741249024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036586207623168488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mitsu716111 不管了不管了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812198136741249024",
+        "conversation_id": "2036386963478167799",
+        "created_at": "2026-03-24T23:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T00:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036586207623168488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036586207623168488",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036386963478167799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 一次开这么多会不会被打电话T_T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 129,
+          "like_count": 13427,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 719
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T18:51:30.000Z",
+        "description": "赐我安乐死吧",
+        "id": "1812198136741249024",
+        "name": "姬怜美",
+        "pinned_tweet_id": "2007715201563664890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871731847362736128/osyS3OlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "Mitsu716111",
+        "verified": false
+      }
+    ]
+  }
+}

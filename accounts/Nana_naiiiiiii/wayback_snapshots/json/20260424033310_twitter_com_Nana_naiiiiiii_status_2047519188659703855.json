@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2047372871836831771",
+    "created_at": "2026-04-24T03:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T04:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047519188659703855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1582986597997244417",
+          "start": 0,
+          "username": "zhsholi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047519188659703855",
+    "in_reply_to_user_id": "1582986597997244417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047417054756782501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhsholi1 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2047372871836831771",
+        "created_at": "2026-04-24T03:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047519188659703855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1582986597997244417",
+              "start": 0,
+              "username": "zhsholi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047519188659703855",
+        "in_reply_to_user_id": "1582986597997244417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047417054756782501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhsholi1 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1582986597997244417",
+        "conversation_id": "2047372871836831771",
+        "created_at": "2026-04-23T20:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047417054756782501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047417054756782501",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047372871836831771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 騙子下地獄🙌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n查成分回fo",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 173,
+          "like_count": 15379,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1015
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-20T06:46:54.000Z",
+        "description": "",
+        "id": "1582986597997244417",
+        "location": "桃園縣, 台灣",
+        "name": "幹話王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865793363183841280/Nkn3hOsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 96,
+          "like_count": 71,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 378
+        },
+        "username": "zhsholi1",
+        "verified": false
+      }
+    ]
+  }
+}

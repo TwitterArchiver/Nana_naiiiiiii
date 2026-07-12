@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2018933026483560937",
+    "created_at": "2026-02-04T18:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019117371429122096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891562958842626049",
+          "start": 0,
+          "username": "chunrihuijin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019117371429122096",
+    "in_reply_to_user_id": "1891562958842626049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018933026483560937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunrihuijin 带束腰我腰好酸痛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018933015708405760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASw4YqbkAAI9YX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2018933026483560937",
+        "created_at": "2026-02-04T18:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019117371429122096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891562958842626049",
+              "start": 0,
+              "username": "chunrihuijin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019117371429122096",
+        "in_reply_to_user_id": "1891562958842626049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018933026483560937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunrihuijin 带束腰我腰好酸痛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018933015708405760"
+          ]
+        },
+        "author_id": "1891562958842626049",
+        "conversation_id": "2018933026483560937",
+        "created_at": "2026-02-04T06:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018933026483560937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qR9OjT8D8u",
+              "end": 43,
+              "expanded_url": "https://x.com/chunrihuijin/status/2018933026483560937/photo/1",
+              "media_key": "3_2018933015708405760",
+              "start": 20,
+              "url": "https://t.co/qR9OjT8D8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018933026483560937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 80975,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 146,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大束腰真的有用吗我感觉快呼吸不过来了 https://t.co/qR9OjT8D8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 52,
+          "like_count": 6430,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 246
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T18:58:56.000Z",
+        "description": "🚪520，纯绿，私信除了过门不回，一直闲聊的拉黑，女生除外",
+        "id": "1891562958842626049",
+        "name": "当小猪坏了",
+        "pinned_tweet_id": "1900566746156933432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015133696966492160/T2jCHHEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 214,
+          "like_count": 6004,
+          "listed_count": 7,
+          "media_count": 169,
+          "tweet_count": 3283
+        },
+        "username": "chunrihuijin",
+        "verified": false
+      }
+    ]
+  }
+}

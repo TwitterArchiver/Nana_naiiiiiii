@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Playboi Carti",
+          "id": "1029813572128231425",
+          "name": "Playboi Carti"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Playboi Carti",
+          "id": "1029813572128231425",
+          "name": "Playboi Carti"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Playboi Carti",
+          "id": "1029813572128231425",
+          "name": "Playboi Carti"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1999428157523591506",
+    "created_at": "2025-12-12T13:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T14:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999469370926612691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999469370926612691",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999428157523591506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 playboi carti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_1999428147742117889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79lTpQWEAEoslH.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1754,
+        "media_key": "3_1999428147750621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79lTpSX0AA8uR9.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Playboi Carti",
+              "id": "1029813572128231425",
+              "name": "Playboi Carti"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Playboi Carti",
+              "id": "1029813572128231425",
+              "name": "Playboi Carti"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Playboi Carti",
+              "id": "1029813572128231425",
+              "name": "Playboi Carti"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1999428157523591506",
+        "created_at": "2025-12-12T13:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999469370926612691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999469370926612691",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999428157523591506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 playboi carti"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999428147742117889",
+            "3_1999428147750621184"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "1999428157523591506",
+        "created_at": "2025-12-12T10:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999428157523591506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vp1Mx3SsXB",
+              "end": 52,
+              "expanded_url": "https://x.com/cuichenghao7/status/1999428157523591506/photo/1",
+              "media_key": "3_1999428147742117889",
+              "start": 29,
+              "url": "https://t.co/vp1Mx3SsXB"
+            },
+            {
+              "display_url": "pic.x.com/vp1Mx3SsXB",
+              "end": 52,
+              "expanded_url": "https://x.com/cuichenghao7/status/1999428157523591506/photo/1",
+              "media_key": "3_1999428147750621184",
+              "start": 29,
+              "url": "https://t.co/vp1Mx3SsXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999428157523591506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 25469,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 119,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "会议中，金正恩同志反复做出3的手势，你们知道什么意思吗？ https://t.co/vp1Mx3SsXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 1329,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 37
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65041,
+          "following_count": 533,
+          "like_count": 2880,
+          "listed_count": 213,
+          "media_count": 1259,
+          "tweet_count": 1376
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

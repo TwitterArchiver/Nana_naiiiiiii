@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2038501264804499894",
+    "created_at": "2026-03-30T06:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038501264804499894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1992962779087826944",
+          "start": 3,
+          "username": "dbdbsjbsja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038501264804499894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038441394004509153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dbdbsjbsja: msk我操你妈，增城区我操你妈，霖酱的原生家庭我操你妈，支那国的教育我操你妈，支国我操你妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2038501264804499894",
+        "created_at": "2026-03-30T06:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038501264804499894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992962779087826944",
+              "start": 3,
+              "username": "dbdbsjbsja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038501264804499894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038441394004509153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dbdbsjbsja: msk我操你妈，增城区我操你妈，霖酱的原生家庭我操你妈，支那国的教育我操你妈，支国我操你妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992962779087826944",
+        "conversation_id": "2038441394004509153",
+        "created_at": "2026-03-30T02:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T03:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038441394004509153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038441394004509153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 570,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "msk我操你妈，增城区我操你妈，霖酱的原生家庭我操你妈，支那国的教育我操你妈，支国我操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 142,
+          "like_count": 14197,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 806
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T14:27:38.000Z",
+        "description": "08年这里是地狱酱的空间喵/地狱酱喜欢和大家交朋友💘~情绪不稳定重抑郁焦虑割手手🍥pink小鬼别来沾边😾🤘永远的神是霖酱！！！@rinii165892💗💗我的佛@rinii165892❤️‍🔥❤️‍🔥最好的朋友@rinii165892o(*≧▽≦)ツ现生最好的朋友@m1sakaNetwork🩷🩷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "rinii165892"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "rinii165892"
+              },
+              {
+                "end": 118,
+                "start": 105,
+                "username": "rinii165892o"
+              },
+              {
+                "end": 146,
+                "start": 132,
+                "username": "m1sakaNetwork"
+              }
+            ]
+          }
+        },
+        "id": "1992962779087826944",
+        "location": " Japan",
+        "name": "宇宙级病娇地狱酱喵💗💗",
+        "pinned_tweet_id": "2038428274049605907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022001387928977408/VRDMCYRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 55,
+          "like_count": 3430,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 530
+        },
+        "username": "dbdbsjbsja",
+        "verified": false
+      }
+    ]
+  }
+}

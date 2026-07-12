@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028468745753268224"
+      ],
+      "media_source_tweet_id": [
+        "2028468748907356526"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2028849289074754035",
+    "created_at": "2026-03-03T15:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T16:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028849289074754035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916543476231208960",
+          "start": 3,
+          "username": "fayoubaike001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKAOyjn6RH",
+          "end": 52,
+          "expanded_url": "https://x.com/fayoubaike001/status/2028468748907356526/photo/1",
+          "media_key": "3_2028468745753268224",
+          "start": 29,
+          "url": "https://t.co/cKAOyjn6RH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028849289074754035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028468748907356526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike001: 全民欧地 人类崛起 https://t.co/cKAOyjn6RH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2028468745753268224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaRk7SbEAAwn8X.jpg",
+        "width": 1604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028468745753268224"
+          ],
+          "media_source_tweet_id": [
+            "2028468748907356526"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2028849289074754035",
+        "created_at": "2026-03-03T15:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T16:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028849289074754035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916543476231208960",
+              "start": 3,
+              "username": "fayoubaike001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKAOyjn6RH",
+              "end": 52,
+              "expanded_url": "https://x.com/fayoubaike001/status/2028468748907356526/photo/1",
+              "media_key": "3_2028468745753268224",
+              "start": 29,
+              "url": "https://t.co/cKAOyjn6RH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028849289074754035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028468748907356526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike001: 全民欧地 人类崛起 https://t.co/cKAOyjn6RH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028468745753268224"
+          ]
+        },
+        "author_id": "1916543476231208960",
+        "conversation_id": "2028468748907356526",
+        "created_at": "2026-03-02T13:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T14:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028468748907356526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKAOyjn6RH",
+              "end": 33,
+              "expanded_url": "https://x.com/fayoubaike001/status/2028468748907356526/photo/1",
+              "media_key": "3_2028468745753268224",
+              "start": 10,
+              "url": "https://t.co/cKAOyjn6RH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028468748907356526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3898,
+          "like_count": 125,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "全民欧地 人类崛起 https://t.co/cKAOyjn6RH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "東京 渋谷区",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 78,
+          "like_count": 9895,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 381
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 160,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 142
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

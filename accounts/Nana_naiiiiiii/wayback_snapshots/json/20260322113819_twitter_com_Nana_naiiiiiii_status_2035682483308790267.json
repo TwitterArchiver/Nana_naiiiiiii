@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2035417893207519327",
+    "created_at": "2026-03-22T11:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035682483308790267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035682483308790267",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035417893207519327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 萌神降临"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035417879705972736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9BxwlacAARwua.jpg",
+        "width": 1308
+      },
+      {
+        "height": 1718,
+        "media_key": "3_2035417274665123840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9BOiobwAAjgVy.jpg",
+        "width": 1455
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035417274677661696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9BOirbEAAgkRa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2035417893207519327",
+        "created_at": "2026-03-22T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035682483308790267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035682483308790267",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035417893207519327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 萌神降临"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035417879705972736",
+            "3_2035417274665123840",
+            "3_2035417274677661696"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2035417893207519327",
+        "created_at": "2026-03-21T18:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:04:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035417307581931603",
+          "2035417893207519327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR3PC8LOcY",
+              "end": 31,
+              "expanded_url": "https://x.com/MianXue525/status/2035417893207519327/photo/1",
+              "media_key": "3_2035417879705972736",
+              "start": 8,
+              "url": "https://t.co/oR3PC8LOcY"
+            },
+            {
+              "display_url": "pic.x.com/oR3PC8LOcY",
+              "end": 31,
+              "expanded_url": "https://x.com/MianXue525/status/2035417893207519327/photo/1",
+              "media_key": "3_2035417274665123840",
+              "start": 8,
+              "url": "https://t.co/oR3PC8LOcY"
+            },
+            {
+              "display_url": "pic.x.com/oR3PC8LOcY",
+              "end": 31,
+              "expanded_url": "https://x.com/MianXue525/status/2035417893207519327/photo/1",
+              "media_key": "3_2035417274677661696",
+              "start": 8,
+              "url": "https://t.co/oR3PC8LOcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035417893207519327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临罗森～ https://t.co/oR3PC8LOcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 121,
+          "like_count": 12561,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 656
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 271,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

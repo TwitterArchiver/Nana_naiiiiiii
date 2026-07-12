@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2034140115740815480",
+    "created_at": "2026-03-18T05:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T06:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034140115740815480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034140115740815480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033740228473851929",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 感觉像被msk的肛门糊一脸。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2034140115740815480",
+        "created_at": "2026-03-18T05:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T06:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034140115740815480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034140115740815480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033740228473851929",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 感觉像被msk的肛门糊一脸。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2033740228473851929",
+        "created_at": "2026-03-17T03:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033740228473851929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maigomaigohh/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/maigomaigohh/status/2033728342986526870",
+              "start": 15,
+              "url": "https://t.co/jPweQf1WXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033740228473851929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 138619,
+          "like_count": 1718,
+          "quote_count": 11,
+          "reply_count": 51,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033728342986526870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉像被msk的肛门糊一脸。 https://t.co/jPweQf1WXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我只想疯狂自残嗑药吸毒做爱",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 113,
+          "like_count": 11955,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 590
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP/KR ○ || タグ：#まのさば #ヨグソトースの庭 #NeedyGirlOverdose ||",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "まのさば"
+              },
+              {
+                "end": 38,
+                "start": 29,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 57,
+                "start": 39,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ@共犯者",
+        "pinned_tweet_id": "2032810215159316963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006152830395244545/iz0dS4_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28579,
+          "following_count": 3800,
+          "like_count": 12754,
+          "listed_count": 29,
+          "media_count": 4522,
+          "tweet_count": 31644
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}
