@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2078498561373937952",
+    "created_at": "2026-07-21T00:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079366909334897095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2073764220056059904",
+          "start": 0,
+          "username": "Ta1zzy9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079366909334897095",
+    "in_reply_to_user_id": "2073764220056059904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078498561373937952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1zzy9 骷髅兵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078498546089861120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhPalHaIAAlrhU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078498546039554048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhPak7agAA6SP3.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2078498561373937952",
+        "created_at": "2026-07-21T00:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079366909334897095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2073764220056059904",
+              "start": 0,
+              "username": "Ta1zzy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079366909334897095",
+        "in_reply_to_user_id": "2073764220056059904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078498561373937952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1zzy9 骷髅兵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078498546089861120",
+            "3_2078498546039554048"
+          ]
+        },
+        "author_id": "2073764220056059904",
+        "conversation_id": "2078498561373937952",
+        "created_at": "2026-07-18T15:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078498561373937952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JIdoS0Uf3J",
+              "end": 25,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2078498561373937952/photo/1",
+              "media_key": "3_2078498546089861120",
+              "start": 2,
+              "url": "https://t.co/JIdoS0Uf3J"
+            },
+            {
+              "display_url": "pic.x.com/JIdoS0Uf3J",
+              "end": 25,
+              "expanded_url": "https://x.com/Ta1zzy9/status/2078498561373937952/photo/1",
+              "media_key": "3_2078498546039554048",
+              "start": 2,
+              "url": "https://t.co/JIdoS0Uf3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078498561373937952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 259,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👿 https://t.co/JIdoS0Uf3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 322,
+          "like_count": 22410,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1765
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T13:43:58.000Z",
+        "description": "第四世 不涉政治不吸毒 喜欢会回fo \n我只存在於我/华丽金属与emo\n提前巡回ing......",
+        "id": "2073764220056059904",
+        "name": "Ta1z9 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073765275468726272/rJcKIDWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 14,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Ta1zzy9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2077067595023585727",
+    "created_at": "2026-07-14T16:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077067595023585727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snu36055232/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/snu36055232/status/2019986490831319281",
+          "start": 19,
+          "url": "https://t.co/AKMvGT4GHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077067595023585727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019986490831319281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的假的 有人买我普瑞包装盒吗☝️🤓 https://t.co/AKMvGT4GHh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2077067595023585727",
+        "created_at": "2026-07-14T16:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077067595023585727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snu36055232/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/snu36055232/status/2019986490831319281",
+              "start": 19,
+              "url": "https://t.co/AKMvGT4GHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077067595023585727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019986490831319281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的假的 有人买我普瑞包装盒吗☝️🤓 https://t.co/AKMvGT4GHh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580605606414557184",
+        "conversation_id": "2019839567348785641",
+        "created_at": "2026-02-07T04:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T05:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019986490831319281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964331185590718464",
+              "start": 0,
+              "username": "breakcoreWTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019986490831319281",
+        "in_reply_to_user_id": "1964331185590718464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1236,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019839567348785641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@breakcoreWTF 他们也就只知道这种药，然后网上买一大堆盒子包装，装成是自己磕的，找存在感，找流量感，觉大部分都是引流涨粉丝的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1506,
+          "following_count": 316,
+          "like_count": 21741,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1683
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T17:05:47.000Z",
+        "description": "爱看男同。我是/垃圾/恶臭/妓女/烂逼/蛆虫/母畜/无脑/轮奸/多人/强奸/烂肉/m/",
+        "id": "1580605606414557184",
+        "location": "堕落母猪",
+        "name": "烂逼妓女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071507235637710848/virR7bgk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 10,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "snu36055232",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2076302280157179964",
+    "created_at": "2026-07-12T13:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076302280157179964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "2058988352054218752",
+          "start": 20,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076302280157179964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要笑疯 这个人鼻吸给自己辣得哗哗流眼泪@Ta1z19"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2076302280157179964",
+        "created_at": "2026-07-12T13:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076302280157179964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "2058988352054218752",
+              "start": 20,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076302280157179964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要笑疯 这个人鼻吸给自己辣得哗哗流眼泪@Ta1z19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1473,
+          "following_count": 312,
+          "like_count": 21227,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 1644
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 双相 不涉政不吸毒喜欢会回fo 叫我太子。药理学爱好者/化学爱好者/eml与华丽金属/我只存在於我 睡在清醒梦",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 72,
+          "like_count": 1826,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 868
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

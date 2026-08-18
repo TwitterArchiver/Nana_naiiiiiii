@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2079983704307626177",
+    "created_at": "2026-07-22T17:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079983704307626177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_jack_zhao/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/_jack_zhao/status/1856848572941312362",
+          "start": 11,
+          "url": "https://t.co/Q82fBhPMpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079983704307626177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856848572941312362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永远美萌的一只甜兔酱 https://t.co/Q82fBhPMpc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1856848565647413249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcTZ7rUbkAE43I1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2079983704307626177",
+        "created_at": "2026-07-22T17:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079983704307626177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_jack_zhao/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/_jack_zhao/status/1856848572941312362",
+              "start": 11,
+              "url": "https://t.co/Q82fBhPMpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079983704307626177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856848572941312362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远美萌的一只甜兔酱 https://t.co/Q82fBhPMpc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856848565647413249"
+          ]
+        },
+        "author_id": "1218831437865963520",
+        "conversation_id": "1856848572941312362",
+        "created_at": "2024-11-13T23:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T00:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856848572941312362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZA4UstNUNZ",
+              "end": 38,
+              "expanded_url": "https://x.com/_jack_zhao/status/1856848572941312362/photo/1",
+              "media_key": "3_1856848565647413249",
+              "start": 15,
+              "url": "https://t.co/ZA4UstNUNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856848572941312362",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 633,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I hate working https://t.co/ZA4UstNUNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "我看到那天使在我楼下\n喊着我的名字啊\n让我跳下去 去找他\n带着我离开了这个家",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 329,
+          "like_count": 22859,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-19T09:44:04.000Z",
+        "description": "",
+        "id": "1218831437865963520",
+        "location": "🚪999",
+        "name": "Psychocandy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708657661456297984/KxNF-dDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 579,
+          "like_count": 18658,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 4405
+        },
+        "url": "",
+        "username": "_jack_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2081991841210331387",
+    "created_at": "2026-07-28T06:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081991841210331387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/peaceful1chaos…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/peaceful1chaos/status/2081991528189419556",
+          "start": 6,
+          "url": "https://t.co/8b966zAZAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081991841210331387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081991528189419556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈妈来了 https://t.co/8b966zAZAE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2081991841210331387",
+        "created_at": "2026-07-28T06:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081991841210331387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/peaceful1chaos…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/peaceful1chaos/status/2081991528189419556",
+              "start": 6,
+              "url": "https://t.co/8b966zAZAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081991841210331387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081991528189419556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈妈来了 https://t.co/8b966zAZAE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773390004666130432",
+        "conversation_id": "2081991528189419556",
+        "created_at": "2026-07-28T06:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081991528189419556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081991528189419556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我忘记了 我刚才把私信打开 你们可以私信我了 ip五块钱 先看置顶 私信只回🚪支付宝口令🧧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 330,
+          "like_count": 24447,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 1864
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T16:42:01.000Z",
+        "description": "vx好友位\n🚪88（不开放朋友圈\n🚪188（开放朋友圈\n解锁无限畅聊🚪388",
+        "id": "1773390004666130432",
+        "name": "eyeholes",
+        "pinned_tweet_id": "2081589910331654273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080608514825957376/DUmrMxGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 30,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "peaceful1chaos",
+        "verified": false
+      }
+    ]
+  }
+}

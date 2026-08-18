@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2078951864981401871",
+    "created_at": "2026-07-19T21:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T22:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078951864981401871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558346182316896256",
+          "start": 3,
+          "username": "hoxer15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078951864981401871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078827724303724559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoxer15: 不敢谈。怕对方丑，怕对方觉得我丑，怕对方比我还丑，怕对方比我丑还嫌我丑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2078951864981401871",
+        "created_at": "2026-07-19T21:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T22:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078951864981401871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558346182316896256",
+              "start": 3,
+              "username": "hoxer15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078951864981401871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078827724303724559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoxer15: 不敢谈。怕对方丑，怕对方觉得我丑，怕对方比我还丑，怕对方比我丑还嫌我丑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558346182316896256",
+        "conversation_id": "2078827724303724559",
+        "created_at": "2026-07-19T13:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078827724303724559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078827724303724559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16449,
+          "like_count": 369,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "不敢谈。怕对方丑，怕对方觉得我丑，怕对方比我还丑，怕对方比我丑还嫌我丑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "淡推\n我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 324,
+          "like_count": 21963,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T06:54:23.000Z",
+        "description": "我叫小物/07/4i /ENTP/摩羯/没门/不交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link",
+                "end": 23,
+                "expanded_url": "https://ngl.link/",
+                "start": 0,
+                "url": "https://t.co/K4hFwJcLab"
+              }
+            ]
+          }
+        },
+        "id": "1558346182316896256",
+        "location": "就那个哪呗",
+        "name": "人类是我的兼职",
+        "pinned_tweet_id": "2075965169973559741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067447429633585153/2Ju5yaaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 208,
+          "like_count": 26711,
+          "listed_count": 0,
+          "media_count": 671,
+          "tweet_count": 14526
+        },
+        "url": "https://t.co/K4hFwJcLab",
+        "username": "hoxer15",
+        "verified": false
+      }
+    ]
+  }
+}

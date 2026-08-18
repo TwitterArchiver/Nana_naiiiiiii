@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080969280548720640"
+      ],
+      "media_source_tweet_id": [
+        "2080969289079849043"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2080982049331249177",
+    "created_at": "2026-07-25T11:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080982049331249177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2080966704356802560",
+          "start": 3,
+          "username": "Pharmakon14138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1K9uMhyUJ7",
+          "end": 97,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2080969289079849043/photo/1",
+          "media_key": "3_2080969280548720640",
+          "start": 74,
+          "url": "https://t.co/1K9uMhyUJ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080982049331249177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080969289079849043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pharmakon14138: 我被击落了 老爷们 未处理订单一定来找我 回了一天的消息发现都没发出去😭😭\n转世的事儿晚点再说 心是真的累 https://t.co/1K9uMhyUJ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080969280548720640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEWiQObUAA7s8Q.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080969280548720640"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2080969289079849043",
+        "created_at": "2026-07-25T10:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080969289079849043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1K9uMhyUJ7",
+              "end": 77,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2080969289079849043/photo/1",
+              "media_key": "3_2080969280548720640",
+              "start": 54,
+              "url": "https://t.co/1K9uMhyUJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080969289079849043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我被击落了 老爷们 未处理订单一定来找我 回了一天的消息发现都没发出去😭😭\n转世的事儿晚点再说 心是真的累 https://t.co/1K9uMhyUJ7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080969280548720640"
+          ],
+          "media_source_tweet_id": [
+            "2080969289079849043"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2080982049331249177",
+        "created_at": "2026-07-25T11:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080982049331249177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2080966704356802560",
+              "start": 3,
+              "username": "Pharmakon14138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1K9uMhyUJ7",
+              "end": 97,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2080969289079849043/photo/1",
+              "media_key": "3_2080969280548720640",
+              "start": 74,
+              "url": "https://t.co/1K9uMhyUJ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982049331249177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080969289079849043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pharmakon14138: 我被击落了 老爷们 未处理订单一定来找我 回了一天的消息发现都没发出去😭😭\n转世的事儿晚点再说 心是真的累 https://t.co/1K9uMhyUJ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 324,
+          "like_count": 23548,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

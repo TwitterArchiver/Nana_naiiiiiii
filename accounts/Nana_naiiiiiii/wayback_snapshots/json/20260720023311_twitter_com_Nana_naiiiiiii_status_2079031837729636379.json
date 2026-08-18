@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078395078163189760"
+      ],
+      "media_source_tweet_id": [
+        "2078395087881486723"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2079031837729636379",
+    "created_at": "2026-07-20T02:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079031837729636379"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "drugtwt"
+        },
+        {
+          "end": 63,
+          "start": 54,
+          "tag": "drugstwt"
+        },
+        {
+          "end": 72,
+          "start": 64,
+          "tag": "coketwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1743461548251623424",
+          "start": 3,
+          "username": "tokyoxai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ptl5jwT8Ij",
+          "end": 96,
+          "expanded_url": "https://x.com/tokyoxai/status/2078395087881486723/photo/1",
+          "media_key": "3_2078395078163189760",
+          "start": 73,
+          "url": "https://t.co/Ptl5jwT8Ij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079031837729636379",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078395087881486723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokyoxai: alguém acordado tecando ainda? #drugtwt #drugstwt #coketwt https://t.co/Ptl5jwT8Ij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3826,
+        "media_key": "3_2078395078163189760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfxT9DWUAA_LWa.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078395078163189760"
+          ]
+        },
+        "author_id": "1743461548251623424",
+        "conversation_id": "2078395087881486723",
+        "created_at": "2026-07-18T08:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078395087881486723"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 31,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "drugstwt"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "coketwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ptl5jwT8Ij",
+              "end": 82,
+              "expanded_url": "https://x.com/tokyoxai/status/2078395087881486723/photo/1",
+              "media_key": "3_2078395078163189760",
+              "start": 59,
+              "url": "https://t.co/Ptl5jwT8Ij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078395087881486723",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3241,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "alguém acordado tecando ainda? #drugtwt #drugstwt #coketwt https://t.co/Ptl5jwT8Ij"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078395078163189760"
+          ],
+          "media_source_tweet_id": [
+            "2078395087881486723"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2079031837729636379",
+        "created_at": "2026-07-20T02:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079031837729636379"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 63,
+              "start": 54,
+              "tag": "drugstwt"
+            },
+            {
+              "end": 72,
+              "start": 64,
+              "tag": "coketwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1743461548251623424",
+              "start": 3,
+              "username": "tokyoxai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ptl5jwT8Ij",
+              "end": 96,
+              "expanded_url": "https://x.com/tokyoxai/status/2078395087881486723/photo/1",
+              "media_key": "3_2078395078163189760",
+              "start": 73,
+              "url": "https://t.co/Ptl5jwT8Ij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079031837729636379",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078395087881486723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokyoxai: alguém acordado tecando ainda? #drugtwt #drugstwt #coketwt https://t.co/Ptl5jwT8Ij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "淡推\n我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 324,
+          "like_count": 22183,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 1748
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T02:36:53.000Z",
+        "description": "drugs stuff\n\n#drugtwt \n#coketwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "coketwt"
+              }
+            ]
+          }
+        },
+        "id": "1743461548251623424",
+        "name": "ninilover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078391904945819648/YuuZHa3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 24,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "tokyoxai",
+        "verified": false
+      }
+    ]
+  }
+}

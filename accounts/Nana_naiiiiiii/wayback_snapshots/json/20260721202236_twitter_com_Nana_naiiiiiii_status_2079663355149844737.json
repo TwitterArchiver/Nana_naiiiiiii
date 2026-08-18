@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2079469651034325152",
+    "created_at": "2026-07-21T20:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T21:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079663355149844737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916958202903547904",
+          "start": 0,
+          "username": "JennCorbet15217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079663355149844737",
+    "in_reply_to_user_id": "1916958202903547904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079661101663527410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JennCorbet15217 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2079469651034325152",
+        "created_at": "2026-07-21T20:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079663355149844737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916958202903547904",
+              "start": 0,
+              "username": "JennCorbet15217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079663355149844737",
+        "in_reply_to_user_id": "1916958202903547904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079661101663527410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JennCorbet15217 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916958202903547904",
+        "conversation_id": "2079469651034325152",
+        "created_at": "2026-07-21T20:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T21:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079661101663527410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079661101663527410",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079469651034325152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 万一是好女孩呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我看到那天使在我楼下\n喊着我的名字啊\n让我跳下去 去找他\n带着我离开了这个家",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 325,
+          "like_count": 22606,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1768
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T20:50:35.000Z",
+        "description": "卧槽尼玛我就是一个热爱音乐的孩子 非要这样对我吗",
+        "id": "1916958202903547904",
+        "name": "我不想说太多因为我口渴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066238445463515136/wApPIUbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 45,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "JennCorbet15217",
+        "verified": false
+      }
+    ]
+  }
+}

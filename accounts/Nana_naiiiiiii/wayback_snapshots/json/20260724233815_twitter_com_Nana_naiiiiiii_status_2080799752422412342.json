@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2080595550332964951",
+    "created_at": "2026-07-24T23:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T00:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080799752422412342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2033892007937249284",
+          "start": 0,
+          "username": "Overdose_Aether"
+        },
+        {
+          "end": 31,
+          "id": "1518404201168007168",
+          "start": 17,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080799752422412342",
+    "in_reply_to_user_id": "2033892007937249284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080720792153997594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_Aether @godspeedyou50 这个是最重要的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2080595550332964951",
+        "created_at": "2026-07-24T23:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080799752422412342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2033892007937249284",
+              "start": 0,
+              "username": "Overdose_Aether"
+            },
+            {
+              "end": 31,
+              "id": "1518404201168007168",
+              "start": 17,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080799752422412342",
+        "in_reply_to_user_id": "2033892007937249284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080720792153997594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_Aether @godspeedyou50 这个是最重要的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033892007937249284",
+        "conversation_id": "2080595550332964951",
+        "created_at": "2026-07-24T18:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T19:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080720792153997594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 30,
+              "id": "1518404201168007168",
+              "start": 16,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080720792153997594",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080595550332964951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @godspeedyou50 这张卡也是一部分吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 324,
+          "like_count": 23343,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1789
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T13:04:15.000Z",
+        "description": "小糖铺子，分享好吃的糖🍬 tg分享频道https://t.co/oEbYzOtKnL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/AetherLAB01",
+                "end": 42,
+                "expanded_url": "https://t.me/AetherLAB01",
+                "start": 19,
+                "url": "https://t.co/oEbYzOtKnL"
+              }
+            ]
+          }
+        },
+        "id": "2033892007937249284",
+        "location": "Carina",
+        "name": "⚛️Aether 🅻🅰🅱🍬",
+        "pinned_tweet_id": "2079910717755675083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070200170030215168/CGg-EHDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 72,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "Overdose_Aether",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n狐朋@Nonentity_xxx17 狗友@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Nonentity_xxx17"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJT3r"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 634,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/AdoFGQJT3r",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

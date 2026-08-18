@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078860463840911360",
+        "3_2078860498083225600",
+        "3_2078860539011252225"
+      ],
+      "media_source_tweet_id": [
+        "2080868896332980511",
+        "2080868896332980511",
+        "2080868896332980511"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2080930671841939507",
+    "created_at": "2026-07-25T08:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080930671841939507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1421920101968797699",
+          "start": 3,
+          "username": "earlykpopjpop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BSBuurx8Pi",
+          "end": 78,
+          "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+          "media_key": "3_2078860463840911360",
+          "start": 55,
+          "url": "https://t.co/BSBuurx8Pi"
+        },
+        {
+          "display_url": "pic.x.com/BSBuurx8Pi",
+          "end": 78,
+          "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+          "media_key": "3_2078860498083225600",
+          "start": 55,
+          "url": "https://t.co/BSBuurx8Pi"
+        },
+        {
+          "display_url": "pic.x.com/BSBuurx8Pi",
+          "end": 78,
+          "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+          "media_key": "3_2078860539011252225",
+          "start": 55,
+          "url": "https://t.co/BSBuurx8Pi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080930671841939507",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080868896332980511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @earlykpopjpop: POiSON GiRL FRiEND - Love Me (1994) https://t.co/BSBuurx8Pi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2078860463840911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmYk9zXYAAUjcv.png",
+        "width": 600
+      },
+      {
+        "height": 599,
+        "media_key": "3_2078860498083225600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmYm9XXoAAl7JB.png",
+        "width": 588
+      },
+      {
+        "height": 599,
+        "media_key": "3_2078860539011252225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmYpV1XwAE7fxm.png",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078860463840911360",
+            "3_2078860498083225600",
+            "3_2078860539011252225"
+          ]
+        },
+        "author_id": "1421920101968797699",
+        "conversation_id": "2080868896332980511",
+        "created_at": "2026-07-25T04:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080868896332980511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 59,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860463840911360",
+              "start": 36,
+              "url": "https://t.co/BSBuurx8Pi"
+            },
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 59,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860498083225600",
+              "start": 36,
+              "url": "https://t.co/BSBuurx8Pi"
+            },
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 59,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860539011252225",
+              "start": 36,
+              "url": "https://t.co/BSBuurx8Pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080868896332980511",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3230,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "POiSON GiRL FRiEND - Love Me (1994) https://t.co/BSBuurx8Pi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078860463840911360",
+            "3_2078860498083225600",
+            "3_2078860539011252225"
+          ],
+          "media_source_tweet_id": [
+            "2080868896332980511",
+            "2080868896332980511",
+            "2080868896332980511"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2080930671841939507",
+        "created_at": "2026-07-25T08:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080930671841939507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1421920101968797699",
+              "start": 3,
+              "username": "earlykpopjpop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 78,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860463840911360",
+              "start": 55,
+              "url": "https://t.co/BSBuurx8Pi"
+            },
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 78,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860498083225600",
+              "start": 55,
+              "url": "https://t.co/BSBuurx8Pi"
+            },
+            {
+              "display_url": "pic.x.com/BSBuurx8Pi",
+              "end": 78,
+              "expanded_url": "https://x.com/earlykpopjpop/status/2080868896332980511/photo/1",
+              "media_key": "3_2078860539011252225",
+              "start": 55,
+              "url": "https://t.co/BSBuurx8Pi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080930671841939507",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080868896332980511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @earlykpopjpop: POiSON GiRL FRiEND - Love Me (1994) https://t.co/BSBuurx8Pi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 324,
+          "like_count": 23476,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T19:46:01.000Z",
+        "description": "old kpop and jpop videos and pictures",
+        "id": "1421920101968797699",
+        "location": "two admins | dm us requests ",
+        "name": "Old Kpop Jpop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510233948949037059/9h3VyHAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30511,
+          "following_count": 22,
+          "like_count": 1069,
+          "listed_count": 90,
+          "media_count": 2053,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "earlykpopjpop",
+        "verified": false
+      }
+    ]
+  }
+}

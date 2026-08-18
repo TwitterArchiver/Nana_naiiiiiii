@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2076345085030174982",
+    "created_at": "2026-07-14T15:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077048382934381029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733217384050384896",
+          "start": 0,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077048382934381029",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076381071592276281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_Paqu 对的对的完全嘴替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2076345085030174982",
+        "created_at": "2026-07-14T15:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077048382934381029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077048382934381029",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076381071592276281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 对的对的完全嘴替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2076345085030174982",
+        "created_at": "2026-07-12T18:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076381071592276281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076381071592276281",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076345085030174982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 超级好啊啊啊啊😭每次感觉很温柔 很有感情色彩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 317,
+          "like_count": 21619,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 1673
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 219,
+          "like_count": 1043,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

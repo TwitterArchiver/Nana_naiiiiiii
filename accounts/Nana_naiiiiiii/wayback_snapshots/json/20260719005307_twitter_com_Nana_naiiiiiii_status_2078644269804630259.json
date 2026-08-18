@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2078644269804630259",
+    "created_at": "2026-07-19T00:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T01:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078644269804630259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913397698490957824",
+          "start": 3,
+          "username": "77rxmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078644269804630259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455883999404208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2078644269804630259",
+        "created_at": "2026-07-19T00:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078644269804630259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913397698490957824",
+              "start": 3,
+              "username": "77rxmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078644269804630259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455883999404208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913397698490957824",
+        "conversation_id": "2078455883999404208",
+        "created_at": "2026-07-18T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455883999404208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455883999404208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 28588,
+          "like_count": 850,
+          "quote_count": 14,
+          "reply_count": 127,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "淡推\n我现在只想一直跟我的天使男孩待在一起然后直接退网",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "2077843519004352779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 320,
+          "like_count": 21870,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1710
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T01:02:23.000Z",
+        "description": "x",
+        "id": "1913397698490957824",
+        "location": "中国",
+        "name": "7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075225046457757696/fKg3IzQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 2,
+          "like_count": 480,
+          "listed_count": 10,
+          "media_count": 24,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "77rxmb",
+        "verified": false
+      }
+    ]
+  }
+}

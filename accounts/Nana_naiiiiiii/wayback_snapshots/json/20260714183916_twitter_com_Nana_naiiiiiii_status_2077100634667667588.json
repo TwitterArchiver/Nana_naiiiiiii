@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2077055236997566765",
+    "created_at": "2026-07-14T18:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077100634667667588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1793225958474096640",
+          "start": 0,
+          "username": "wtmdflnmlgb_cnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077100634667667588",
+    "in_reply_to_user_id": "1793225958474096640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077099364527514107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtmdflnmlgb_cnm 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2077055236997566765",
+        "created_at": "2026-07-14T18:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077100634667667588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1793225958474096640",
+              "start": 0,
+              "username": "wtmdflnmlgb_cnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077100634667667588",
+        "in_reply_to_user_id": "1793225958474096640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077099364527514107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtmdflnmlgb_cnm 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793225958474096640",
+        "conversation_id": "2077055236997566765",
+        "created_at": "2026-07-14T18:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077099364527514107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077099364527514107",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077055236997566765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 妈咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "奈奈\n戒割戒pr 愿早日过上健全b生活\n查成分回fo 小号@naiiiiiii_77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "naiiiiiii_77"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 316,
+          "like_count": 21788,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1693
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T10:22:50.000Z",
+        "description": "自娱自乐而已 并无任何意义",
+        "id": "1793225958474096640",
+        "name": "龙龙sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076357341952491520/ZCnkYqr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6361,
+          "following_count": 79,
+          "like_count": 383,
+          "listed_count": 10,
+          "media_count": 162,
+          "tweet_count": 628
+        },
+        "url": "",
+        "username": "wtmdflnmlgb_cnm",
+        "verified": false
+      }
+    ]
+  }
+}

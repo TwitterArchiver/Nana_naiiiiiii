@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1993150970705199108",
+    "conversation_id": "2082093345665593710",
+    "created_at": "2026-07-28T13:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082095529744543746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2076508802137149440",
+          "start": 0,
+          "username": "uuuUu18sage777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082095529744543746",
+    "in_reply_to_user_id": "2076508802137149440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082095448513507706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuuUu18sage777 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2082093345665593710",
+        "created_at": "2026-07-28T13:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082095529744543746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2076508802137149440",
+              "start": 0,
+              "username": "uuuUu18sage777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082095529744543746",
+        "in_reply_to_user_id": "2076508802137149440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082095448513507706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuuUu18sage777 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076508802137149440",
+        "conversation_id": "2082093345665593710",
+        "created_at": "2026-07-28T13:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082095448513507706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082095448513507706",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082093345665593710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 333,
+          "like_count": 24619,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 1872
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-13T03:28:58.000Z",
+        "description": "8teen 直女 mdd/cptsd/adhd/bulimia转限制 EN/简中 #shedtwt #tcc 新教徒待受洗 #moots #midwestemo 💉 #Mounjaro 10mg gw115lbs I BLOCK FREELY😋互fo请直fo🗣️i follow back 痛苦如影随形",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 41,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 54,
+                "start": 50,
+                "tag": "tcc"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "moots"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "midwestemo"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "tag": "Mounjaro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyu77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyu77",
+                "start": 0,
+                "url": "https://t.co/WNRIHx14RL"
+              }
+            ]
+          }
+        },
+        "id": "2076508802137149440",
+        "location": "Chicago, IL",
+        "name": "uu777🇺🇸dpna_irl",
+        "pinned_tweet_id": "2081819124473512071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076699309941424130/wmDPpwfk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 163,
+          "like_count": 2440,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/WNRIHx14RL",
+        "username": "uuuUu18sage777",
+        "verified": false
+      }
+    ]
+  }
+}

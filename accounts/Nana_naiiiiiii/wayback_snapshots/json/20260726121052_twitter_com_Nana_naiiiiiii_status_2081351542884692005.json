@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081270085193203712",
+        "3_2081270085193211904",
+        "3_2081270085201616896",
+        "3_2081270085201670144"
+      ],
+      "media_source_tweet_id": [
+        "2081270087999193255",
+        "2081270087999193255",
+        "2081270087999193255",
+        "2081270087999193255"
+      ]
+    },
+    "author_id": "1993150970705199108",
+    "conversation_id": "2081351542884692005",
+    "created_at": "2026-07-26T12:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081351542884692005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1708926527927193601",
+          "start": 3,
+          "username": "areyourecording"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4idnSnCJff",
+          "end": 44,
+          "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+          "media_key": "3_2081270085193203712",
+          "start": 21,
+          "url": "https://t.co/4idnSnCJff"
+        },
+        {
+          "display_url": "pic.x.com/4idnSnCJff",
+          "end": 44,
+          "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+          "media_key": "3_2081270085193211904",
+          "start": 21,
+          "url": "https://t.co/4idnSnCJff"
+        },
+        {
+          "display_url": "pic.x.com/4idnSnCJff",
+          "end": 44,
+          "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+          "media_key": "3_2081270085201616896",
+          "start": 21,
+          "url": "https://t.co/4idnSnCJff"
+        },
+        {
+          "display_url": "pic.x.com/4idnSnCJff",
+          "end": 44,
+          "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+          "media_key": "3_2081270085201670144",
+          "start": 21,
+          "url": "https://t.co/4idnSnCJff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081351542884692005",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081270087999193255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @areyourecording: https://t.co/4idnSnCJff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_2081270085193203712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIoHY2WgAAcSJ6.jpg",
+        "width": 1440
+      },
+      {
+        "height": 810,
+        "media_key": "3_2081270085193211904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIoHY2WoAArBGq.jpg",
+        "width": 1440
+      },
+      {
+        "height": 319,
+        "media_key": "3_2081270085201616896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIoHY4W4AAxYmf.jpg",
+        "width": 552
+      },
+      {
+        "height": 662,
+        "media_key": "3_2081270085201670144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIoHY4XsAAPpKl.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081270085193203712",
+            "3_2081270085193211904",
+            "3_2081270085201616896",
+            "3_2081270085201670144"
+          ]
+        },
+        "author_id": "1708926527927193601",
+        "conversation_id": "2081270087999193255",
+        "created_at": "2026-07-26T06:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081270087999193255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 23,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085193203712",
+              "start": 0,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 23,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085193211904",
+              "start": 0,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 23,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085201616896",
+              "start": 0,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 23,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085201670144",
+              "start": 0,
+              "url": "https://t.co/4idnSnCJff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081270087999193255",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 978,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4idnSnCJff"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081270085193203712",
+            "3_2081270085193211904",
+            "3_2081270085201616896",
+            "3_2081270085201670144"
+          ],
+          "media_source_tweet_id": [
+            "2081270087999193255",
+            "2081270087999193255",
+            "2081270087999193255",
+            "2081270087999193255"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2081351542884692005",
+        "created_at": "2026-07-26T12:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081351542884692005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1708926527927193601",
+              "start": 3,
+              "username": "areyourecording"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 44,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085193203712",
+              "start": 21,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 44,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085193211904",
+              "start": 21,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 44,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085201616896",
+              "start": 21,
+              "url": "https://t.co/4idnSnCJff"
+            },
+            {
+              "display_url": "pic.x.com/4idnSnCJff",
+              "end": 44,
+              "expanded_url": "https://x.com/areyourecording/status/2081270087999193255/photo/1",
+              "media_key": "3_2081270085201670144",
+              "start": 21,
+              "url": "https://t.co/4idnSnCJff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081351542884692005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081270087999193255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @areyourecording: https://t.co/4idnSnCJff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 324,
+          "like_count": 23738,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1804
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T19:26:58.000Z",
+        "description": "",
+        "id": "1708926527927193601",
+        "name": "ً",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063845318303666176/-JBEQqZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 58,
+          "like_count": 3469,
+          "listed_count": 5,
+          "media_count": 1082,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "areyourecording",
+        "verified": true
+      }
+    ]
+  }
+}
